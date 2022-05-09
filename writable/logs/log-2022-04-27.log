@@ -1,0 +1,660 @@
+<<<<<<< HEAD
+INFO - 2022-04-27 03:15:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 03:15:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 03:41:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 03:41:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 03:41:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 03:41:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 03:41:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 03:41:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 03:41:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 03:41:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 03:41:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 03:41:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 03:41:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 04:26:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 04:26:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 04:26:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 04:26:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 04:26:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 04:26:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 04:26:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 04:26:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 04:26:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 04:26:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 04:26:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 04:26:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 04:26:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 04:26:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 04:26:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 04:26:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 04:26:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 04:26:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 04:26:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 04:26:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 04:26:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 04:26:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 04:33:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 04:33:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 04:33:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 04:33:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 04:33:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 04:33:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 04:33:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 04:33:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 04:33:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 04:33:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 04:33:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 04:35:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 04:35:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 04:35:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 04:35:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 04:35:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 04:55:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 05:00:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 05:00:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 05:00:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 05:00:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 05:00:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 05:00:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 05:00:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 05:00:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 05:00:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 05:00:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-04-27 05:00:59 --> Undefined variable: user
+#0 C:\Ampps\www\maintex\app\Views\suivi_equipement\releve_mesure.php(23): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\Ampps\\www\\ma...', 23, Array)
+#1 C:\Ampps\www\maintex\system\View\View.php(210): include('C:\\Ampps\\www\\ma...')
+#2 C:\Ampps\www\maintex\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\Ampps\www\maintex\system\Common.php(1089): CodeIgniter\View\View->render('suivi_equipemen...', Array, true)
+#4 C:\Ampps\www\maintex\app\Controllers\BaseController.php(299): view('suivi_equipemen...', Array)
+#5 C:\Ampps\www\maintex\app\Controllers\Suivi_equipement.php(22): App\Controllers\BaseController->load_view('suivi_equipemen...', Array)
+#6 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\suivi_equipement->releve_mesure()
+#7 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\suivi_equipement))
+#8 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2022-04-27 05:03:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 05:03:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 05:03:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 05:03:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 05:03:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 05:03:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 05:03:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 05:03:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 05:03:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 05:04:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-04-27 05:04:01 --> Invalid file: suivi_equipement/transfert_equipement.php
+#0 C:\Ampps\www\maintex\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('suivi_equipemen...')
+#1 C:\Ampps\www\maintex\system\Common.php(1089): CodeIgniter\View\View->render('suivi_equipemen...', Array, true)
+#2 C:\Ampps\www\maintex\app\Controllers\BaseController.php(299): view('suivi_equipemen...', Array)
+#3 C:\Ampps\www\maintex\app\Controllers\Suivi_equipement.php(30): App\Controllers\BaseController->load_view('suivi_equipemen...', Array)
+#4 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\suivi_equipement->transfert_equipement()
+#5 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\suivi_equipement))
+#6 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2022-04-27 05:04:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-04-27 05:04:03 --> Invalid file: suivi_equipement/transfert_component.php
+#0 C:\Ampps\www\maintex\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('suivi_equipemen...')
+#1 C:\Ampps\www\maintex\system\Common.php(1089): CodeIgniter\View\View->render('suivi_equipemen...', Array, true)
+#2 C:\Ampps\www\maintex\app\Controllers\BaseController.php(299): view('suivi_equipemen...', Array)
+#3 C:\Ampps\www\maintex\app\Controllers\Suivi_equipement.php(37): App\Controllers\BaseController->load_view('suivi_equipemen...', Array)
+#4 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\suivi_equipement->transfert_component()
+#5 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\suivi_equipement))
+#6 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2022-04-27 05:04:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-04-27 05:04:05 --> Undefined variable: user
+#0 C:\Ampps\www\maintex\app\Views\suivi_equipement\releve_mesure.php(23): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\Ampps\\www\\ma...', 23, Array)
+#1 C:\Ampps\www\maintex\system\View\View.php(210): include('C:\\Ampps\\www\\ma...')
+#2 C:\Ampps\www\maintex\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\Ampps\www\maintex\system\Common.php(1089): CodeIgniter\View\View->render('suivi_equipemen...', Array, true)
+#4 C:\Ampps\www\maintex\app\Controllers\BaseController.php(299): view('suivi_equipemen...', Array)
+#5 C:\Ampps\www\maintex\app\Controllers\Suivi_equipement.php(22): App\Controllers\BaseController->load_view('suivi_equipemen...', Array)
+#6 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\suivi_equipement->releve_mesure()
+#7 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\suivi_equipement))
+#8 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2022-04-27 05:05:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-04-27 05:05:29 --> Undefined variable: user
+#0 C:\Ampps\www\maintex\app\Views\suivi_equipement\releve_mesure.php(23): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\Ampps\\www\\ma...', 23, Array)
+#1 C:\Ampps\www\maintex\system\View\View.php(210): include('C:\\Ampps\\www\\ma...')
+#2 C:\Ampps\www\maintex\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\Ampps\www\maintex\system\Common.php(1089): CodeIgniter\View\View->render('suivi_equipemen...', Array, true)
+#4 C:\Ampps\www\maintex\app\Controllers\BaseController.php(299): view('suivi_equipemen...', Array)
+#5 C:\Ampps\www\maintex\app\Controllers\Suivi_equipement.php(22): App\Controllers\BaseController->load_view('suivi_equipemen...', Array)
+#6 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\suivi_equipement->releve_mesure()
+#7 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\suivi_equipement))
+#8 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2022-04-27 05:08:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-04-27 05:08:33 --> Undefined variable: user
+#0 C:\Ampps\www\maintex\app\Views\suivi_equipement\releve_mesure.php(23): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\Ampps\\www\\ma...', 23, Array)
+#1 C:\Ampps\www\maintex\system\View\View.php(210): include('C:\\Ampps\\www\\ma...')
+#2 C:\Ampps\www\maintex\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\Ampps\www\maintex\system\Common.php(1089): CodeIgniter\View\View->render('suivi_equipemen...', Array, true)
+#4 C:\Ampps\www\maintex\app\Controllers\BaseController.php(299): view('suivi_equipemen...', Array)
+#5 C:\Ampps\www\maintex\app\Controllers\Suivi_equipement.php(22): App\Controllers\BaseController->load_view('suivi_equipemen...', Array)
+#6 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Suivi_equipement->releve_mesure()
+#7 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Suivi_equipement))
+#8 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2022-04-27 05:10:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 05:12:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 05:12:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 05:24:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-04-27 05:24:53 --> Undefined property: CodeIgniter\View\View::$lang
+#0 C:\Ampps\www\maintex\app\Views\suivi_equipement\releve_mesure.php(80): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\Ampps\\www\\ma...', 80, Array)
+#1 C:\Ampps\www\maintex\system\View\View.php(210): include('C:\\Ampps\\www\\ma...')
+#2 C:\Ampps\www\maintex\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\Ampps\www\maintex\system\Common.php(1089): CodeIgniter\View\View->render('suivi_equipemen...', Array, true)
+#4 C:\Ampps\www\maintex\app\Controllers\BaseController.php(299): view('suivi_equipemen...', Array)
+#5 C:\Ampps\www\maintex\app\Controllers\Suivi_equipement.php(22): App\Controllers\BaseController->load_view('suivi_equipemen...', Array)
+#6 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Suivi_equipement->releve_mesure()
+#7 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Suivi_equipement))
+#8 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2022-04-27 05:30:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 05:31:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 05:37:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 05:39:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 05:40:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 05:41:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 05:52:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 06:02:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 06:04:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 06:05:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 06:06:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 06:37:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 06:37:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 06:38:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 06:39:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 06:39:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 06:39:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 06:41:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 06:42:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 06:42:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 06:44:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-04-27 06:44:33 --> Undefined property: CodeIgniter\View\View::$lang
+#0 C:\Ampps\www\maintex\app\Views\suivi_equipement\releve_mesure.php(89): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\Ampps\\www\\ma...', 89, Array)
+#1 C:\Ampps\www\maintex\system\View\View.php(210): include('C:\\Ampps\\www\\ma...')
+#2 C:\Ampps\www\maintex\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\Ampps\www\maintex\system\Common.php(1089): CodeIgniter\View\View->render('suivi_equipemen...', Array, true)
+#4 C:\Ampps\www\maintex\app\Controllers\BaseController.php(299): view('suivi_equipemen...', Array)
+#5 C:\Ampps\www\maintex\app\Controllers\Suivi_equipement.php(22): App\Controllers\BaseController->load_view('suivi_equipemen...', Array)
+#6 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Suivi_equipement->releve_mesure()
+#7 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Suivi_equipement))
+#8 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2022-04-27 06:45:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-04-27 06:45:19 --> Undefined variable: date_debut
+#0 C:\Ampps\www\maintex\app\Views\suivi_equipement\releve_mesure.php(152): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\Ampps\\www\\ma...', 152, Array)
+#1 C:\Ampps\www\maintex\system\View\View.php(210): include('C:\\Ampps\\www\\ma...')
+#2 C:\Ampps\www\maintex\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\Ampps\www\maintex\system\Common.php(1089): CodeIgniter\View\View->render('suivi_equipemen...', Array, true)
+#4 C:\Ampps\www\maintex\app\Controllers\BaseController.php(299): view('suivi_equipemen...', Array)
+#5 C:\Ampps\www\maintex\app\Controllers\Suivi_equipement.php(22): App\Controllers\BaseController->load_view('suivi_equipemen...', Array)
+#6 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Suivi_equipement->releve_mesure()
+#7 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Suivi_equipement))
+#8 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2022-04-27 06:49:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-04-27 06:49:52 --> Undefined property: App\Controllers\Suivi_equipement::$format_date
+#0 C:\Ampps\www\maintex\app\Controllers\Suivi_equipement.php(21): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\Ampps\\www\\ma...', 21, Array)
+#1 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Suivi_equipement->releve_mesure()
+#2 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Suivi_equipement))
+#3 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2022-04-27 07:30:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-04-27 07:30:10 --> Undefined property: stdClass::$format_date
+#0 C:\Ampps\www\maintex\app\Controllers\Suivi_equipement.php(22): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\Ampps\\www\\ma...', 22, Array)
+#1 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Suivi_equipement->releve_mesure()
+#2 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Suivi_equipement))
+#3 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2022-04-27 07:30:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-04-27 07:30:23 --> Undefined property: stdClass::$format_date
+#0 C:\Ampps\www\maintex\app\Controllers\Suivi_equipement.php(22): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\Ampps\\www\\ma...', 22, Array)
+#1 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Suivi_equipement->releve_mesure()
+#2 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Suivi_equipement))
+#3 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2022-04-27 07:31:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-04-27 07:31:47 --> Object of class stdClass could not be converted to string
+#0 C:\Ampps\www\maintex\app\Controllers\Suivi_equipement.php(23): CodeIgniter\Debug\Exceptions->errorHandler(4096, 'Object of class...', 'C:\\Ampps\\www\\ma...', 23, Array)
+#1 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Suivi_equipement->releve_mesure()
+#2 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Suivi_equipement))
+#3 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2022-04-27 07:32:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-04-27 07:32:21 --> Undefined variable: sector
+#0 C:\Ampps\www\maintex\app\Views\suivi_equipement\releve_mesure.php(191): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\Ampps\\www\\ma...', 191, Array)
+#1 C:\Ampps\www\maintex\system\View\View.php(210): include('C:\\Ampps\\www\\ma...')
+#2 C:\Ampps\www\maintex\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\Ampps\www\maintex\system\Common.php(1089): CodeIgniter\View\View->render('suivi_equipemen...', Array, true)
+#4 C:\Ampps\www\maintex\app\Controllers\BaseController.php(299): view('suivi_equipemen...', Array)
+#5 C:\Ampps\www\maintex\app\Controllers\Suivi_equipement.php(25): App\Controllers\BaseController->load_view('suivi_equipemen...', Array)
+#6 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Suivi_equipement->releve_mesure()
+#7 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Suivi_equipement))
+#8 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2022-04-27 11:02:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 11:02:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 11:02:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 11:02:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 11:02:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 11:02:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 11:02:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 11:02:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 11:02:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 11:02:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 11:02:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 11:02:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 11:03:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-04-27 11:03:17 --> Undefined variable: sector
+#0 C:\Ampps\www\maintex\app\Views\suivi_equipement\releve_mesure.php(191): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\Ampps\\www\\ma...', 191, Array)
+#1 C:\Ampps\www\maintex\system\View\View.php(210): include('C:\\Ampps\\www\\ma...')
+#2 C:\Ampps\www\maintex\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\Ampps\www\maintex\system\Common.php(1089): CodeIgniter\View\View->render('suivi_equipemen...', Array, true)
+#4 C:\Ampps\www\maintex\app\Controllers\BaseController.php(299): view('suivi_equipemen...', Array)
+#5 C:\Ampps\www\maintex\app\Controllers\Suivi_equipement.php(25): App\Controllers\BaseController->load_view('suivi_equipemen...', Array)
+#6 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Suivi_equipement->releve_mesure()
+#7 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Suivi_equipement))
+#8 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2022-04-27 11:13:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 11:13:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 11:13:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 11:13:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 11:13:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 11:13:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 11:13:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 11:13:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 11:13:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 11:13:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 11:13:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-04-27 11:13:38 --> Undefined variable: costcenter
+#0 C:\Ampps\www\maintex\app\Views\suivi_equipement\releve_mesure.php(229): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\Ampps\\www\\ma...', 229, Array)
+#1 C:\Ampps\www\maintex\system\View\View.php(210): include('C:\\Ampps\\www\\ma...')
+#2 C:\Ampps\www\maintex\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\Ampps\www\maintex\system\Common.php(1089): CodeIgniter\View\View->render('suivi_equipemen...', Array, true)
+#4 C:\Ampps\www\maintex\app\Controllers\BaseController.php(299): view('suivi_equipemen...', Array)
+#5 C:\Ampps\www\maintex\app\Controllers\Suivi_equipement.php(40): App\Controllers\BaseController->load_view('suivi_equipemen...', Array)
+#6 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Suivi_equipement->releve_mesure()
+#7 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Suivi_equipement))
+#8 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2022-04-27 11:23:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-04-27 11:23:57 --> Undefined property: App\Controllers\Suivi_equipement::$admin_model
+#0 C:\Ampps\www\maintex\app\Controllers\Suivi_equipement.php(30): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\Ampps\\www\\ma...', 30, Array)
+#1 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Suivi_equipement->releve_mesure()
+#2 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Suivi_equipement))
+#3 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2022-04-27 11:28:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-04-27 11:28:30 --> Undefined property: App\Controllers\Suivi_equipement::$admin_model
+#0 C:\Ampps\www\maintex\app\Controllers\Suivi_equipement.php(30): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\Ampps\\www\\ma...', 30, Array)
+#1 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Suivi_equipement->releve_mesure()
+#2 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Suivi_equipement))
+#3 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2022-04-27 11:30:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-04-27 11:30:23 --> Class 'App\Models\SuiviEquipement' not found
+#0 C:\Ampps\www\maintex\system\CodeIgniter.php(809): App\Controllers\Suivi_equipement->__construct()
+#1 C:\Ampps\www\maintex\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#2 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2022-04-27 11:38:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-04-27 11:38:59 --> Undefined property: App\Controllers\Suivi_equipement::$admin_model
+#0 C:\Ampps\www\maintex\app\Controllers\Suivi_equipement.php(30): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\Ampps\\www\\ma...', 30, Array)
+#1 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Suivi_equipement->releve_mesure()
+#2 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Suivi_equipement))
+#3 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2022-04-27 11:50:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-04-27 11:50:23 --> Undefined property: App\Controllers\Suivi_equipement::$admin_model
+#0 C:\Ampps\www\maintex\app\Controllers\Suivi_equipement.php(30): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\Ampps\\www\\ma...', 30, Array)
+#1 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Suivi_equipement->releve_mesure()
+#2 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Suivi_equipement))
+#3 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2022-04-27 11:51:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-04-27 11:51:18 --> Undefined property: stdClass::$branch
+#0 C:\Ampps\www\maintex\app\Views\suivi_equipement\releve_mesure.php(230): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\Ampps\\www\\ma...', 230, Array)
+#1 C:\Ampps\www\maintex\system\View\View.php(210): include('C:\\Ampps\\www\\ma...')
+#2 C:\Ampps\www\maintex\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\Ampps\www\maintex\system\Common.php(1089): CodeIgniter\View\View->render('suivi_equipemen...', Array, true)
+#4 C:\Ampps\www\maintex\app\Controllers\BaseController.php(299): view('suivi_equipemen...', Array)
+#5 C:\Ampps\www\maintex\app\Controllers\Suivi_equipement.php(32): App\Controllers\BaseController->load_view('suivi_equipemen...', Array)
+#6 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Suivi_equipement->releve_mesure()
+#7 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Suivi_equipement))
+#8 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2022-04-27 11:57:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-04-27 11:57:47 --> Undefined property: stdClass::$cost_id
+#0 C:\Ampps\www\maintex\app\Views\suivi_equipement\releve_mesure.php(230): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\Ampps\\www\\ma...', 230, Array)
+#1 C:\Ampps\www\maintex\system\View\View.php(210): include('C:\\Ampps\\www\\ma...')
+#2 C:\Ampps\www\maintex\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\Ampps\www\maintex\system\Common.php(1089): CodeIgniter\View\View->render('suivi_equipemen...', Array, true)
+#4 C:\Ampps\www\maintex\app\Controllers\BaseController.php(299): view('suivi_equipemen...', Array)
+#5 C:\Ampps\www\maintex\app\Controllers\Suivi_equipement.php(32): App\Controllers\BaseController->load_view('suivi_equipemen...', Array)
+#6 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Suivi_equipement->releve_mesure()
+#7 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Suivi_equipement))
+#8 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2022-04-27 11:59:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 11:59:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 12:00:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 12:08:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 12:08:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 12:08:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 12:08:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 12:08:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 12:12:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 12:12:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 12:12:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 12:15:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 12:17:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 12:19:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 12:39:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 12:39:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 12:39:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 12:39:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 12:39:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 12:39:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 12:39:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 12:39:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 12:39:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 12:53:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 13:04:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 13:06:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+=======
+INFO - 2022-04-27 03:22:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 03:22:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 03:22:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 03:22:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 03:22:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 03:22:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 03:22:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 03:22:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 03:22:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 03:22:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 03:22:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 04:49:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 04:49:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 04:50:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 04:50:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 06:24:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 06:24:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 06:24:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 06:24:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 06:24:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 06:24:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 06:24:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 06:24:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 06:24:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 06:24:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 07:40:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 07:40:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 07:40:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 07:40:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 07:40:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 07:40:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 07:40:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 07:40:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 07:40:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 07:42:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 07:42:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 07:42:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 07:42:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 07:42:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 07:42:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 07:42:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 07:42:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 07:42:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 07:42:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 07:42:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 07:42:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 07:42:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 07:42:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 07:42:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 07:42:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 07:42:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 07:42:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 07:42:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 07:42:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 07:42:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 07:43:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 07:43:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 07:43:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 07:43:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 07:43:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 07:43:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 07:45:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 07:45:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 10:09:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 10:09:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 10:09:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 10:09:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 10:09:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 10:09:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 10:09:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 10:09:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 10:09:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 10:09:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 10:09:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 10:09:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 10:10:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 10:10:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 10:10:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 10:11:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 10:12:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 10:12:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 10:13:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 10:13:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 10:13:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 10:13:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 10:16:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 10:16:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 10:16:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 10:23:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 10:23:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 10:24:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 10:24:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 10:25:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 10:33:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 10:33:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 10:34:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 10:34:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 10:35:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 10:35:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 10:37:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 10:38:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 10:38:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 10:51:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 10:51:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 11:19:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 11:19:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 11:20:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 11:20:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 11:20:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-04-27 11:20:10 --> Undefined offset: 0
+#0 C:\xampp\htdocs\maintex\app\Controllers\nomenclature\Item.php(49): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'C:\\xampp\\htdocs...', 49, Array)
+#1 C:\xampp\htdocs\maintex\system\CodeIgniter.php(832): App\Controllers\nomenclature\Item->item_edit('assets', 'media', 'users', 'blank.png')
+#2 C:\xampp\htdocs\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\nomenclature\Item))
+#3 C:\xampp\htdocs\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2022-04-27 11:21:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 11:21:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 11:21:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-04-27 11:21:21 --> Undefined offset: 0
+#0 C:\xampp\htdocs\maintex\app\Controllers\nomenclature\Item.php(49): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'C:\\xampp\\htdocs...', 49, Array)
+#1 C:\xampp\htdocs\maintex\system\CodeIgniter.php(832): App\Controllers\nomenclature\Item->item_edit('assets', 'media', 'users', 'blank.png')
+#2 C:\xampp\htdocs\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\nomenclature\Item))
+#3 C:\xampp\htdocs\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2022-04-27 11:24:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 11:24:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 11:24:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-04-27 11:24:15 --> Undefined offset: 0
+#0 C:\xampp\htdocs\maintex\app\Controllers\nomenclature\Item.php(49): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'C:\\xampp\\htdocs...', 49, Array)
+#1 C:\xampp\htdocs\maintex\system\CodeIgniter.php(832): App\Controllers\nomenclature\Item->item_edit('assets', 'media', 'users', 'blank.png')
+#2 C:\xampp\htdocs\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\nomenclature\Item))
+#3 C:\xampp\htdocs\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2022-04-27 11:25:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 11:25:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-04-27 11:25:15 --> Call to undefined method App\Controllers\nomenclature\Item::component_list()
+#0 C:\xampp\htdocs\maintex\system\CodeIgniter.php(832): App\Controllers\nomenclature\Item->item_update()
+#1 C:\xampp\htdocs\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\nomenclature\Item))
+#2 C:\xampp\htdocs\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2022-04-27 11:26:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 11:26:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-04-27 11:26:07 --> Undefined offset: 0
+#0 C:\xampp\htdocs\maintex\app\Controllers\nomenclature\Item.php(49): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'C:\\xampp\\htdocs...', 49, Array)
+#1 C:\xampp\htdocs\maintex\system\CodeIgniter.php(832): App\Controllers\nomenclature\Item->item_edit('assets', 'media', 'users', 'blank.png')
+#2 C:\xampp\htdocs\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\nomenclature\Item))
+#3 C:\xampp\htdocs\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2022-04-27 11:26:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 11:27:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 11:27:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 11:59:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 11:59:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 11:59:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-04-27 11:59:58 --> Undefined offset: 0
+#0 C:\xampp\htdocs\maintex\app\Controllers\nomenclature\Item.php(57): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'C:\\xampp\\htdocs...', 57, Array)
+#1 C:\xampp\htdocs\maintex\system\CodeIgniter.php(832): App\Controllers\nomenclature\Item->item_view('assets', 'media', 'users', 'blank.png')
+#2 C:\xampp\htdocs\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\nomenclature\Item))
+#3 C:\xampp\htdocs\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2022-04-27 12:00:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 12:02:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 12:02:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 12:26:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 12:26:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 12:27:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 12:27:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 12:27:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-04-27 12:27:42 --> Undefined offset: 0
+#0 C:\xampp\htdocs\maintex\app\Controllers\nomenclature\Item.php(49): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'C:\\xampp\\htdocs...', 49, Array)
+#1 C:\xampp\htdocs\maintex\system\CodeIgniter.php(832): App\Controllers\nomenclature\Item->item_edit('assets', 'media', 'users', 'blank.png')
+#2 C:\xampp\htdocs\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\nomenclature\Item))
+#3 C:\xampp\htdocs\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2022-04-27 12:28:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 12:28:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 12:28:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-04-27 12:28:17 --> Undefined offset: 0
+#0 C:\xampp\htdocs\maintex\app\Controllers\nomenclature\Equipment.php(62): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'C:\\xampp\\htdocs...', 62, Array)
+#1 C:\xampp\htdocs\maintex\system\CodeIgniter.php(832): App\Controllers\nomenclature\Equipment->equipment_edit('assets', 'media', 'users', 'blank.png')
+#2 C:\xampp\htdocs\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\nomenclature\Equipment))
+#3 C:\xampp\htdocs\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2022-04-27 12:28:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 12:28:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 12:28:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-04-27 12:28:50 --> Undefined offset: 0
+#0 C:\xampp\htdocs\maintex\app\Controllers\nomenclature\Component.php(56): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'C:\\xampp\\htdocs...', 56, Array)
+#1 C:\xampp\htdocs\maintex\system\CodeIgniter.php(832): App\Controllers\nomenclature\Component->component_edit('assets', 'media', 'users', 'blank.png')
+#2 C:\xampp\htdocs\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\nomenclature\Component))
+#3 C:\xampp\htdocs\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2022-04-27 12:29:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 12:29:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 12:29:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-04-27 12:29:11 --> Undefined offset: 0
+#0 C:\xampp\htdocs\maintex\app\Controllers\nomenclature\Item.php(49): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'C:\\xampp\\htdocs...', 49, Array)
+#1 C:\xampp\htdocs\maintex\system\CodeIgniter.php(832): App\Controllers\nomenclature\Item->item_edit('assets', 'media', 'users', 'blank.png')
+#2 C:\xampp\htdocs\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\nomenclature\Item))
+#3 C:\xampp\htdocs\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2022-04-27 12:37:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 12:37:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 12:41:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 12:41:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 12:44:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 12:44:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 12:45:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 12:51:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 12:52:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 12:52:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 12:52:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 12:53:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 12:53:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 12:56:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 12:56:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 12:57:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 12:57:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 12:59:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 12:59:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 12:59:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 13:12:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 13:12:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 13:12:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 13:12:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 13:12:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 13:12:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 13:13:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 13:13:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 13:13:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 13:13:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 13:13:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 13:13:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 13:14:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 13:14:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 13:14:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 13:14:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 13:15:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 13:15:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 13:15:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 13:16:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 13:17:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 13:17:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 13:17:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 13:17:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 13:17:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 13:17:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 13:17:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 13:18:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 13:18:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 13:18:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 13:18:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 13:18:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 13:18:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 13:18:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 13:18:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-27 13:18:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+>>>>>>> 14973f1d9e290eb0ecb58232e63c3d4cdc57315b

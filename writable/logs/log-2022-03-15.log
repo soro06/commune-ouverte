@@ -1,0 +1,6 @@
+CRITICAL - 2022-03-15 03:57:05 --> Call to undefined method CodeIgniter\Session\Session::userdata()
+#0 C:\Ampps\www\maintex_v\system\CodeIgniter.php(832): App\Controllers\Login->check_login()
+#1 C:\Ampps\www\maintex_v\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#2 C:\Ampps\www\maintex_v\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Ampps\www\maintex_v\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}

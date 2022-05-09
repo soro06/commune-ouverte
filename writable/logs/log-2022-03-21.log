@@ -1,0 +1,866 @@
+INFO - 2022-03-21 04:17:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-21 04:31:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-03-21 04:31:12 --> Undefined property: stdClass::$profile
+#0 C:\Ampps\www\maintex\app\Models\LoginModel.php(38): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\Ampps\\www\\ma...', 38, Array)
+#1 C:\Ampps\www\maintex\app\Models\LoginModel.php(27): App\Models\LoginModel->set_user_session(Object(stdClass))
+#2 C:\Ampps\www\maintex\app\Controllers\Login.php(26): App\Models\LoginModel->authenticate('a', 'a')
+#3 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Login->check_login()
+#4 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#5 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+INFO - 2022-03-21 05:13:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-03-21 05:13:31 --> Undefined property: stdClass::$picture
+#0 C:\Ampps\www\maintex\app\Models\LoginModel.php(43): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\Ampps\\www\\ma...', 43, Array)
+#1 C:\Ampps\www\maintex\app\Models\LoginModel.php(29): App\Models\LoginModel->set_user_session(Object(stdClass))
+#2 C:\Ampps\www\maintex\app\Controllers\Login.php(26): App\Models\LoginModel->authenticate('a', 'a')
+#3 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Login->check_login()
+#4 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#5 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+INFO - 2022-03-21 05:18:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-03-21 05:18:04 --> You must set the database table to be used with your query.
+#0 C:\Ampps\www\maintex\system\Model.php(545): CodeIgniter\Database\BaseConnection->table(NULL)
+#1 C:\Ampps\www\maintex\system\Model.php(693): CodeIgniter\Model->builder()
+#2 C:\Ampps\www\maintex\app\Models\LoginModel.php(47): CodeIgniter\Model->__get('session')
+#3 C:\Ampps\www\maintex\app\Models\LoginModel.php(29): App\Models\LoginModel->set_user_session(Object(stdClass))
+#4 C:\Ampps\www\maintex\app\Controllers\Login.php(26): App\Models\LoginModel->authenticate('a', 'a')
+#5 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Login->check_login()
+#6 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#7 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+INFO - 2022-03-21 05:19:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-03-21 05:19:13 --> You must set the database table to be used with your query.
+#0 C:\Ampps\www\maintex\system\Model.php(545): CodeIgniter\Database\BaseConnection->table(NULL)
+#1 C:\Ampps\www\maintex\system\Model.php(693): CodeIgniter\Model->builder()
+#2 C:\Ampps\www\maintex\app\Models\LoginModel.php(48): CodeIgniter\Model->__get('session')
+#3 C:\Ampps\www\maintex\app\Models\LoginModel.php(30): App\Models\LoginModel->set_user_session(Object(stdClass))
+#4 C:\Ampps\www\maintex\app\Controllers\Login.php(26): App\Models\LoginModel->authenticate('a', 'a')
+#5 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Login->check_login()
+#6 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#7 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+INFO - 2022-03-21 05:27:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-03-21 05:27:06 --> Undefined property: stdClass::$user_company_profile_id
+#0 C:\Ampps\www\maintex\app\Models\LoginModel.php(37): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\Ampps\\www\\ma...', 37, Array)
+#1 C:\Ampps\www\maintex\app\Models\LoginModel.php(27): App\Models\LoginModel->set_user_session(Object(stdClass))
+#2 C:\Ampps\www\maintex\app\Controllers\Login.php(26): App\Models\LoginModel->authenticate('a', 'a')
+#3 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Login->check_login()
+#4 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#5 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+INFO - 2022-03-21 05:28:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-03-21 05:28:43 --> You must set the database table to be used with your query.
+#0 C:\Ampps\www\maintex\system\Model.php(545): CodeIgniter\Database\BaseConnection->table(NULL)
+#1 C:\Ampps\www\maintex\system\Model.php(693): CodeIgniter\Model->builder()
+#2 C:\Ampps\www\maintex\app\Models\LoginModel.php(47): CodeIgniter\Model->__get('session')
+#3 C:\Ampps\www\maintex\app\Models\LoginModel.php(29): App\Models\LoginModel->set_user_session(Object(stdClass))
+#4 C:\Ampps\www\maintex\app\Controllers\Login.php(26): App\Models\LoginModel->authenticate('a', 'a')
+#5 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Login->check_login()
+#6 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#7 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+INFO - 2022-03-21 05:36:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-03-21 05:36:35 --> You must set the database table to be used with your query.
+#0 C:\Ampps\www\maintex\system\Model.php(545): CodeIgniter\Database\BaseConnection->table(NULL)
+#1 C:\Ampps\www\maintex\system\Model.php(693): CodeIgniter\Model->builder()
+#2 C:\Ampps\www\maintex\app\Models\LoginModel.php(47): CodeIgniter\Model->__get('session')
+#3 C:\Ampps\www\maintex\app\Models\LoginModel.php(29): App\Models\LoginModel->set_user_session(Object(stdClass))
+#4 C:\Ampps\www\maintex\app\Controllers\Login.php(26): App\Models\LoginModel->authenticate('a', 'a')
+#5 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Login->check_login()
+#6 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#7 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+INFO - 2022-03-21 05:36:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-03-21 05:36:56 --> Call to undefined method CodeIgniter\Database\MySQLi\Connection::from()
+#0 C:\Ampps\www\maintex\app\Controllers\Login.php(26): App\Models\LoginModel->authenticate('a', 'a')
+#1 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Login->check_login()
+#2 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#3 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2022-03-21 05:37:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2022-03-21 05:37:23 --> Not unique table/alias: 'user_company'
+CRITICAL - 2022-03-21 05:37:23 --> Not unique table/alias: 'user_company'
+#0 C:\Ampps\www\maintex\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT `user`.*...', 0)
+#1 C:\Ampps\www\maintex\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `user`.*...')
+#2 C:\Ampps\www\maintex\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `user`.*...')
+#3 C:\Ampps\www\maintex\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT `user`.*...', Array, false)
+#4 C:\Ampps\www\maintex\app\Models\LoginModel.php(25): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\Ampps\www\maintex\app\Controllers\Login.php(26): App\Models\LoginModel->authenticate('a', 'a')
+#6 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Login->check_login()
+#7 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#8 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2022-03-21 05:50:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2022-03-21 05:50:22 --> Not unique table/alias: 'user_company'
+CRITICAL - 2022-03-21 05:50:22 --> Not unique table/alias: 'user_company'
+#0 C:\Ampps\www\maintex\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT `user`.*...', 0)
+#1 C:\Ampps\www\maintex\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `user`.*...')
+#2 C:\Ampps\www\maintex\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `user`.*...')
+#3 C:\Ampps\www\maintex\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT `user`.*...', Array, false)
+#4 C:\Ampps\www\maintex\app\Models\LoginModel.php(25): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\Ampps\www\maintex\app\Controllers\Login.php(26): App\Models\LoginModel->authenticate('a', 'a')
+#6 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Login->check_login()
+#7 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#8 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2022-03-21 05:51:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-03-21 05:51:07 --> You must set the database table to be used with your query.
+#0 C:\Ampps\www\maintex\system\Model.php(545): CodeIgniter\Database\BaseConnection->table(NULL)
+#1 C:\Ampps\www\maintex\system\Model.php(693): CodeIgniter\Model->builder()
+#2 C:\Ampps\www\maintex\app\Models\LoginModel.php(47): CodeIgniter\Model->__get('session')
+#3 C:\Ampps\www\maintex\app\Models\LoginModel.php(29): App\Models\LoginModel->set_user_session(Object(stdClass))
+#4 C:\Ampps\www\maintex\app\Controllers\Login.php(26): App\Models\LoginModel->authenticate('a', 'a')
+#5 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Login->check_login()
+#6 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#7 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+INFO - 2022-03-21 05:54:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-03-21 05:54:55 --> You must set the database table to be used with your query.
+#0 C:\Ampps\www\maintex\system\Model.php(545): CodeIgniter\Database\BaseConnection->table(NULL)
+#1 C:\Ampps\www\maintex\system\Model.php(693): CodeIgniter\Model->builder()
+#2 C:\Ampps\www\maintex\app\Models\LoginModel.php(47): CodeIgniter\Model->__get('session')
+#3 C:\Ampps\www\maintex\app\Models\LoginModel.php(29): App\Models\LoginModel->set_user_session(Object(stdClass))
+#4 C:\Ampps\www\maintex\app\Controllers\Login.php(26): App\Models\LoginModel->authenticate('a', 'a')
+#5 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Login->check_login()
+#6 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#7 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+INFO - 2022-03-21 05:56:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-03-21 05:56:14 --> You must set the database table to be used with your query.
+#0 C:\Ampps\www\maintex\system\Model.php(545): CodeIgniter\Database\BaseConnection->table(NULL)
+#1 C:\Ampps\www\maintex\system\Model.php(693): CodeIgniter\Model->builder()
+#2 C:\Ampps\www\maintex\app\Models\LoginModel.php(47): CodeIgniter\Model->__get('session')
+#3 C:\Ampps\www\maintex\app\Models\LoginModel.php(29): App\Models\LoginModel->set_user_session(Object(stdClass))
+#4 C:\Ampps\www\maintex\app\Controllers\Login.php(26): App\Models\LoginModel->authenticate('a', 'a')
+#5 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Login->check_login()
+#6 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#7 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+INFO - 2022-03-21 05:57:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-03-21 05:57:26 --> You must set the database table to be used with your query.
+#0 C:\Ampps\www\maintex\system\Model.php(545): CodeIgniter\Database\BaseConnection->table(NULL)
+#1 C:\Ampps\www\maintex\system\Model.php(693): CodeIgniter\Model->builder()
+#2 C:\Ampps\www\maintex\app\Models\LoginModel.php(47): CodeIgniter\Model->__get('session')
+#3 C:\Ampps\www\maintex\app\Models\LoginModel.php(29): App\Models\LoginModel->set_user_session(Object(stdClass))
+#4 C:\Ampps\www\maintex\app\Controllers\Login.php(26): App\Models\LoginModel->authenticate('a', 'a')
+#5 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Login->check_login()
+#6 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#7 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+INFO - 2022-03-21 06:01:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-21 06:01:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2022-03-21 06:01:09 --> Table 'maintex_v3.user_menu_list' doesn't exist
+CRITICAL - 2022-03-21 06:01:09 --> Table 'maintex_v3.user_menu_list' doesn't exist
+#0 C:\Ampps\www\maintex\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT `m`.*, `...', 0)
+#1 C:\Ampps\www\maintex\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `m`.*, `...')
+#2 C:\Ampps\www\maintex\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `m`.*, `...')
+#3 C:\Ampps\www\maintex\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT `m`.*, `...', Array, false)
+#4 C:\Ampps\www\maintex\app\Controllers\BaseController.php(68): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\Ampps\www\maintex\app\Controllers\Home.php(8): App\Controllers\BaseController->load_view('index')
+#6 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#7 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2022-03-21 06:01:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-21 06:01:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-21 06:04:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-21 06:04:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-03-21 06:04:22 --> Call to undefined method CodeIgniter\Session\Session::set_userdata()
+#0 C:\Ampps\www\maintex\app\Models\LoginModel.php(30): App\Models\LoginModel->set_user_session(Object(stdClass))
+#1 C:\Ampps\www\maintex\app\Controllers\Login.php(26): App\Models\LoginModel->authenticate('a', 'a')
+#2 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Login->check_login()
+#3 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#4 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+INFO - 2022-03-21 06:04:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-21 06:04:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2022-03-21 06:04:52 --> Table 'maintex_v3.user_menu_list' doesn't exist
+CRITICAL - 2022-03-21 06:04:52 --> Table 'maintex_v3.user_menu_list' doesn't exist
+#0 C:\Ampps\www\maintex\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT `m`.*, `...', 0)
+#1 C:\Ampps\www\maintex\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `m`.*, `...')
+#2 C:\Ampps\www\maintex\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `m`.*, `...')
+#3 C:\Ampps\www\maintex\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT `m`.*, `...', Array, false)
+#4 C:\Ampps\www\maintex\app\Controllers\BaseController.php(68): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\Ampps\www\maintex\app\Controllers\Home.php(8): App\Controllers\BaseController->load_view('index')
+#6 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#7 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2022-03-21 06:06:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2022-03-21 06:06:16 --> Unknown column 'english_designation' in 'field list'
+CRITICAL - 2022-03-21 06:06:16 --> Unknown column 'english_designation' in 'field list'
+#0 C:\Ampps\www\maintex\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT `m`.*, `...', 0)
+#1 C:\Ampps\www\maintex\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `m`.*, `...')
+#2 C:\Ampps\www\maintex\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `m`.*, `...')
+#3 C:\Ampps\www\maintex\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT `m`.*, `...', Array, false)
+#4 C:\Ampps\www\maintex\app\Controllers\BaseController.php(68): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\Ampps\www\maintex\app\Controllers\Home.php(8): App\Controllers\BaseController->load_view('index')
+#6 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#7 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2022-03-21 06:07:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2022-03-21 06:07:39 --> Unknown column 'frenchmenu_english_designation' in 'field list'
+CRITICAL - 2022-03-21 06:07:39 --> Unknown column 'frenchmenu_english_designation' in 'field list'
+#0 C:\Ampps\www\maintex\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT `m`.*, `...', 0)
+#1 C:\Ampps\www\maintex\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `m`.*, `...')
+#2 C:\Ampps\www\maintex\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `m`.*, `...')
+#3 C:\Ampps\www\maintex\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT `m`.*, `...', Array, false)
+#4 C:\Ampps\www\maintex\app\Controllers\BaseController.php(68): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\Ampps\www\maintex\app\Controllers\Home.php(8): App\Controllers\BaseController->load_view('index')
+#6 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#7 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2022-03-21 06:08:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2022-03-21 06:08:31 --> Unknown column 'm.isActivated' in 'where clause'
+CRITICAL - 2022-03-21 06:08:31 --> Unknown column 'm.isActivated' in 'where clause'
+#0 C:\Ampps\www\maintex\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT `m`.*, `...', 0)
+#1 C:\Ampps\www\maintex\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `m`.*, `...')
+#2 C:\Ampps\www\maintex\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `m`.*, `...')
+#3 C:\Ampps\www\maintex\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT `m`.*, `...', Array, false)
+#4 C:\Ampps\www\maintex\app\Controllers\BaseController.php(68): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\Ampps\www\maintex\app\Controllers\Home.php(8): App\Controllers\BaseController->load_view('index')
+#6 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#7 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2022-03-21 06:10:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2022-03-21 06:10:07 --> Unknown column 'uc.profile' in 'on clause'
+CRITICAL - 2022-03-21 06:10:07 --> Unknown column 'uc.profile' in 'on clause'
+#0 C:\Ampps\www\maintex\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT `m`.*, `...', 0)
+#1 C:\Ampps\www\maintex\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `m`.*, `...')
+#2 C:\Ampps\www\maintex\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `m`.*, `...')
+#3 C:\Ampps\www\maintex\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT `m`.*, `...', Array, false)
+#4 C:\Ampps\www\maintex\app\Controllers\BaseController.php(68): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\Ampps\www\maintex\app\Controllers\Home.php(8): App\Controllers\BaseController->load_view('index')
+#6 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#7 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2022-03-21 06:17:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2022-03-21 06:17:04 --> Unknown column 'p.privacy_settings_user_profile_id' in 'where clause'
+CRITICAL - 2022-03-21 06:17:04 --> Unknown column 'p.privacy_settings_user_profile_id' in 'where clause'
+#0 C:\Ampps\www\maintex\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT `m`.*, `...', 0)
+#1 C:\Ampps\www\maintex\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `m`.*, `...')
+#2 C:\Ampps\www\maintex\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `m`.*, `...')
+#3 C:\Ampps\www\maintex\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT `m`.*, `...', Array, false)
+#4 C:\Ampps\www\maintex\app\Controllers\BaseController.php(66): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\Ampps\www\maintex\app\Controllers\Home.php(8): App\Controllers\BaseController->load_view('index')
+#6 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#7 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2022-03-21 06:18:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2022-03-21 06:18:12 --> Unknown column 'orderBy' in 'order clause'
+CRITICAL - 2022-03-21 06:18:12 --> Unknown column 'orderBy' in 'order clause'
+#0 C:\Ampps\www\maintex\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT `m`.*, `...', 0)
+#1 C:\Ampps\www\maintex\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `m`.*, `...')
+#2 C:\Ampps\www\maintex\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `m`.*, `...')
+#3 C:\Ampps\www\maintex\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT `m`.*, `...', Array, false)
+#4 C:\Ampps\www\maintex\app\Controllers\BaseController.php(66): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\Ampps\www\maintex\app\Controllers\Home.php(8): App\Controllers\BaseController->load_view('index')
+#6 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#7 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2022-03-21 06:19:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-03-21 06:19:26 --> Undefined variable: session_menu
+#0 C:\Ampps\www\maintex\app\Views\layout\header.php(136): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\Ampps\\www\\ma...', 136, Array)
+#1 C:\Ampps\www\maintex\system\View\View.php(210): include('C:\\Ampps\\www\\ma...')
+#2 C:\Ampps\www\maintex\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\Ampps\www\maintex\system\Common.php(1089): CodeIgniter\View\View->render('layout/header', Array, true)
+#4 C:\Ampps\www\maintex\app\Controllers\BaseController.php(76): view('layout/header', Array)
+#5 C:\Ampps\www\maintex\app\Controllers\Home.php(8): App\Controllers\BaseController->load_view('index')
+#6 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#7 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2022-03-21 06:20:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-03-21 06:20:08 --> Undefined variable: session_menu
+#0 C:\Ampps\www\maintex\app\Views\layout\header.php(136): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\Ampps\\www\\ma...', 136, Array)
+#1 C:\Ampps\www\maintex\system\View\View.php(210): include('C:\\Ampps\\www\\ma...')
+#2 C:\Ampps\www\maintex\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\Ampps\www\maintex\system\Common.php(1089): CodeIgniter\View\View->render('layout/header', Array, true)
+#4 C:\Ampps\www\maintex\app\Controllers\BaseController.php(76): view('layout/header', Array)
+#5 C:\Ampps\www\maintex\app\Controllers\Home.php(8): App\Controllers\BaseController->load_view('index')
+#6 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#7 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2022-03-21 06:26:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-03-21 06:26:39 --> Call to undefined method CodeIgniter\Session\Session::set_userdata()
+#0 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#1 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2022-03-21 06:27:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-03-21 06:27:51 --> Undefined variable: session_menu
+#0 C:\Ampps\www\maintex\app\Views\layout\header.php(136): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\Ampps\\www\\ma...', 136, Array)
+#1 C:\Ampps\www\maintex\system\View\View.php(210): include('C:\\Ampps\\www\\ma...')
+#2 C:\Ampps\www\maintex\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\Ampps\www\maintex\system\Common.php(1089): CodeIgniter\View\View->render('layout/header', Array, true)
+#4 C:\Ampps\www\maintex\app\Controllers\BaseController.php(76): view('layout/header', Array)
+#5 C:\Ampps\www\maintex\app\Controllers\Home.php(13): App\Controllers\BaseController->load_view('index')
+#6 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#7 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2022-03-21 06:29:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-03-21 06:29:12 --> Undefined variable: session_menu
+#0 C:\Ampps\www\maintex\app\Views\layout\header.php(136): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\Ampps\\www\\ma...', 136, Array)
+#1 C:\Ampps\www\maintex\system\View\View.php(210): include('C:\\Ampps\\www\\ma...')
+#2 C:\Ampps\www\maintex\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\Ampps\www\maintex\system\Common.php(1089): CodeIgniter\View\View->render('layout/header', Array, true)
+#4 C:\Ampps\www\maintex\app\Controllers\BaseController.php(76): view('layout/header', Array)
+#5 C:\Ampps\www\maintex\app\Controllers\Home.php(13): App\Controllers\BaseController->load_view('index')
+#6 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#7 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2022-03-21 06:31:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-03-21 06:31:17 --> Undefined variable: session_menu
+#0 C:\Ampps\www\maintex\app\Views\layout\header.php(136): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\Ampps\\www\\ma...', 136, Array)
+#1 C:\Ampps\www\maintex\system\View\View.php(210): include('C:\\Ampps\\www\\ma...')
+#2 C:\Ampps\www\maintex\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\Ampps\www\maintex\system\Common.php(1089): CodeIgniter\View\View->render('layout/header', Array, true)
+#4 C:\Ampps\www\maintex\app\Controllers\BaseController.php(76): view('layout/header', Array)
+#5 C:\Ampps\www\maintex\app\Controllers\Home.php(13): App\Controllers\BaseController->load_view('index')
+#6 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#7 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2022-03-21 06:32:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-03-21 06:32:38 --> Undefined variable: session_menu
+#0 C:\Ampps\www\maintex\app\Views\layout\header.php(136): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\Ampps\\www\\ma...', 136, Array)
+#1 C:\Ampps\www\maintex\system\View\View.php(210): include('C:\\Ampps\\www\\ma...')
+#2 C:\Ampps\www\maintex\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\Ampps\www\maintex\system\Common.php(1089): CodeIgniter\View\View->render('layout/header', Array, true)
+#4 C:\Ampps\www\maintex\app\Controllers\BaseController.php(76): view('layout/header', Array)
+#5 C:\Ampps\www\maintex\app\Controllers\Home.php(13): App\Controllers\BaseController->load_view('index')
+#6 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#7 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2022-03-21 06:33:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-21 06:40:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-21 06:41:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-21 06:41:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-21 06:41:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-21 06:41:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-21 06:42:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-21 06:49:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-03-21 06:49:12 --> Undefined property: CodeIgniter\View\View::$session
+#0 C:\Ampps\www\maintex\app\Views\layout\header.php(263): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\Ampps\\www\\ma...', 263, Array)
+#1 C:\Ampps\www\maintex\system\View\View.php(210): include('C:\\Ampps\\www\\ma...')
+#2 C:\Ampps\www\maintex\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\Ampps\www\maintex\system\Common.php(1089): CodeIgniter\View\View->render('layout/header', Array, true)
+#4 C:\Ampps\www\maintex\app\Controllers\BaseController.php(76): view('layout/header', Array)
+#5 C:\Ampps\www\maintex\app\Controllers\Home.php(13): App\Controllers\BaseController->load_view('index')
+#6 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#7 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2022-03-21 06:49:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-03-21 06:49:46 --> Undefined property: CodeIgniter\View\View::$lang
+#0 C:\Ampps\www\maintex\app\Views\layout\header.php(277): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\Ampps\\www\\ma...', 277, Array)
+#1 C:\Ampps\www\maintex\system\View\View.php(210): include('C:\\Ampps\\www\\ma...')
+#2 C:\Ampps\www\maintex\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\Ampps\www\maintex\system\Common.php(1089): CodeIgniter\View\View->render('layout/header', Array, true)
+#4 C:\Ampps\www\maintex\app\Controllers\BaseController.php(76): view('layout/header', Array)
+#5 C:\Ampps\www\maintex\app\Controllers\Home.php(13): App\Controllers\BaseController->load_view('index')
+#6 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#7 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2022-03-21 06:51:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-21 06:54:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-21 07:26:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-03-21 07:26:18 --> Undefined property: CodeIgniter\View\View::$session
+#0 C:\Ampps\www\maintex\app\Views\layout\footer.php(45): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\Ampps\\www\\ma...', 45, Array)
+#1 C:\Ampps\www\maintex\system\View\View.php(210): include('C:\\Ampps\\www\\ma...')
+#2 C:\Ampps\www\maintex\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\Ampps\www\maintex\system\Common.php(1089): CodeIgniter\View\View->render('layout/footer', Array, true)
+#4 C:\Ampps\www\maintex\app\Controllers\BaseController.php(79): view('layout/footer')
+#5 C:\Ampps\www\maintex\app\Controllers\Home.php(13): App\Controllers\BaseController->load_view('index')
+#6 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#7 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2022-03-21 07:27:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-21 07:27:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-21 07:28:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-03-21 07:28:38 --> Undefined property: CodeIgniter\View\View::$session
+#0 C:\Ampps\www\maintex\app\Views\layout\footer.php(45): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\Ampps\\www\\ma...', 45, Array)
+#1 C:\Ampps\www\maintex\system\View\View.php(210): include('C:\\Ampps\\www\\ma...')
+#2 C:\Ampps\www\maintex\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\Ampps\www\maintex\system\Common.php(1089): CodeIgniter\View\View->render('layout/footer', Array, true)
+#4 C:\Ampps\www\maintex\app\Controllers\BaseController.php(79): view('layout/footer')
+#5 C:\Ampps\www\maintex\app\Controllers\Home.php(13): App\Controllers\BaseController->load_view('index')
+#6 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#7 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2022-03-21 07:37:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-03-21 07:37:03 --> Undefined variable: session
+#0 C:\Ampps\www\maintex\app\Views\layout\footer.php(45): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\Ampps\\www\\ma...', 45, Array)
+#1 C:\Ampps\www\maintex\system\View\View.php(210): include('C:\\Ampps\\www\\ma...')
+#2 C:\Ampps\www\maintex\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\Ampps\www\maintex\system\Common.php(1089): CodeIgniter\View\View->render('layout/footer', Array, true)
+#4 C:\Ampps\www\maintex\app\Controllers\BaseController.php(80): view('layout/footer')
+#5 C:\Ampps\www\maintex\app\Controllers\Home.php(13): App\Controllers\BaseController->load_view('index')
+#6 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#7 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2022-03-21 07:42:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-03-21 07:42:11 --> Undefined property: CodeIgniter\View\View::$session
+#0 C:\Ampps\www\maintex\app\Views\layout\footer.php(51): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\Ampps\\www\\ma...', 51, Array)
+#1 C:\Ampps\www\maintex\system\View\View.php(210): include('C:\\Ampps\\www\\ma...')
+#2 C:\Ampps\www\maintex\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\Ampps\www\maintex\system\Common.php(1089): CodeIgniter\View\View->render('layout/footer', Array, true)
+#4 C:\Ampps\www\maintex\app\Controllers\BaseController.php(81): view('layout/footer')
+#5 C:\Ampps\www\maintex\app\Controllers\Home.php(13): App\Controllers\BaseController->load_view('index')
+#6 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#7 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2022-03-21 10:12:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2022-03-21 10:12:13 --> Unknown column 'menu__designation' in 'field list'
+CRITICAL - 2022-03-21 10:12:13 --> Unknown column 'menu__designation' in 'field list'
+#0 C:\Ampps\www\maintex\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT `m`.*, `...', 0)
+#1 C:\Ampps\www\maintex\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `m`.*, `...')
+#2 C:\Ampps\www\maintex\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `m`.*, `...')
+#3 C:\Ampps\www\maintex\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT `m`.*, `...', Array, false)
+#4 C:\Ampps\www\maintex\app\Controllers\BaseController.php(66): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\Ampps\www\maintex\app\Controllers\Home.php(13): App\Controllers\BaseController->load_view('index')
+#6 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#7 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2022-03-21 10:12:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-03-21 10:12:36 --> Call to undefined method CodeIgniter\Session\Session::sess_destroy()
+#0 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Logout->index()
+#1 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Logout))
+#2 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2022-03-21 10:14:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-03-21 10:14:26 -->  route cannot be found while reverse-routing.
+#0 C:\Ampps\www\maintex\system\HTTP\RedirectResponse.php(56): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 C:\Ampps\www\maintex\system\Common.php(832): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 C:\Ampps\www\maintex\app\Controllers\Logout.php(13): redirect('login')
+#3 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Logout->index()
+#4 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Logout))
+#5 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+INFO - 2022-03-21 10:15:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-21 10:16:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-03-21 10:16:59 -->  route cannot be found while reverse-routing.
+#0 C:\Ampps\www\maintex\system\HTTP\RedirectResponse.php(56): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 C:\Ampps\www\maintex\system\Common.php(832): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 C:\Ampps\www\maintex\app\Controllers\Logout.php(13): redirect('login/index')
+#3 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Logout->index()
+#4 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Logout))
+#5 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+INFO - 2022-03-21 10:17:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-21 10:21:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-21 10:21:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-21 10:23:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-21 10:25:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-21 10:26:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-21 10:27:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-21 10:27:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-03-21 10:27:27 -->  route cannot be found while reverse-routing.
+#0 C:\Ampps\www\maintex\system\HTTP\RedirectResponse.php(56): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 C:\Ampps\www\maintex\system\Common.php(832): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 C:\Ampps\www\maintex\app\Controllers\Logout.php(13): redirect('http://localhos...')
+#3 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Logout->index()
+#4 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Logout))
+#5 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+INFO - 2022-03-21 10:27:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-03-21 10:27:42 -->  route cannot be found while reverse-routing.
+#0 C:\Ampps\www\maintex\system\HTTP\RedirectResponse.php(56): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 C:\Ampps\www\maintex\system\Common.php(832): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 C:\Ampps\www\maintex\app\Controllers\Logout.php(13): redirect('http://localhos...')
+#3 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Logout->index()
+#4 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Logout))
+#5 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+INFO - 2022-03-21 10:27:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-21 10:28:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-21 10:28:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-21 10:28:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-03-21 10:28:57 -->  route cannot be found while reverse-routing.
+#0 C:\Ampps\www\maintex\system\HTTP\RedirectResponse.php(56): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 C:\Ampps\www\maintex\system\Common.php(832): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 C:\Ampps\www\maintex\app\Controllers\Logout.php(13): redirect('http://localhos...')
+#3 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Logout->index()
+#4 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Logout))
+#5 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+INFO - 2022-03-21 11:09:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-21 11:09:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-21 11:09:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-21 11:09:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-21 11:10:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-21 11:10:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-21 11:10:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-21 11:10:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-21 11:10:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-21 11:10:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-21 11:10:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-21 11:11:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-21 11:11:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-21 11:11:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-21 11:11:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-21 11:11:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-21 11:11:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-21 11:11:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-21 11:13:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-21 11:13:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-21 11:14:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-21 11:14:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-21 11:36:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-21 11:38:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-21 11:41:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2022-03-21 11:41:04 --> Unknown column 'menu__designation' in 'field list'
+CRITICAL - 2022-03-21 11:41:04 --> Unknown column 'menu__designation' in 'field list'
+#0 C:\Ampps\www\maintex\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT `m`.*, `...', 0)
+#1 C:\Ampps\www\maintex\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `m`.*, `...')
+#2 C:\Ampps\www\maintex\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `m`.*, `...')
+#3 C:\Ampps\www\maintex\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT `m`.*, `...', Array, false)
+#4 C:\Ampps\www\maintex\app\Controllers\BaseController.php(66): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\Ampps\www\maintex\app\Controllers\Home.php(13): App\Controllers\BaseController->load_view('index')
+#6 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#7 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2022-03-21 11:43:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-21 11:44:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-21 11:48:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-21 11:53:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-21 11:55:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-21 11:56:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-21 11:57:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-21 11:57:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-21 11:58:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-21 12:03:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-21 12:08:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-21 12:08:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-03-21 12:08:10 --> Access level to App\Controllers\Home::$session must be public (as in class App\Controllers\BaseController)
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-03-21 12:08:47 --> Call to a member function get() on null
+#0 C:\Ampps\www\maintex\system\CodeIgniter.php(809): App\Controllers\Home->__construct()
+#1 C:\Ampps\www\maintex\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#2 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2022-03-21 12:10:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2022-03-21 12:10:02 --> Unknown column 'menu__designation' in 'field list'
+CRITICAL - 2022-03-21 12:10:02 --> Unknown column 'menu__designation' in 'field list'
+#0 C:\Ampps\www\maintex\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT `m`.*, `...', 0)
+#1 C:\Ampps\www\maintex\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `m`.*, `...')
+#2 C:\Ampps\www\maintex\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `m`.*, `...')
+#3 C:\Ampps\www\maintex\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT `m`.*, `...', Array, false)
+#4 C:\Ampps\www\maintex\app\Controllers\BaseController.php(66): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\Ampps\www\maintex\app\Controllers\Home.php(15): App\Controllers\BaseController->load_view('index')
+#6 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#7 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2022-03-21 12:11:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2022-03-21 12:11:36 --> Unknown column 'menu__designation' in 'field list'
+CRITICAL - 2022-03-21 12:11:36 --> Unknown column 'menu__designation' in 'field list'
+#0 C:\Ampps\www\maintex\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT `m`.*, `...', 0)
+#1 C:\Ampps\www\maintex\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `m`.*, `...')
+#2 C:\Ampps\www\maintex\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `m`.*, `...')
+#3 C:\Ampps\www\maintex\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT `m`.*, `...', Array, false)
+#4 C:\Ampps\www\maintex\app\Controllers\BaseController.php(69): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\Ampps\www\maintex\app\Controllers\Home.php(12): App\Controllers\BaseController->load_view('index')
+#6 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#7 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2022-03-21 12:12:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2022-03-21 12:12:32 --> Unknown column 'menu__designation' in 'field list'
+CRITICAL - 2022-03-21 12:12:32 --> Unknown column 'menu__designation' in 'field list'
+#0 C:\Ampps\www\maintex\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT `m`.*, `...', 0)
+#1 C:\Ampps\www\maintex\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `m`.*, `...')
+#2 C:\Ampps\www\maintex\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `m`.*, `...')
+#3 C:\Ampps\www\maintex\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT `m`.*, `...', Array, false)
+#4 C:\Ampps\www\maintex\app\Controllers\BaseController.php(70): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\Ampps\www\maintex\app\Controllers\Home.php(12): App\Controllers\BaseController->load_view('index')
+#6 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#7 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2022-03-21 12:13:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-03-21 12:13:10 --> Call to a member function get() on null
+#0 C:\Ampps\www\maintex\system\CodeIgniter.php(810): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#1 C:\Ampps\www\maintex\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#2 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2022-03-21 12:14:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-21 12:14:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-21 12:14:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-21 12:14:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-21 12:14:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2022-03-21 12:14:20 --> Unknown column 'menu__designation' in 'field list'
+CRITICAL - 2022-03-21 12:14:20 --> Unknown column 'menu__designation' in 'field list'
+#0 C:\Ampps\www\maintex\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT `m`.*, `...', 0)
+#1 C:\Ampps\www\maintex\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `m`.*, `...')
+#2 C:\Ampps\www\maintex\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `m`.*, `...')
+#3 C:\Ampps\www\maintex\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT `m`.*, `...', Array, false)
+#4 C:\Ampps\www\maintex\app\Controllers\BaseController.php(68): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\Ampps\www\maintex\app\Controllers\Home.php(15): App\Controllers\BaseController->load_view('index')
+#6 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#7 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2022-03-21 12:15:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-21 12:15:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-21 12:16:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-03-21 12:17:59 --> Declaration of App\Controllers\Home::initController(App\Controllers\RequestInterface $request, App\Controllers\ResponseInterface $response, App\Controllers\LoggerInterface $logger) should be compatible with App\Controllers\BaseController::initController(CodeIgniter\HTTP\RequestInterface $request, CodeIgniter\HTTP\ResponseInterface $response, Psr\Log\LoggerInterface $logger)
+#0 C:\Ampps\www\maintex\app\Controllers\Home.php(5): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Declaration of ...', 'C:\\Ampps\\www\\ma...', 5, Array)
+#1 C:\Ampps\www\maintex\system\Router\Router.php(518): include_once('C:\\Ampps\\www\\ma...')
+#2 C:\Ampps\www\maintex\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('home')
+#3 C:\Ampps\www\maintex\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('home')
+#4 C:\Ampps\www\maintex\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+INFO - 2022-03-21 12:20:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-21 12:20:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-03-21 12:20:26 --> Call to undefined method CodeIgniter\Session\Session::geSQSt()
+#0 C:\Ampps\www\maintex\system\CodeIgniter.php(809): App\Controllers\Home->__construct()
+#1 C:\Ampps\www\maintex\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#2 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2022-03-21 12:20:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-21 12:22:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-03-21 12:22:13 --> Call to a member function getPost() on null
+#0 C:\Ampps\www\maintex\app\Controllers\Home.php(11): App\Controllers\Home->check_login()
+#1 C:\Ampps\www\maintex\system\CodeIgniter.php(809): App\Controllers\Home->__construct()
+#2 C:\Ampps\www\maintex\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#3 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2022-03-21 12:24:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-21 12:25:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-21 12:25:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-21 12:26:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-21 12:26:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-21 12:27:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-21 12:27:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2022-03-21 12:27:55 --> Unknown column 'menu__designation' in 'field list'
+CRITICAL - 2022-03-21 12:27:55 --> Unknown column 'menu__designation' in 'field list'
+#0 C:\Ampps\www\maintex\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT `m`.*, `...', 0)
+#1 C:\Ampps\www\maintex\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `m`.*, `...')
+#2 C:\Ampps\www\maintex\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `m`.*, `...')
+#3 C:\Ampps\www\maintex\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT `m`.*, `...', Array, false)
+#4 C:\Ampps\www\maintex\app\Controllers\BaseController.php(68): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\Ampps\www\maintex\app\Controllers\Home.php(18): App\Controllers\BaseController->load_view('index')
+#6 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#7 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2022-03-21 12:31:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-21 12:31:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-21 12:32:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-21 12:32:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-21 12:32:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-21 12:32:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-21 12:34:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-21 12:35:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-21 12:39:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-21 12:40:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-21 12:40:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-21 12:42:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-21 12:43:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-21 12:43:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-21 12:49:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-21 12:55:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-03-21 12:55:57 --> Call to a member function setLocale() on null
+#0 C:\Ampps\www\maintex\system\CodeIgniter.php(810): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#1 C:\Ampps\www\maintex\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#2 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2022-03-21 12:56:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-03-21 12:56:52 --> Undefined variable: request
+#0 C:\Ampps\www\maintex\app\Controllers\BaseController.php(46): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\Ampps\\www\\ma...', 46, Array)
+#1 C:\Ampps\www\maintex\app\Controllers\Home.php(8): App\Controllers\BaseController->__construct()
+#2 C:\Ampps\www\maintex\system\CodeIgniter.php(809): App\Controllers\Home->__construct()
+#3 C:\Ampps\www\maintex\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#4 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+INFO - 2022-03-21 13:00:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-03-21 13:02:12 --> Call to a member function get() on null
+#0 C:\Ampps\www\maintex\app\Controllers\Home.php(8): App\Controllers\BaseController->__construct()
+#1 C:\Ampps\www\maintex\system\CodeIgniter.php(809): App\Controllers\Home->__construct()
+#2 C:\Ampps\www\maintex\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#3 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2022-03-21 13:02:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-21 13:02:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-03-21 13:02:48 --> Call to a member function get() on null
+#0 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Login->index()
+#1 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#2 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2022-03-21 13:03:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-21 13:03:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-21 13:03:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-21 13:03:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-21 13:03:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-21 13:03:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-21 13:03:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-21 13:05:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-21 13:05:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-21 13:05:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-21 13:05:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-21 13:05:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-21 13:14:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-21 13:56:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-21 13:56:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2022-03-21 13:56:39 --> Error connecting to the database: Access denied for user '****'@'localhost' (using password: YES)
+CRITICAL - 2022-03-21 13:56:39 --> Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user '****'@'localhost' (using password: YES)
+#0 C:\xampp\htdocs\maintex_v3\system\Database\BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\xampp\htdocs\maintex_v3\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT `user`.*...', Array, false)
+#2 C:\xampp\htdocs\maintex_v3\app\Models\LoginModel.php(27): CodeIgniter\Database\BaseBuilder->get()
+#3 C:\xampp\htdocs\maintex_v3\app\Controllers\Login.php(26): App\Models\LoginModel->authenticate('admin', '123456')
+#4 C:\xampp\htdocs\maintex_v3\system\CodeIgniter.php(832): App\Controllers\Login->check_login()
+#5 C:\xampp\htdocs\maintex_v3\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#6 C:\xampp\htdocs\maintex_v3\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\maintex_v3\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2022-03-21 13:56:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-21 13:57:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2022-03-21 13:57:23 --> Error connecting to the database: Access denied for user '****'@'localhost' (using password: YES)
+CRITICAL - 2022-03-21 13:57:23 --> Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user '****'@'localhost' (using password: YES)
+#0 C:\xampp\htdocs\maintex_v3\system\Database\BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\xampp\htdocs\maintex_v3\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT `user`.*...', Array, false)
+#2 C:\xampp\htdocs\maintex_v3\app\Models\LoginModel.php(27): CodeIgniter\Database\BaseBuilder->get()
+#3 C:\xampp\htdocs\maintex_v3\app\Controllers\Login.php(26): App\Models\LoginModel->authenticate('admin', '123456')
+#4 C:\xampp\htdocs\maintex_v3\system\CodeIgniter.php(832): App\Controllers\Login->check_login()
+#5 C:\xampp\htdocs\maintex_v3\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#6 C:\xampp\htdocs\maintex_v3\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\maintex_v3\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2022-03-21 13:58:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2022-03-21 13:58:27 --> Error connecting to the database: Access denied for user '****'@'localhost' (using password: YES)
+CRITICAL - 2022-03-21 13:58:27 --> Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user '****'@'localhost' (using password: YES)
+#0 C:\xampp\htdocs\maintex_v3\system\Database\BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\xampp\htdocs\maintex_v3\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT `user`.*...', Array, false)
+#2 C:\xampp\htdocs\maintex_v3\app\Models\LoginModel.php(27): CodeIgniter\Database\BaseBuilder->get()
+#3 C:\xampp\htdocs\maintex_v3\app\Controllers\Login.php(26): App\Models\LoginModel->authenticate('admin', '123456')
+#4 C:\xampp\htdocs\maintex_v3\system\CodeIgniter.php(832): App\Controllers\Login->check_login()
+#5 C:\xampp\htdocs\maintex_v3\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#6 C:\xampp\htdocs\maintex_v3\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\maintex_v3\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2022-03-21 14:00:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2022-03-21 14:00:00 --> Error connecting to the database: Unknown database 'maintex_v3'
+CRITICAL - 2022-03-21 14:00:00 --> Unable to connect to the database.
+Main connection [MySQLi]: Unknown database 'maintex_v3'
+#0 C:\xampp\htdocs\maintex_v3\system\Database\BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\xampp\htdocs\maintex_v3\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT `user`.*...', Array, false)
+#2 C:\xampp\htdocs\maintex_v3\app\Models\LoginModel.php(27): CodeIgniter\Database\BaseBuilder->get()
+#3 C:\xampp\htdocs\maintex_v3\app\Controllers\Login.php(26): App\Models\LoginModel->authenticate('admin', '123456')
+#4 C:\xampp\htdocs\maintex_v3\system\CodeIgniter.php(832): App\Controllers\Login->check_login()
+#5 C:\xampp\htdocs\maintex_v3\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#6 C:\xampp\htdocs\maintex_v3\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\maintex_v3\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2022-03-21 14:00:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2022-03-21 14:00:33 --> Unknown column 'user_company_is_default' in 'where clause'
+CRITICAL - 2022-03-21 14:00:33 --> Unknown column 'user_company_is_default' in 'where clause'
+#0 C:\xampp\htdocs\maintex_v3\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT `user`.*...', 0)
+#1 C:\xampp\htdocs\maintex_v3\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `user`.*...')
+#2 C:\xampp\htdocs\maintex_v3\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `user`.*...')
+#3 C:\xampp\htdocs\maintex_v3\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT `user`.*...', Array, false)
+#4 C:\xampp\htdocs\maintex_v3\app\Models\LoginModel.php(27): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\maintex_v3\app\Controllers\Login.php(26): App\Models\LoginModel->authenticate('admin', '123456')
+#6 C:\xampp\htdocs\maintex_v3\system\CodeIgniter.php(832): App\Controllers\Login->check_login()
+#7 C:\xampp\htdocs\maintex_v3\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#8 C:\xampp\htdocs\maintex_v3\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\maintex_v3\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2022-03-21 14:02:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-21 14:03:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-21 14:04:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-21 14:04:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2022-03-21 14:04:44 --> Unknown column 'm.menu_is_activated' in 'where clause'
+CRITICAL - 2022-03-21 14:04:44 --> Unknown column 'm.menu_is_activated' in 'where clause'
+#0 C:\xampp\htdocs\maintex_v3\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT `m`.*, `...', 0)
+#1 C:\xampp\htdocs\maintex_v3\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `m`.*, `...')
+#2 C:\xampp\htdocs\maintex_v3\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `m`.*, `...')
+#3 C:\xampp\htdocs\maintex_v3\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT `m`.*, `...', Array, false)
+#4 C:\xampp\htdocs\maintex_v3\app\Controllers\BaseController.php(73): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\maintex_v3\app\Controllers\Home.php(17): App\Controllers\BaseController->load_view('index')
+#6 C:\xampp\htdocs\maintex_v3\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#7 C:\xampp\htdocs\maintex_v3\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\xampp\htdocs\maintex_v3\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\maintex_v3\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2022-03-21 14:05:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.

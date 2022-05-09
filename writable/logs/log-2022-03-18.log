@@ -1,0 +1,651 @@
+<<<<<<< HEAD
+CRITICAL - 2022-03-18 09:37:54 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\maintex_v3\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\maintex_v3\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\maintex_v3\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\maintex_v3\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-03-18 09:40:23 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\maintex_v3\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\maintex_v3\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\maintex_v3\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\maintex_v3\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+=======
+CRITICAL - 2022-03-18 03:54:27 --> Call to undefined method CodeIgniter\Database\MySQLi\Connection::groupStart()
+#0 C:\Ampps\www\maintex\app\Controllers\Login.php(26): App\Models\LoginModel->authenticate('sds', 'sds')
+#1 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Login->check_login()
+#2 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#3 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-18 03:54:29 --> Call to undefined method CodeIgniter\Database\MySQLi\Connection::groupStart()
+#0 C:\Ampps\www\maintex\app\Controllers\Login.php(26): App\Models\LoginModel->authenticate(NULL, NULL)
+#1 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Login->check_login()
+#2 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#3 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-18 03:55:18 --> Call to undefined method CodeIgniter\Database\MySQLi\Connection::groupStart()
+#0 C:\Ampps\www\maintex\app\Controllers\Login.php(26): App\Models\LoginModel->authenticate('sds', 'sds')
+#1 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Login->check_login()
+#2 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#3 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-18 03:56:36 --> Call to undefined method CodeIgniter\Database\MySQLi\Connection::groupStart()
+#0 C:\Ampps\www\maintex\app\Controllers\Login.php(26): App\Models\LoginModel->authenticate('sds', 'sds')
+#1 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Login->check_login()
+#2 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#3 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-18 03:56:39 --> Call to undefined method CodeIgniter\Database\MySQLi\Connection::groupStart()
+#0 C:\Ampps\www\maintex\app\Controllers\Login.php(26): App\Models\LoginModel->authenticate('sds', 'sds')
+#1 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Login->check_login()
+#2 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#3 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-18 03:56:41 --> Call to undefined method CodeIgniter\Database\MySQLi\Connection::groupStart()
+#0 C:\Ampps\www\maintex\app\Controllers\Login.php(26): App\Models\LoginModel->authenticate(NULL, NULL)
+#1 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Login->check_login()
+#2 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#3 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-18 03:59:48 --> Call to undefined method CodeIgniter\Database\MySQLi\Connection::groupStart()
+#0 C:\Ampps\www\maintex\app\Controllers\Login.php(26): App\Models\LoginModel->authenticate('sds', 'sds')
+#1 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Login->check_login()
+#2 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#3 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-18 03:59:50 --> Call to undefined method CodeIgniter\Database\MySQLi\Connection::groupStart()
+#0 C:\Ampps\www\maintex\app\Controllers\Login.php(26): App\Models\LoginModel->authenticate(NULL, NULL)
+#1 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Login->check_login()
+#2 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#3 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-18 04:01:20 --> Call to undefined method CodeIgniter\Database\MySQLi\Connection::groupStart()
+#0 C:\Ampps\www\maintex\app\Controllers\Login.php(26): App\Models\LoginModel->authenticate('sds', 'sds')
+#1 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Login->check_login()
+#2 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#3 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-18 04:01:23 --> Call to undefined method CodeIgniter\Database\MySQLi\Connection::groupStart()
+#0 C:\Ampps\www\maintex\app\Controllers\Login.php(26): App\Models\LoginModel->authenticate(NULL, NULL)
+#1 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Login->check_login()
+#2 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#3 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-18 04:02:28 --> Call to undefined method CodeIgniter\Database\MySQLi\Connection::get()
+#0 C:\Ampps\www\maintex\app\Controllers\Login.php(26): App\Models\LoginModel->authenticate('sds', 'sds')
+#1 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Login->check_login()
+#2 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#3 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-18 04:02:30 --> Call to undefined method CodeIgniter\Database\MySQLi\Connection::get()
+#0 C:\Ampps\www\maintex\app\Controllers\Login.php(26): App\Models\LoginModel->authenticate(NULL, NULL)
+#1 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Login->check_login()
+#2 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#3 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-18 04:09:35 --> Call to undefined method CodeIgniter\Database\MySQLi\Connection::where()
+#0 C:\Ampps\www\maintex\app\Controllers\Login.php(26): App\Models\LoginModel->authenticate('sds', 'sds')
+#1 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Login->check_login()
+#2 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#3 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-18 04:09:37 --> Call to undefined method CodeIgniter\Database\MySQLi\Connection::where()
+#0 C:\Ampps\www\maintex\app\Controllers\Login.php(26): App\Models\LoginModel->authenticate(NULL, NULL)
+#1 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Login->check_login()
+#2 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#3 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-18 04:12:16 --> Call to undefined method CodeIgniter\Database\MySQLi\Builder::or_where()
+#0 C:\Ampps\www\maintex\app\Controllers\Login.php(26): App\Models\LoginModel->authenticate('sds', 'sds')
+#1 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Login->check_login()
+#2 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#3 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-18 04:12:18 --> Call to undefined method CodeIgniter\Database\MySQLi\Builder::or_where()
+#0 C:\Ampps\www\maintex\app\Controllers\Login.php(26): App\Models\LoginModel->authenticate(NULL, NULL)
+#1 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Login->check_login()
+#2 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#3 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-18 04:12:45 --> Call to undefined method CodeIgniter\Database\MySQLi\Connection::get()
+#0 C:\Ampps\www\maintex\app\Controllers\Login.php(26): App\Models\LoginModel->authenticate('sds', 'sds')
+#1 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Login->check_login()
+#2 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#3 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-18 04:12:47 --> Call to undefined method CodeIgniter\Database\MySQLi\Connection::get()
+#0 C:\Ampps\www\maintex\app\Controllers\Login.php(26): App\Models\LoginModel->authenticate(NULL, NULL)
+#1 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Login->check_login()
+#2 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#3 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-18 04:13:52 --> Call to undefined method CodeIgniter\Database\MySQLi\Result::num_rows()
+#0 C:\Ampps\www\maintex\app\Controllers\Login.php(26): App\Models\LoginModel->authenticate(NULL, NULL)
+#1 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Login->check_login()
+#2 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#3 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2022-03-18 06:03:02 --> Table 'maintex_v3.user1' doesn't exist
+CRITICAL - 2022-03-18 06:03:02 --> Table 'maintex_v3.user1' doesn't exist
+#0 C:\Ampps\www\maintex\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\Ampps\www\maintex\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\Ampps\www\maintex\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\Ampps\www\maintex\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\Ampps\www\maintex\app\Models\LoginModel.php(23): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\Ampps\www\maintex\app\Controllers\Login.php(26): App\Models\LoginModel->authenticate('admin', '123456')
+#6 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Login->check_login()
+#7 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#8 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+ERROR - 2022-03-18 06:03:07 --> Table 'maintex_v3.user1' doesn't exist
+CRITICAL - 2022-03-18 06:03:07 --> Table 'maintex_v3.user1' doesn't exist
+#0 C:\Ampps\www\maintex\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\Ampps\www\maintex\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\Ampps\www\maintex\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\Ampps\www\maintex\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\Ampps\www\maintex\app\Models\LoginModel.php(23): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\Ampps\www\maintex\app\Controllers\Login.php(26): App\Models\LoginModel->authenticate(NULL, NULL)
+#6 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Login->check_login()
+#7 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#8 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+ERROR - 2022-03-18 06:13:58 --> Table 'maintex_v3.usera' doesn't exist
+CRITICAL - 2022-03-18 06:13:58 --> Table 'maintex_v3.usera' doesn't exist
+#0 C:\Ampps\www\maintex\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\Ampps\www\maintex\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\Ampps\www\maintex\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\Ampps\www\maintex\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\Ampps\www\maintex\app\Models\LoginModel.php(23): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\Ampps\www\maintex\app\Controllers\Login.php(26): App\Models\LoginModel->authenticate('admin', '123456')
+#6 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Login->check_login()
+#7 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#8 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+ERROR - 2022-03-18 06:14:08 --> Table 'maintex_v3.usera' doesn't exist
+CRITICAL - 2022-03-18 06:14:08 --> Table 'maintex_v3.usera' doesn't exist
+#0 C:\Ampps\www\maintex\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\Ampps\www\maintex\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\Ampps\www\maintex\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\Ampps\www\maintex\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\Ampps\www\maintex\app\Models\LoginModel.php(23): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\Ampps\www\maintex\app\Controllers\Login.php(26): App\Models\LoginModel->authenticate(NULL, NULL)
+#6 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Login->check_login()
+#7 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#8 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+ERROR - 2022-03-18 06:15:37 --> Table 'maintex_v3.usera' doesn't exist
+CRITICAL - 2022-03-18 06:15:37 --> Table 'maintex_v3.usera' doesn't exist
+#0 C:\Ampps\www\maintex\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\Ampps\www\maintex\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\Ampps\www\maintex\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\Ampps\www\maintex\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\Ampps\www\maintex\app\Models\LoginModel.php(23): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\Ampps\www\maintex\app\Controllers\Login.php(26): App\Models\LoginModel->authenticate('admin', '123456')
+#6 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Login->check_login()
+#7 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#8 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+ERROR - 2022-03-18 06:15:40 --> Table 'maintex_v3.usera' doesn't exist
+CRITICAL - 2022-03-18 06:15:40 --> Table 'maintex_v3.usera' doesn't exist
+#0 C:\Ampps\www\maintex\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\Ampps\www\maintex\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\Ampps\www\maintex\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\Ampps\www\maintex\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\Ampps\www\maintex\app\Models\LoginModel.php(23): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\Ampps\www\maintex\app\Controllers\Login.php(26): App\Models\LoginModel->authenticate(NULL, NULL)
+#6 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Login->check_login()
+#7 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#8 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+ERROR - 2022-03-18 06:15:58 --> Table 'maintex_v3.usera' doesn't exist
+CRITICAL - 2022-03-18 06:15:58 --> Table 'maintex_v3.usera' doesn't exist
+#0 C:\Ampps\www\maintex\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\Ampps\www\maintex\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\Ampps\www\maintex\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\Ampps\www\maintex\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\Ampps\www\maintex\app\Models\LoginModel.php(23): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\Ampps\www\maintex\app\Controllers\Login.php(26): App\Models\LoginModel->authenticate(NULL, NULL)
+#6 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Login->check_login()
+#7 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#8 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+ERROR - 2022-03-18 06:18:30 --> Table 'maintex_v3.usera' doesn't exist
+CRITICAL - 2022-03-18 06:18:30 --> Table 'maintex_v3.usera' doesn't exist
+#0 C:\Ampps\www\maintex\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\Ampps\www\maintex\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\Ampps\www\maintex\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\Ampps\www\maintex\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\Ampps\www\maintex\app\Models\LoginModel.php(23): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\Ampps\www\maintex\app\Controllers\Login.php(26): App\Models\LoginModel->authenticate('d', 'sd')
+#6 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Login->check_login()
+#7 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#8 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+ERROR - 2022-03-18 06:18:32 --> Table 'maintex_v3.usera' doesn't exist
+CRITICAL - 2022-03-18 06:18:32 --> Table 'maintex_v3.usera' doesn't exist
+#0 C:\Ampps\www\maintex\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\Ampps\www\maintex\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\Ampps\www\maintex\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\Ampps\www\maintex\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\Ampps\www\maintex\app\Models\LoginModel.php(23): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\Ampps\www\maintex\app\Controllers\Login.php(26): App\Models\LoginModel->authenticate('d', 'sd')
+#6 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Login->check_login()
+#7 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#8 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+ERROR - 2022-03-18 06:18:39 --> Table 'maintex_v3.usera' doesn't exist
+CRITICAL - 2022-03-18 06:18:39 --> Table 'maintex_v3.usera' doesn't exist
+#0 C:\Ampps\www\maintex\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\Ampps\www\maintex\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\Ampps\www\maintex\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\Ampps\www\maintex\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\Ampps\www\maintex\app\Models\LoginModel.php(23): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\Ampps\www\maintex\app\Controllers\Login.php(26): App\Models\LoginModel->authenticate('d', 'sd')
+#6 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Login->check_login()
+#7 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#8 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+ERROR - 2022-03-18 06:18:41 --> Table 'maintex_v3.usera' doesn't exist
+CRITICAL - 2022-03-18 06:18:41 --> Table 'maintex_v3.usera' doesn't exist
+#0 C:\Ampps\www\maintex\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\Ampps\www\maintex\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\Ampps\www\maintex\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\Ampps\www\maintex\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\Ampps\www\maintex\app\Models\LoginModel.php(23): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\Ampps\www\maintex\app\Controllers\Login.php(26): App\Models\LoginModel->authenticate(NULL, NULL)
+#6 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Login->check_login()
+#7 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#8 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+ERROR - 2022-03-18 06:26:45 --> Table 'maintex_v3.usera' doesn't exist
+CRITICAL - 2022-03-18 06:26:45 --> Call to a member function getNumRows() on bool
+#0 C:\Ampps\www\maintex\app\Controllers\Login.php(26): App\Models\LoginModel->authenticate('d', 'd')
+#1 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Login->check_login()
+#2 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#3 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2022-03-18 06:27:01 --> Table 'maintex_v3.usera' doesn't exist
+CRITICAL - 2022-03-18 06:27:01 --> Call to a member function getNumRows() on bool
+#0 C:\Ampps\www\maintex\app\Controllers\Login.php(26): App\Models\LoginModel->authenticate('d', 'd')
+#1 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Login->check_login()
+#2 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#3 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2022-03-18 06:27:14 --> Table 'maintex_v3.usera' doesn't exist
+CRITICAL - 2022-03-18 06:27:14 --> Call to a member function getNumRows() on bool
+#0 C:\Ampps\www\maintex\app\Controllers\Login.php(26): App\Models\LoginModel->authenticate(NULL, NULL)
+#1 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Login->check_login()
+#2 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#3 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2022-03-18 06:28:00 --> Table 'maintex_v3.usera' doesn't exist
+CRITICAL - 2022-03-18 06:28:00 --> Table 'maintex_v3.usera' doesn't exist
+#0 C:\Ampps\www\maintex\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\Ampps\www\maintex\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\Ampps\www\maintex\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\Ampps\www\maintex\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\Ampps\www\maintex\app\Models\LoginModel.php(23): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\Ampps\www\maintex\app\Controllers\Login.php(26): App\Models\LoginModel->authenticate(NULL, NULL)
+#6 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Login->check_login()
+#7 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#8 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2022-03-18 06:30:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2022-03-18 06:30:48 --> Table 'maintex_v3.usera' doesn't exist
+CRITICAL - 2022-03-18 06:30:48 --> Table 'maintex_v3.usera' doesn't exist
+#0 C:\Ampps\www\maintex\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\Ampps\www\maintex\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\Ampps\www\maintex\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\Ampps\www\maintex\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\Ampps\www\maintex\app\Models\LoginModel.php(23): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\Ampps\www\maintex\app\Controllers\Login.php(26): App\Models\LoginModel->authenticate('d', 'd')
+#6 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Login->check_login()
+#7 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#8 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2022-03-18 06:30:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2022-03-18 06:30:50 --> Table 'maintex_v3.usera' doesn't exist
+CRITICAL - 2022-03-18 06:30:50 --> Table 'maintex_v3.usera' doesn't exist
+#0 C:\Ampps\www\maintex\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\Ampps\www\maintex\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\Ampps\www\maintex\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\Ampps\www\maintex\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\Ampps\www\maintex\app\Models\LoginModel.php(23): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\Ampps\www\maintex\app\Controllers\Login.php(26): App\Models\LoginModel->authenticate('d', 'd')
+#6 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Login->check_login()
+#7 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#8 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2022-03-18 06:30:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2022-03-18 06:30:53 --> Table 'maintex_v3.usera' doesn't exist
+CRITICAL - 2022-03-18 06:30:53 --> Table 'maintex_v3.usera' doesn't exist
+#0 C:\Ampps\www\maintex\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\Ampps\www\maintex\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\Ampps\www\maintex\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\Ampps\www\maintex\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\Ampps\www\maintex\app\Models\LoginModel.php(23): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\Ampps\www\maintex\app\Controllers\Login.php(26): App\Models\LoginModel->authenticate(NULL, NULL)
+#6 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Login->check_login()
+#7 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#8 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2022-03-18 06:31:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2022-03-18 06:31:46 --> Table 'maintex_v3.usera' doesn't exist
+CRITICAL - 2022-03-18 06:31:46 --> Table 'maintex_v3.usera' doesn't exist
+#0 C:\Ampps\www\maintex\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\Ampps\www\maintex\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\Ampps\www\maintex\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\Ampps\www\maintex\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\Ampps\www\maintex\app\Models\LoginModel.php(23): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\Ampps\www\maintex\app\Controllers\Login.php(26): App\Models\LoginModel->authenticate('d', 'd')
+#6 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Login->check_login()
+#7 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#8 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2022-03-18 06:32:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2022-03-18 06:32:36 --> Table 'maintex_v3.usera' doesn't exist
+CRITICAL - 2022-03-18 06:32:36 --> Table 'maintex_v3.usera' doesn't exist
+#0 C:\Ampps\www\maintex\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\Ampps\www\maintex\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\Ampps\www\maintex\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\Ampps\www\maintex\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\Ampps\www\maintex\app\Models\LoginModel.php(23): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\Ampps\www\maintex\app\Controllers\Login.php(26): App\Models\LoginModel->authenticate(NULL, NULL)
+#6 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Login->check_login()
+#7 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#8 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2022-03-18 06:34:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2022-03-18 06:34:42 --> Table 'maintex_v3.usera' doesn't exist
+CRITICAL - 2022-03-18 06:34:42 --> Table 'maintex_v3.usera' doesn't exist
+#0 C:\Ampps\www\maintex\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\Ampps\www\maintex\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\Ampps\www\maintex\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\Ampps\www\maintex\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\Ampps\www\maintex\app\Models\LoginModel.php(23): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\Ampps\www\maintex\app\Controllers\Login.php(26): App\Models\LoginModel->authenticate('d', 'd')
+#6 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Login->check_login()
+#7 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#8 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2022-03-18 06:36:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2022-03-18 06:36:22 --> Table 'maintex_v3.usera' doesn't exist
+CRITICAL - 2022-03-18 06:36:22 --> Table 'maintex_v3.usera' doesn't exist
+#0 C:\Ampps\www\maintex\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\Ampps\www\maintex\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\Ampps\www\maintex\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\Ampps\www\maintex\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\Ampps\www\maintex\app\Models\LoginModel.php(23): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\Ampps\www\maintex\app\Controllers\Login.php(26): App\Models\LoginModel->authenticate('d', 'd')
+#6 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Login->check_login()
+#7 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#8 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2022-03-18 06:36:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2022-03-18 06:36:37 --> Table 'maintex_v3.usera' doesn't exist
+CRITICAL - 2022-03-18 06:36:37 --> Table 'maintex_v3.usera' doesn't exist
+#0 C:\Ampps\www\maintex\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\Ampps\www\maintex\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\Ampps\www\maintex\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\Ampps\www\maintex\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\Ampps\www\maintex\app\Models\LoginModel.php(23): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\Ampps\www\maintex\app\Controllers\Login.php(26): App\Models\LoginModel->authenticate(NULL, NULL)
+#6 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Login->check_login()
+#7 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#8 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2022-03-18 06:37:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2022-03-18 06:37:15 --> Table 'maintex_v3.usera' doesn't exist
+CRITICAL - 2022-03-18 06:37:15 --> Table 'maintex_v3.usera' doesn't exist
+#0 C:\Ampps\www\maintex\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\Ampps\www\maintex\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\Ampps\www\maintex\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\Ampps\www\maintex\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\Ampps\www\maintex\app\Models\LoginModel.php(23): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\Ampps\www\maintex\app\Controllers\Login.php(26): App\Models\LoginModel->authenticate('d', 'd')
+#6 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Login->check_login()
+#7 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#8 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2022-03-18 06:37:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2022-03-18 06:37:17 --> Table 'maintex_v3.usera' doesn't exist
+CRITICAL - 2022-03-18 06:37:17 --> Table 'maintex_v3.usera' doesn't exist
+#0 C:\Ampps\www\maintex\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\Ampps\www\maintex\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\Ampps\www\maintex\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\Ampps\www\maintex\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\Ampps\www\maintex\app\Models\LoginModel.php(23): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\Ampps\www\maintex\app\Controllers\Login.php(26): App\Models\LoginModel->authenticate(NULL, NULL)
+#6 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Login->check_login()
+#7 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#8 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2022-03-18 06:39:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-18 06:40:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-18 06:40:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-18 06:40:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2022-03-18 06:40:58 --> Table 'maintex_v3.users' doesn't exist
+CRITICAL - 2022-03-18 06:40:58 --> Table 'maintex_v3.users' doesn't exist
+#0 C:\Ampps\www\maintex\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\Ampps\www\maintex\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\Ampps\www\maintex\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\Ampps\www\maintex\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\Ampps\www\maintex\app\Models\LoginModel.php(23): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\Ampps\www\maintex\app\Controllers\Login.php(26): App\Models\LoginModel->authenticate('d', 'd')
+#6 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Login->check_login()
+#7 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#8 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2022-03-18 06:46:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2022-03-18 06:46:08 --> Table 'maintex_v3.users' doesn't exist
+CRITICAL - 2022-03-18 06:46:08 --> Table 'maintex_v3.users' doesn't exist
+#0 C:\Ampps\www\maintex\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\Ampps\www\maintex\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\Ampps\www\maintex\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\Ampps\www\maintex\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\Ampps\www\maintex\app\Models\LoginModel.php(23): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\Ampps\www\maintex\app\Controllers\Login.php(26): App\Models\LoginModel->authenticate(NULL, NULL)
+#6 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Login->check_login()
+#7 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#8 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2022-03-18 06:46:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2022-03-18 06:46:28 --> Unknown column '*D' in 'field list'
+CRITICAL - 2022-03-18 06:46:28 --> Unknown column '*D' in 'field list'
+#0 C:\Ampps\www\maintex\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT `*D`\nFRO...', 0)
+#1 C:\Ampps\www\maintex\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `*D`\nFRO...')
+#2 C:\Ampps\www\maintex\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `*D`\nFRO...')
+#3 C:\Ampps\www\maintex\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT `*D`\nFRO...', Array, false)
+#4 C:\Ampps\www\maintex\app\Models\LoginModel.php(23): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\Ampps\www\maintex\app\Controllers\Login.php(26): App\Models\LoginModel->authenticate(NULL, NULL)
+#6 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Login->check_login()
+#7 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#8 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2022-03-18 06:48:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-03-18 06:48:56 --> You must set the database table to be used with your query.
+#0 C:\Ampps\www\maintex\system\Model.php(545): CodeIgniter\Database\BaseConnection->table(NULL)
+#1 C:\Ampps\www\maintex\system\Model.php(693): CodeIgniter\Model->builder()
+#2 C:\Ampps\www\maintex\app\Models\LoginModel.php(46): CodeIgniter\Model->__get('session')
+#3 C:\Ampps\www\maintex\app\Models\LoginModel.php(27): App\Models\LoginModel->set_user_session(Object(stdClass))
+#4 C:\Ampps\www\maintex\app\Controllers\Login.php(26): App\Models\LoginModel->authenticate('a', 'a')
+#5 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Login->check_login()
+#6 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#7 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+INFO - 2022-03-18 06:49:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-03-18 06:49:52 --> You must set the database table to be used with your query.
+#0 C:\Ampps\www\maintex\system\Model.php(545): CodeIgniter\Database\BaseConnection->table(NULL)
+#1 C:\Ampps\www\maintex\system\Model.php(693): CodeIgniter\Model->builder()
+#2 C:\Ampps\www\maintex\app\Models\LoginModel.php(46): CodeIgniter\Model->__get('session')
+#3 C:\Ampps\www\maintex\app\Models\LoginModel.php(27): App\Models\LoginModel->set_user_session(Object(stdClass))
+#4 C:\Ampps\www\maintex\app\Controllers\Login.php(26): App\Models\LoginModel->authenticate('a', 'a')
+#5 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Login->check_login()
+#6 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#7 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+INFO - 2022-03-18 06:50:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-18 06:50:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-03-18 06:50:19 --> You must set the database table to be used with your query.
+#0 C:\Ampps\www\maintex\system\Model.php(545): CodeIgniter\Database\BaseConnection->table(NULL)
+#1 C:\Ampps\www\maintex\system\Model.php(693): CodeIgniter\Model->builder()
+#2 C:\Ampps\www\maintex\app\Models\LoginModel.php(46): CodeIgniter\Model->__get('session')
+#3 C:\Ampps\www\maintex\app\Models\LoginModel.php(27): App\Models\LoginModel->set_user_session(Object(stdClass))
+#4 C:\Ampps\www\maintex\app\Controllers\Login.php(26): App\Models\LoginModel->authenticate('a', 'a')
+#5 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Login->check_login()
+#6 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#7 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+INFO - 2022-03-18 06:50:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-03-18 06:50:28 --> You must set the database table to be used with your query.
+#0 C:\Ampps\www\maintex\system\Model.php(545): CodeIgniter\Database\BaseConnection->table(NULL)
+#1 C:\Ampps\www\maintex\system\Model.php(693): CodeIgniter\Model->builder()
+#2 C:\Ampps\www\maintex\app\Models\LoginModel.php(46): CodeIgniter\Model->__get('session')
+#3 C:\Ampps\www\maintex\app\Models\LoginModel.php(27): App\Models\LoginModel->set_user_session(Object(stdClass))
+#4 C:\Ampps\www\maintex\app\Controllers\Login.php(26): App\Models\LoginModel->authenticate('a', 'a')
+#5 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Login->check_login()
+#6 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#7 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+INFO - 2022-03-18 06:50:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-18 06:50:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-18 06:50:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-03-18 06:50:52 --> You must set the database table to be used with your query.
+#0 C:\Ampps\www\maintex\system\Model.php(545): CodeIgniter\Database\BaseConnection->table(NULL)
+#1 C:\Ampps\www\maintex\system\Model.php(693): CodeIgniter\Model->builder()
+#2 C:\Ampps\www\maintex\app\Models\LoginModel.php(46): CodeIgniter\Model->__get('session')
+#3 C:\Ampps\www\maintex\app\Models\LoginModel.php(27): App\Models\LoginModel->set_user_session(Object(stdClass))
+#4 C:\Ampps\www\maintex\app\Controllers\Login.php(26): App\Models\LoginModel->authenticate('a', 'a')
+#5 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Login->check_login()
+#6 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#7 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+INFO - 2022-03-18 06:50:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-03-18 06:50:56 --> You must set the database table to be used with your query.
+#0 C:\Ampps\www\maintex\system\Model.php(545): CodeIgniter\Database\BaseConnection->table(NULL)
+#1 C:\Ampps\www\maintex\system\Model.php(693): CodeIgniter\Model->builder()
+#2 C:\Ampps\www\maintex\app\Models\LoginModel.php(46): CodeIgniter\Model->__get('session')
+#3 C:\Ampps\www\maintex\app\Models\LoginModel.php(27): App\Models\LoginModel->set_user_session(Object(stdClass))
+#4 C:\Ampps\www\maintex\app\Controllers\Login.php(26): App\Models\LoginModel->authenticate('a', 'a')
+#5 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Login->check_login()
+#6 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#7 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+INFO - 2022-03-18 06:50:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-18 06:52:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-03-18 06:52:00 --> You must set the database table to be used with your query.
+#0 C:\Ampps\www\maintex\system\Model.php(545): CodeIgniter\Database\BaseConnection->table(NULL)
+#1 C:\Ampps\www\maintex\system\Model.php(693): CodeIgniter\Model->builder()
+#2 C:\Ampps\www\maintex\app\Models\LoginModel.php(46): CodeIgniter\Model->__get('session')
+#3 C:\Ampps\www\maintex\app\Models\LoginModel.php(27): App\Models\LoginModel->set_user_session(Object(stdClass))
+#4 C:\Ampps\www\maintex\app\Controllers\Login.php(26): App\Models\LoginModel->authenticate('a', 'a')
+#5 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Login->check_login()
+#6 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#7 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+INFO - 2022-03-18 06:52:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-18 06:57:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-18 06:57:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-03-18 06:57:29 --> You must set the database table to be used with your query.
+#0 C:\Ampps\www\maintex\system\Model.php(545): CodeIgniter\Database\BaseConnection->table(NULL)
+#1 C:\Ampps\www\maintex\system\Model.php(693): CodeIgniter\Model->builder()
+#2 C:\Ampps\www\maintex\app\Models\LoginModel.php(46): CodeIgniter\Model->__get('session')
+#3 C:\Ampps\www\maintex\app\Models\LoginModel.php(27): App\Models\LoginModel->set_user_session(Object(stdClass))
+#4 C:\Ampps\www\maintex\app\Controllers\Login.php(26): App\Models\LoginModel->authenticate('a', 'a')
+#5 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Login->check_login()
+#6 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#7 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+INFO - 2022-03-18 06:57:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-03-18 06:57:37 --> You must set the database table to be used with your query.
+#0 C:\Ampps\www\maintex\system\Model.php(545): CodeIgniter\Database\BaseConnection->table(NULL)
+#1 C:\Ampps\www\maintex\system\Model.php(693): CodeIgniter\Model->builder()
+#2 C:\Ampps\www\maintex\app\Models\LoginModel.php(46): CodeIgniter\Model->__get('session')
+#3 C:\Ampps\www\maintex\app\Models\LoginModel.php(27): App\Models\LoginModel->set_user_session(Object(stdClass))
+#4 C:\Ampps\www\maintex\app\Controllers\Login.php(26): App\Models\LoginModel->authenticate('a', 'a')
+#5 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Login->check_login()
+#6 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#7 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+INFO - 2022-03-18 06:57:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-18 07:07:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-18 07:07:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-03-18 07:07:33 --> Undefined property: stdClass::$profile
+#0 C:\Ampps\www\maintex\app\Models\LoginModel.php(38): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\Ampps\\www\\ma...', 38, Array)
+#1 C:\Ampps\www\maintex\app\Models\LoginModel.php(27): App\Models\LoginModel->set_user_session(Object(stdClass))
+#2 C:\Ampps\www\maintex\app\Controllers\Login.php(26): App\Models\LoginModel->authenticate('a', 'a')
+#3 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Login->check_login()
+#4 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#5 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+INFO - 2022-03-18 07:07:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-03-18 07:07:39 --> Undefined property: stdClass::$profile
+#0 C:\Ampps\www\maintex\app\Models\LoginModel.php(38): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\Ampps\\www\\ma...', 38, Array)
+#1 C:\Ampps\www\maintex\app\Models\LoginModel.php(27): App\Models\LoginModel->set_user_session(Object(stdClass))
+#2 C:\Ampps\www\maintex\app\Controllers\Login.php(26): App\Models\LoginModel->authenticate('a', 'a')
+#3 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Login->check_login()
+#4 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#5 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+INFO - 2022-03-18 09:24:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-18 13:05:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+>>>>>>> 813654c59a8d2c0868f4ff0c8b9e166049954584

@@ -1,0 +1,1060 @@
+<<<<<<< HEAD
+CRITICAL - 2022-03-17 15:09:53 --> The framework needs the following extension(s) installed and loaded: curl.
+#0 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('curl')
+#1 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\UwAmp\www\Application\maintex_v3\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\UwAmp\www\Application\maintex_v3\index.php(28): require('C:\\UwAmp\\www\\Ap...')
+#4 {main}
+CRITICAL - 2022-03-17 15:10:14 --> The framework needs the following extension(s) installed and loaded: curl.
+#0 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('curl')
+#1 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\UwAmp\www\Application\maintex_v3\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\UwAmp\www\Application\maintex_v3\index.php(28): require('C:\\UwAmp\\www\\Ap...')
+#4 {main}
+CRITICAL - 2022-03-17 15:10:17 --> The framework needs the following extension(s) installed and loaded: curl.
+#0 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('curl')
+#1 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\UwAmp\www\Application\maintex_v3\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\UwAmp\www\Application\maintex_v3\index.php(28): require('C:\\UwAmp\\www\\Ap...')
+#4 {main}
+CRITICAL - 2022-03-17 15:17:05 --> The framework needs the following extension(s) installed and loaded: curl.
+#0 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('curl')
+#1 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\UwAmp\www\Application\maintex_v3\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\UwAmp\www\Application\maintex_v3\index.php(28): require('C:\\UwAmp\\www\\Ap...')
+#4 {main}
+CRITICAL - 2022-03-17 15:17:12 --> The framework needs the following extension(s) installed and loaded: curl.
+#0 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('curl')
+#1 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\UwAmp\www\Application\maintex_v3\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\UwAmp\www\Application\maintex_v3\index.php(28): require('C:\\UwAmp\\www\\Ap...')
+#4 {main}
+CRITICAL - 2022-03-17 15:21:08 --> The framework needs the following extension(s) installed and loaded: curl.
+#0 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('curl')
+#1 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\UwAmp\www\Application\maintex_v3\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\UwAmp\www\Application\maintex_v3\index.php(28): require('C:\\UwAmp\\www\\Ap...')
+#4 {main}
+CRITICAL - 2022-03-17 15:26:18 --> The framework needs the following extension(s) installed and loaded: curl, intl.
+#0 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('curl, intl')
+#1 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\UwAmp\www\Application\maintex_v3\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\UwAmp\www\Application\maintex_v3\index.php(28): require('C:\\UwAmp\\www\\Ap...')
+#4 {main}
+CRITICAL - 2022-03-17 15:26:21 --> The framework needs the following extension(s) installed and loaded: curl, intl.
+#0 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('curl, intl')
+#1 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\UwAmp\www\Application\maintex_v3\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\UwAmp\www\Application\maintex_v3\index.php(28): require('C:\\UwAmp\\www\\Ap...')
+#4 {main}
+CRITICAL - 2022-03-17 15:26:23 --> The framework needs the following extension(s) installed and loaded: curl, intl.
+#0 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('curl, intl')
+#1 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\UwAmp\www\Application\maintex_v3\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\UwAmp\www\Application\maintex_v3\index.php(28): require('C:\\UwAmp\\www\\Ap...')
+#4 {main}
+CRITICAL - 2022-03-17 15:26:26 --> The framework needs the following extension(s) installed and loaded: curl, intl.
+#0 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('curl, intl')
+#1 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\UwAmp\www\Application\maintex_v3\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\UwAmp\www\Application\maintex_v3\index.php(28): require('C:\\UwAmp\\www\\Ap...')
+#4 {main}
+CRITICAL - 2022-03-17 15:27:46 --> The framework needs the following extension(s) installed and loaded: curl.
+#0 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('curl')
+#1 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\UwAmp\www\Application\maintex_v3\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\UwAmp\www\Application\maintex_v3\index.php(28): require('C:\\UwAmp\\www\\Ap...')
+#4 {main}
+CRITICAL - 2022-03-17 15:27:47 --> The framework needs the following extension(s) installed and loaded: curl.
+#0 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('curl')
+#1 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\UwAmp\www\Application\maintex_v3\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\UwAmp\www\Application\maintex_v3\index.php(28): require('C:\\UwAmp\\www\\Ap...')
+#4 {main}
+CRITICAL - 2022-03-17 15:27:48 --> The framework needs the following extension(s) installed and loaded: curl.
+#0 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('curl')
+#1 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\UwAmp\www\Application\maintex_v3\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\UwAmp\www\Application\maintex_v3\index.php(28): require('C:\\UwAmp\\www\\Ap...')
+#4 {main}
+CRITICAL - 2022-03-17 15:27:50 --> The framework needs the following extension(s) installed and loaded: curl.
+#0 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('curl')
+#1 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\UwAmp\www\Application\maintex_v3\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\UwAmp\www\Application\maintex_v3\index.php(28): require('C:\\UwAmp\\www\\Ap...')
+#4 {main}
+CRITICAL - 2022-03-17 15:27:51 --> The framework needs the following extension(s) installed and loaded: curl.
+#0 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('curl')
+#1 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\UwAmp\www\Application\maintex_v3\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\UwAmp\www\Application\maintex_v3\index.php(28): require('C:\\UwAmp\\www\\Ap...')
+#4 {main}
+CRITICAL - 2022-03-17 15:27:55 --> The framework needs the following extension(s) installed and loaded: curl.
+#0 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('curl')
+#1 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\UwAmp\www\Application\maintex_v3\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\UwAmp\www\Application\maintex_v3\index.php(28): require('C:\\UwAmp\\www\\Ap...')
+#4 {main}
+CRITICAL - 2022-03-17 15:27:58 --> The framework needs the following extension(s) installed and loaded: curl.
+#0 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('curl')
+#1 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\UwAmp\www\Application\maintex_v3\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\UwAmp\www\Application\maintex_v3\index.php(28): require('C:\\UwAmp\\www\\Ap...')
+#4 {main}
+CRITICAL - 2022-03-17 15:41:32 --> The framework needs the following extension(s) installed and loaded: curl.
+#0 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('curl')
+#1 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\UwAmp\www\Application\maintex_v3\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\UwAmp\www\Application\maintex_v3\index.php(28): require('C:\\UwAmp\\www\\Ap...')
+#4 {main}
+CRITICAL - 2022-03-17 15:47:06 --> The framework needs the following extension(s) installed and loaded: curl.
+#0 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('curl')
+#1 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\UwAmp\www\Application\maintex_v3\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\UwAmp\www\Application\maintex_v3\index.php(28): require('C:\\UwAmp\\www\\Ap...')
+#4 {main}
+CRITICAL - 2022-03-17 15:47:10 --> The framework needs the following extension(s) installed and loaded: curl.
+#0 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('curl')
+#1 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\UwAmp\www\Application\maintex_v3\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\UwAmp\www\Application\maintex_v3\index.php(28): require('C:\\UwAmp\\www\\Ap...')
+#4 {main}
+CRITICAL - 2022-03-17 15:47:14 --> The framework needs the following extension(s) installed and loaded: curl.
+#0 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('curl')
+#1 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\UwAmp\www\Application\maintex_v3\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\UwAmp\www\Application\maintex_v3\index.php(28): require('C:\\UwAmp\\www\\Ap...')
+#4 {main}
+CRITICAL - 2022-03-17 15:47:15 --> The framework needs the following extension(s) installed and loaded: curl.
+#0 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('curl')
+#1 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\UwAmp\www\Application\maintex_v3\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\UwAmp\www\Application\maintex_v3\index.php(28): require('C:\\UwAmp\\www\\Ap...')
+#4 {main}
+CRITICAL - 2022-03-17 15:48:01 --> The framework needs the following extension(s) installed and loaded: curl.
+#0 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('curl')
+#1 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\UwAmp\www\Application\maintex_v3\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\UwAmp\www\Application\maintex_v3\index.php(28): require('C:\\UwAmp\\www\\Ap...')
+#4 {main}
+CRITICAL - 2022-03-17 15:48:02 --> The framework needs the following extension(s) installed and loaded: curl.
+#0 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('curl')
+#1 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\UwAmp\www\Application\maintex_v3\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\UwAmp\www\Application\maintex_v3\index.php(28): require('C:\\UwAmp\\www\\Ap...')
+#4 {main}
+CRITICAL - 2022-03-17 15:48:04 --> The framework needs the following extension(s) installed and loaded: curl.
+#0 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('curl')
+#1 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\UwAmp\www\Application\maintex_v3\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\UwAmp\www\Application\maintex_v3\index.php(28): require('C:\\UwAmp\\www\\Ap...')
+#4 {main}
+CRITICAL - 2022-03-17 15:48:06 --> The framework needs the following extension(s) installed and loaded: curl.
+#0 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('curl')
+#1 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\UwAmp\www\Application\maintex_v3\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\UwAmp\www\Application\maintex_v3\index.php(28): require('C:\\UwAmp\\www\\Ap...')
+#4 {main}
+CRITICAL - 2022-03-17 15:51:00 --> The framework needs the following extension(s) installed and loaded: curl.
+#0 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('curl')
+#1 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\UwAmp\www\Application\maintex_v3\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\UwAmp\www\Application\maintex_v3\index.php(28): require('C:\\UwAmp\\www\\Ap...')
+#4 {main}
+CRITICAL - 2022-03-17 15:51:01 --> The framework needs the following extension(s) installed and loaded: curl.
+#0 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('curl')
+#1 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\UwAmp\www\Application\maintex_v3\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\UwAmp\www\Application\maintex_v3\index.php(28): require('C:\\UwAmp\\www\\Ap...')
+#4 {main}
+CRITICAL - 2022-03-17 15:51:02 --> The framework needs the following extension(s) installed and loaded: curl.
+#0 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('curl')
+#1 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\UwAmp\www\Application\maintex_v3\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\UwAmp\www\Application\maintex_v3\index.php(28): require('C:\\UwAmp\\www\\Ap...')
+#4 {main}
+CRITICAL - 2022-03-17 15:51:03 --> The framework needs the following extension(s) installed and loaded: curl.
+#0 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('curl')
+#1 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\UwAmp\www\Application\maintex_v3\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\UwAmp\www\Application\maintex_v3\index.php(28): require('C:\\UwAmp\\www\\Ap...')
+#4 {main}
+CRITICAL - 2022-03-17 15:51:36 --> The framework needs the following extension(s) installed and loaded: curl.
+#0 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('curl')
+#1 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\UwAmp\www\Application\maintex_v3\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\UwAmp\www\Application\maintex_v3\index.php(28): require('C:\\UwAmp\\www\\Ap...')
+#4 {main}
+CRITICAL - 2022-03-17 15:51:38 --> The framework needs the following extension(s) installed and loaded: curl.
+#0 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('curl')
+#1 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\UwAmp\www\Application\maintex_v3\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\UwAmp\www\Application\maintex_v3\index.php(28): require('C:\\UwAmp\\www\\Ap...')
+#4 {main}
+CRITICAL - 2022-03-17 15:51:39 --> The framework needs the following extension(s) installed and loaded: curl.
+#0 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('curl')
+#1 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\UwAmp\www\Application\maintex_v3\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\UwAmp\www\Application\maintex_v3\index.php(28): require('C:\\UwAmp\\www\\Ap...')
+#4 {main}
+CRITICAL - 2022-03-17 15:51:40 --> The framework needs the following extension(s) installed and loaded: curl.
+#0 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('curl')
+#1 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\UwAmp\www\Application\maintex_v3\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\UwAmp\www\Application\maintex_v3\index.php(28): require('C:\\UwAmp\\www\\Ap...')
+#4 {main}
+CRITICAL - 2022-03-17 16:09:26 --> The framework needs the following extension(s) installed and loaded: curl.
+#0 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(218): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('curl')
+#1 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\UwAmp\www\Application\maintex_v3\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\UwAmp\www\Application\maintex_v3\index.php(28): require('C:\\UwAmp\\www\\Ap...')
+#4 {main}
+CRITICAL - 2022-03-17 16:09:27 --> The framework needs the following extension(s) installed and loaded: curl.
+#0 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(218): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('curl')
+#1 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\UwAmp\www\Application\maintex_v3\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\UwAmp\www\Application\maintex_v3\index.php(28): require('C:\\UwAmp\\www\\Ap...')
+#4 {main}
+CRITICAL - 2022-03-17 16:09:28 --> The framework needs the following extension(s) installed and loaded: curl.
+#0 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(218): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('curl')
+#1 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\UwAmp\www\Application\maintex_v3\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\UwAmp\www\Application\maintex_v3\index.php(28): require('C:\\UwAmp\\www\\Ap...')
+#4 {main}
+CRITICAL - 2022-03-17 16:09:29 --> The framework needs the following extension(s) installed and loaded: curl.
+#0 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(218): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('curl')
+#1 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\UwAmp\www\Application\maintex_v3\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\UwAmp\www\Application\maintex_v3\index.php(28): require('C:\\UwAmp\\www\\Ap...')
+#4 {main}
+CRITICAL - 2022-03-17 16:11:34 --> The framework needs the following extension(s) installed and loaded: curl.
+#0 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('curl')
+#1 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\UwAmp\www\Application\maintex_v3\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\UwAmp\www\Application\maintex_v3\index.php(28): require('C:\\UwAmp\\www\\Ap...')
+#4 {main}
+CRITICAL - 2022-03-17 16:11:36 --> The framework needs the following extension(s) installed and loaded: curl.
+#0 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('curl')
+#1 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\UwAmp\www\Application\maintex_v3\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\UwAmp\www\Application\maintex_v3\index.php(28): require('C:\\UwAmp\\www\\Ap...')
+#4 {main}
+CRITICAL - 2022-03-17 16:11:53 --> The framework needs the following extension(s) installed and loaded: curl.
+#0 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('curl')
+#1 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\UwAmp\www\Application\maintex_v3\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\UwAmp\www\Application\maintex_v3\index.php(28): require('C:\\UwAmp\\www\\Ap...')
+#4 {main}
+CRITICAL - 2022-03-17 16:11:54 --> The framework needs the following extension(s) installed and loaded: curl.
+#0 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('curl')
+#1 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\UwAmp\www\Application\maintex_v3\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\UwAmp\www\Application\maintex_v3\index.php(28): require('C:\\UwAmp\\www\\Ap...')
+#4 {main}
+CRITICAL - 2022-03-17 16:11:55 --> The framework needs the following extension(s) installed and loaded: curl.
+#0 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('curl')
+#1 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\UwAmp\www\Application\maintex_v3\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\UwAmp\www\Application\maintex_v3\index.php(28): require('C:\\UwAmp\\www\\Ap...')
+#4 {main}
+CRITICAL - 2022-03-17 16:11:56 --> The framework needs the following extension(s) installed and loaded: curl.
+#0 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('curl')
+#1 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\UwAmp\www\Application\maintex_v3\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\UwAmp\www\Application\maintex_v3\index.php(28): require('C:\\UwAmp\\www\\Ap...')
+#4 {main}
+CRITICAL - 2022-03-17 16:12:00 --> The framework needs the following extension(s) installed and loaded: curl.
+#0 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('curl')
+#1 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\UwAmp\www\Application\maintex_v3\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\UwAmp\www\Application\maintex_v3\index.php(28): require('C:\\UwAmp\\www\\Ap...')
+#4 {main}
+CRITICAL - 2022-03-17 16:17:42 --> The framework needs the following extension(s) installed and loaded: curl.
+#0 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('curl')
+#1 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\UwAmp\www\Application\maintex_v3\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\UwAmp\www\Application\maintex_v3\index.php(28): require('C:\\UwAmp\\www\\Ap...')
+#4 {main}
+CRITICAL - 2022-03-17 16:17:43 --> The framework needs the following extension(s) installed and loaded: curl.
+#0 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('curl')
+#1 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\UwAmp\www\Application\maintex_v3\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\UwAmp\www\Application\maintex_v3\index.php(28): require('C:\\UwAmp\\www\\Ap...')
+#4 {main}
+CRITICAL - 2022-03-17 16:17:45 --> The framework needs the following extension(s) installed and loaded: curl.
+#0 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('curl')
+#1 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\UwAmp\www\Application\maintex_v3\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\UwAmp\www\Application\maintex_v3\index.php(28): require('C:\\UwAmp\\www\\Ap...')
+#4 {main}
+CRITICAL - 2022-03-17 16:17:46 --> The framework needs the following extension(s) installed and loaded: curl.
+#0 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('curl')
+#1 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\UwAmp\www\Application\maintex_v3\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\UwAmp\www\Application\maintex_v3\index.php(28): require('C:\\UwAmp\\www\\Ap...')
+#4 {main}
+CRITICAL - 2022-03-17 16:17:47 --> The framework needs the following extension(s) installed and loaded: curl.
+#0 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('curl')
+#1 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\UwAmp\www\Application\maintex_v3\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\UwAmp\www\Application\maintex_v3\index.php(28): require('C:\\UwAmp\\www\\Ap...')
+#4 {main}
+CRITICAL - 2022-03-17 16:30:06 --> The framework needs the following extension(s) installed and loaded: curl.
+#0 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('curl')
+#1 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\UwAmp\www\Application\maintex_v3\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\UwAmp\www\Application\maintex_v3\index.php(28): require('C:\\UwAmp\\www\\Ap...')
+#4 {main}
+CRITICAL - 2022-03-17 16:30:08 --> The framework needs the following extension(s) installed and loaded: curl.
+#0 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('curl')
+#1 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\UwAmp\www\Application\maintex_v3\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\UwAmp\www\Application\maintex_v3\index.php(28): require('C:\\UwAmp\\www\\Ap...')
+#4 {main}
+CRITICAL - 2022-03-17 16:30:09 --> The framework needs the following extension(s) installed and loaded: curl.
+#0 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('curl')
+#1 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\UwAmp\www\Application\maintex_v3\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\UwAmp\www\Application\maintex_v3\index.php(28): require('C:\\UwAmp\\www\\Ap...')
+#4 {main}
+CRITICAL - 2022-03-17 16:30:11 --> The framework needs the following extension(s) installed and loaded: curl.
+#0 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('curl')
+#1 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\UwAmp\www\Application\maintex_v3\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\UwAmp\www\Application\maintex_v3\index.php(28): require('C:\\UwAmp\\www\\Ap...')
+#4 {main}
+CRITICAL - 2022-03-17 16:30:12 --> The framework needs the following extension(s) installed and loaded: curl.
+#0 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('curl')
+#1 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\UwAmp\www\Application\maintex_v3\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\UwAmp\www\Application\maintex_v3\index.php(28): require('C:\\UwAmp\\www\\Ap...')
+#4 {main}
+CRITICAL - 2022-03-17 16:30:14 --> The framework needs the following extension(s) installed and loaded: curl.
+#0 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('curl')
+#1 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\UwAmp\www\Application\maintex_v3\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\UwAmp\www\Application\maintex_v3\index.php(28): require('C:\\UwAmp\\www\\Ap...')
+#4 {main}
+CRITICAL - 2022-03-17 16:30:15 --> The framework needs the following extension(s) installed and loaded: curl.
+#0 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('curl')
+#1 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\UwAmp\www\Application\maintex_v3\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\UwAmp\www\Application\maintex_v3\index.php(28): require('C:\\UwAmp\\www\\Ap...')
+#4 {main}
+CRITICAL - 2022-03-17 16:30:18 --> The framework needs the following extension(s) installed and loaded: curl.
+#0 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('curl')
+#1 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\UwAmp\www\Application\maintex_v3\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\UwAmp\www\Application\maintex_v3\index.php(28): require('C:\\UwAmp\\www\\Ap...')
+#4 {main}
+CRITICAL - 2022-03-17 16:33:27 --> The framework needs the following extension(s) installed and loaded: curl.
+#0 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('curl')
+#1 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\UwAmp\www\Application\maintex_v3\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\UwAmp\www\Application\maintex_v3\index.php(28): require('C:\\UwAmp\\www\\Ap...')
+#4 {main}
+CRITICAL - 2022-03-17 16:33:30 --> The framework needs the following extension(s) installed and loaded: curl.
+#0 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('curl')
+#1 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\UwAmp\www\Application\maintex_v3\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\UwAmp\www\Application\maintex_v3\index.php(28): require('C:\\UwAmp\\www\\Ap...')
+#4 {main}
+CRITICAL - 2022-03-17 16:33:31 --> The framework needs the following extension(s) installed and loaded: curl.
+#0 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('curl')
+#1 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\UwAmp\www\Application\maintex_v3\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\UwAmp\www\Application\maintex_v3\index.php(28): require('C:\\UwAmp\\www\\Ap...')
+#4 {main}
+CRITICAL - 2022-03-17 16:33:31 --> The framework needs the following extension(s) installed and loaded: curl.
+#0 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('curl')
+#1 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\UwAmp\www\Application\maintex_v3\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\UwAmp\www\Application\maintex_v3\index.php(28): require('C:\\UwAmp\\www\\Ap...')
+#4 {main}
+CRITICAL - 2022-03-17 16:43:58 --> The framework needs the following extension(s) installed and loaded: curl.
+#0 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('curl')
+#1 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\UwAmp\www\Application\maintex_v3\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\UwAmp\www\Application\maintex_v3\index.php(28): require('C:\\UwAmp\\www\\Ap...')
+#4 {main}
+CRITICAL - 2022-03-17 16:44:01 --> The framework needs the following extension(s) installed and loaded: curl.
+#0 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('curl')
+#1 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\UwAmp\www\Application\maintex_v3\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\UwAmp\www\Application\maintex_v3\index.php(28): require('C:\\UwAmp\\www\\Ap...')
+#4 {main}
+CRITICAL - 2022-03-17 16:44:02 --> The framework needs the following extension(s) installed and loaded: curl.
+#0 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('curl')
+#1 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\UwAmp\www\Application\maintex_v3\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\UwAmp\www\Application\maintex_v3\index.php(28): require('C:\\UwAmp\\www\\Ap...')
+#4 {main}
+CRITICAL - 2022-03-17 16:44:03 --> The framework needs the following extension(s) installed and loaded: curl.
+#0 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('curl')
+#1 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\UwAmp\www\Application\maintex_v3\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\UwAmp\www\Application\maintex_v3\index.php(28): require('C:\\UwAmp\\www\\Ap...')
+#4 {main}
+CRITICAL - 2022-03-17 16:44:04 --> The framework needs the following extension(s) installed and loaded: curl.
+#0 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('curl')
+#1 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\UwAmp\www\Application\maintex_v3\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\UwAmp\www\Application\maintex_v3\index.php(28): require('C:\\UwAmp\\www\\Ap...')
+#4 {main}
+CRITICAL - 2022-03-17 16:44:04 --> The framework needs the following extension(s) installed and loaded: curl.
+#0 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('curl')
+#1 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\UwAmp\www\Application\maintex_v3\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\UwAmp\www\Application\maintex_v3\index.php(28): require('C:\\UwAmp\\www\\Ap...')
+#4 {main}
+CRITICAL - 2022-03-17 16:44:05 --> The framework needs the following extension(s) installed and loaded: curl.
+#0 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('curl')
+#1 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\UwAmp\www\Application\maintex_v3\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\UwAmp\www\Application\maintex_v3\index.php(28): require('C:\\UwAmp\\www\\Ap...')
+#4 {main}
+CRITICAL - 2022-03-17 16:44:06 --> The framework needs the following extension(s) installed and loaded: curl.
+#0 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('curl')
+#1 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\UwAmp\www\Application\maintex_v3\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\UwAmp\www\Application\maintex_v3\index.php(28): require('C:\\UwAmp\\www\\Ap...')
+#4 {main}
+CRITICAL - 2022-03-17 16:44:09 --> The framework needs the following extension(s) installed and loaded: curl.
+#0 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('curl')
+#1 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\UwAmp\www\Application\maintex_v3\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\UwAmp\www\Application\maintex_v3\index.php(28): require('C:\\UwAmp\\www\\Ap...')
+#4 {main}
+CRITICAL - 2022-03-17 16:44:12 --> The framework needs the following extension(s) installed and loaded: curl.
+#0 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('curl')
+#1 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\UwAmp\www\Application\maintex_v3\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\UwAmp\www\Application\maintex_v3\index.php(28): require('C:\\UwAmp\\www\\Ap...')
+#4 {main}
+CRITICAL - 2022-03-17 16:50:31 --> The framework needs the following extension(s) installed and loaded: curl.
+#0 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('curl')
+#1 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\UwAmp\www\Application\maintex_v3\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\UwAmp\www\Application\maintex_v3\index.php(28): require('C:\\UwAmp\\www\\Ap...')
+#4 {main}
+CRITICAL - 2022-03-17 16:50:32 --> The framework needs the following extension(s) installed and loaded: curl.
+#0 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('curl')
+#1 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\UwAmp\www\Application\maintex_v3\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\UwAmp\www\Application\maintex_v3\index.php(28): require('C:\\UwAmp\\www\\Ap...')
+#4 {main}
+CRITICAL - 2022-03-17 16:50:34 --> The framework needs the following extension(s) installed and loaded: curl.
+#0 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('curl')
+#1 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\UwAmp\www\Application\maintex_v3\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\UwAmp\www\Application\maintex_v3\index.php(28): require('C:\\UwAmp\\www\\Ap...')
+#4 {main}
+CRITICAL - 2022-03-17 16:50:35 --> The framework needs the following extension(s) installed and loaded: curl.
+#0 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('curl')
+#1 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\UwAmp\www\Application\maintex_v3\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\UwAmp\www\Application\maintex_v3\index.php(28): require('C:\\UwAmp\\www\\Ap...')
+#4 {main}
+CRITICAL - 2022-03-17 16:50:36 --> The framework needs the following extension(s) installed and loaded: curl.
+#0 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('curl')
+#1 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\UwAmp\www\Application\maintex_v3\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\UwAmp\www\Application\maintex_v3\index.php(28): require('C:\\UwAmp\\www\\Ap...')
+#4 {main}
+CRITICAL - 2022-03-17 16:52:14 --> The framework needs the following extension(s) installed and loaded: curl.
+#0 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('curl')
+#1 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\UwAmp\www\Application\maintex_v3\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\UwAmp\www\Application\maintex_v3\index.php(28): require('C:\\UwAmp\\www\\Ap...')
+#4 {main}
+CRITICAL - 2022-03-17 16:57:17 --> The framework needs the following extension(s) installed and loaded: curl.
+#0 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('curl')
+#1 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\UwAmp\www\Application\maintex_v3\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\UwAmp\www\Application\maintex_v3\index.php(28): require('C:\\UwAmp\\www\\Ap...')
+#4 {main}
+CRITICAL - 2022-03-17 16:57:19 --> The framework needs the following extension(s) installed and loaded: curl.
+#0 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('curl')
+#1 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\UwAmp\www\Application\maintex_v3\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\UwAmp\www\Application\maintex_v3\index.php(28): require('C:\\UwAmp\\www\\Ap...')
+#4 {main}
+CRITICAL - 2022-03-17 16:57:21 --> The framework needs the following extension(s) installed and loaded: curl.
+#0 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('curl')
+#1 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\UwAmp\www\Application\maintex_v3\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\UwAmp\www\Application\maintex_v3\index.php(28): require('C:\\UwAmp\\www\\Ap...')
+#4 {main}
+CRITICAL - 2022-03-17 16:57:41 --> The framework needs the following extension(s) installed and loaded: curl.
+#0 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('curl')
+#1 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\UwAmp\www\Application\maintex_v3\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\UwAmp\www\Application\maintex_v3\index.php(28): require('C:\\UwAmp\\www\\Ap...')
+#4 {main}
+CRITICAL - 2022-03-17 16:57:44 --> The framework needs the following extension(s) installed and loaded: curl.
+#0 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('curl')
+#1 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\UwAmp\www\Application\maintex_v3\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\UwAmp\www\Application\maintex_v3\index.php(28): require('C:\\UwAmp\\www\\Ap...')
+#4 {main}
+CRITICAL - 2022-03-17 16:57:45 --> The framework needs the following extension(s) installed and loaded: curl.
+#0 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('curl')
+#1 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\UwAmp\www\Application\maintex_v3\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\UwAmp\www\Application\maintex_v3\index.php(28): require('C:\\UwAmp\\www\\Ap...')
+#4 {main}
+CRITICAL - 2022-03-17 16:57:46 --> The framework needs the following extension(s) installed and loaded: curl.
+#0 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('curl')
+#1 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\UwAmp\www\Application\maintex_v3\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\UwAmp\www\Application\maintex_v3\index.php(28): require('C:\\UwAmp\\www\\Ap...')
+#4 {main}
+CRITICAL - 2022-03-17 16:57:48 --> The framework needs the following extension(s) installed and loaded: curl.
+#0 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('curl')
+#1 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\UwAmp\www\Application\maintex_v3\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\UwAmp\www\Application\maintex_v3\index.php(28): require('C:\\UwAmp\\www\\Ap...')
+#4 {main}
+CRITICAL - 2022-03-17 17:02:56 --> The framework needs the following extension(s) installed and loaded: curl.
+#0 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('curl')
+#1 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\UwAmp\www\Application\maintex_v3\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\UwAmp\www\Application\maintex_v3\index.php(28): require('C:\\UwAmp\\www\\Ap...')
+#4 {main}
+CRITICAL - 2022-03-17 17:02:58 --> The framework needs the following extension(s) installed and loaded: curl.
+#0 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('curl')
+#1 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\UwAmp\www\Application\maintex_v3\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\UwAmp\www\Application\maintex_v3\index.php(28): require('C:\\UwAmp\\www\\Ap...')
+#4 {main}
+CRITICAL - 2022-03-17 17:02:59 --> The framework needs the following extension(s) installed and loaded: curl.
+#0 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('curl')
+#1 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\UwAmp\www\Application\maintex_v3\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\UwAmp\www\Application\maintex_v3\index.php(28): require('C:\\UwAmp\\www\\Ap...')
+#4 {main}
+CRITICAL - 2022-03-17 17:03:05 --> The framework needs the following extension(s) installed and loaded: curl.
+#0 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('curl')
+#1 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\UwAmp\www\Application\maintex_v3\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\UwAmp\www\Application\maintex_v3\index.php(28): require('C:\\UwAmp\\www\\Ap...')
+#4 {main}
+CRITICAL - 2022-03-17 17:03:07 --> The framework needs the following extension(s) installed and loaded: curl.
+#0 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('curl')
+#1 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\UwAmp\www\Application\maintex_v3\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\UwAmp\www\Application\maintex_v3\index.php(28): require('C:\\UwAmp\\www\\Ap...')
+#4 {main}
+CRITICAL - 2022-03-17 17:03:14 --> The framework needs the following extension(s) installed and loaded: curl.
+#0 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('curl')
+#1 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\UwAmp\www\Application\maintex_v3\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\UwAmp\www\Application\maintex_v3\index.php(28): require('C:\\UwAmp\\www\\Ap...')
+#4 {main}
+CRITICAL - 2022-03-17 17:03:22 --> The framework needs the following extension(s) installed and loaded: curl.
+#0 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('curl')
+#1 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\UwAmp\www\Application\maintex_v3\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\UwAmp\www\Application\maintex_v3\index.php(28): require('C:\\UwAmp\\www\\Ap...')
+#4 {main}
+CRITICAL - 2022-03-17 17:05:15 --> The framework needs the following extension(s) installed and loaded: curl.
+#0 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('curl')
+#1 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\UwAmp\www\Application\maintex_v3\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\UwAmp\www\Application\maintex_v3\index.php(28): require('C:\\UwAmp\\www\\Ap...')
+#4 {main}
+CRITICAL - 2022-03-17 17:05:17 --> The framework needs the following extension(s) installed and loaded: curl.
+#0 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('curl')
+#1 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\UwAmp\www\Application\maintex_v3\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\UwAmp\www\Application\maintex_v3\index.php(28): require('C:\\UwAmp\\www\\Ap...')
+#4 {main}
+CRITICAL - 2022-03-17 17:05:19 --> The framework needs the following extension(s) installed and loaded: curl.
+#0 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('curl')
+#1 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\UwAmp\www\Application\maintex_v3\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\UwAmp\www\Application\maintex_v3\index.php(28): require('C:\\UwAmp\\www\\Ap...')
+#4 {main}
+CRITICAL - 2022-03-17 17:05:21 --> The framework needs the following extension(s) installed and loaded: curl.
+#0 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('curl')
+#1 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\UwAmp\www\Application\maintex_v3\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\UwAmp\www\Application\maintex_v3\index.php(28): require('C:\\UwAmp\\www\\Ap...')
+#4 {main}
+CRITICAL - 2022-03-17 17:13:48 --> The framework needs the following extension(s) installed and loaded: curl.
+#0 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('curl')
+#1 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\UwAmp\www\Application\maintex_v3\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\UwAmp\www\Application\maintex_v3\index.php(28): require('C:\\UwAmp\\www\\Ap...')
+#4 {main}
+CRITICAL - 2022-03-17 17:13:49 --> The framework needs the following extension(s) installed and loaded: curl.
+#0 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('curl')
+#1 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\UwAmp\www\Application\maintex_v3\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\UwAmp\www\Application\maintex_v3\index.php(28): require('C:\\UwAmp\\www\\Ap...')
+#4 {main}
+CRITICAL - 2022-03-17 17:13:50 --> The framework needs the following extension(s) installed and loaded: curl.
+#0 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('curl')
+#1 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\UwAmp\www\Application\maintex_v3\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\UwAmp\www\Application\maintex_v3\index.php(28): require('C:\\UwAmp\\www\\Ap...')
+#4 {main}
+CRITICAL - 2022-03-17 17:13:51 --> The framework needs the following extension(s) installed and loaded: curl.
+#0 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('curl')
+#1 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\UwAmp\www\Application\maintex_v3\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\UwAmp\www\Application\maintex_v3\index.php(28): require('C:\\UwAmp\\www\\Ap...')
+#4 {main}
+CRITICAL - 2022-03-17 17:15:01 --> The framework needs the following extension(s) installed and loaded: curl.
+#0 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('curl')
+#1 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\UwAmp\www\Application\maintex_v3\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\UwAmp\www\Application\maintex_v3\index.php(28): require('C:\\UwAmp\\www\\Ap...')
+#4 {main}
+CRITICAL - 2022-03-17 17:15:02 --> The framework needs the following extension(s) installed and loaded: curl.
+#0 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('curl')
+#1 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\UwAmp\www\Application\maintex_v3\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\UwAmp\www\Application\maintex_v3\index.php(28): require('C:\\UwAmp\\www\\Ap...')
+#4 {main}
+CRITICAL - 2022-03-17 17:15:02 --> The framework needs the following extension(s) installed and loaded: curl.
+#0 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('curl')
+#1 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\UwAmp\www\Application\maintex_v3\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\UwAmp\www\Application\maintex_v3\index.php(28): require('C:\\UwAmp\\www\\Ap...')
+#4 {main}
+CRITICAL - 2022-03-17 17:17:27 --> The framework needs the following extension(s) installed and loaded: curl.
+#0 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('curl')
+#1 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\UwAmp\www\Application\maintex_v3\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\UwAmp\www\Application\maintex_v3\index.php(28): require('C:\\UwAmp\\www\\Ap...')
+#4 {main}
+CRITICAL - 2022-03-17 17:17:28 --> The framework needs the following extension(s) installed and loaded: curl.
+#0 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('curl')
+#1 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\UwAmp\www\Application\maintex_v3\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\UwAmp\www\Application\maintex_v3\index.php(28): require('C:\\UwAmp\\www\\Ap...')
+#4 {main}
+CRITICAL - 2022-03-17 17:17:29 --> The framework needs the following extension(s) installed and loaded: curl.
+#0 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('curl')
+#1 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\UwAmp\www\Application\maintex_v3\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\UwAmp\www\Application\maintex_v3\index.php(28): require('C:\\UwAmp\\www\\Ap...')
+#4 {main}
+CRITICAL - 2022-03-17 17:17:30 --> The framework needs the following extension(s) installed and loaded: curl.
+#0 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('curl')
+#1 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\UwAmp\www\Application\maintex_v3\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\UwAmp\www\Application\maintex_v3\index.php(28): require('C:\\UwAmp\\www\\Ap...')
+#4 {main}
+CRITICAL - 2022-03-17 17:17:31 --> The framework needs the following extension(s) installed and loaded: curl.
+#0 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('curl')
+#1 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\UwAmp\www\Application\maintex_v3\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\UwAmp\www\Application\maintex_v3\index.php(28): require('C:\\UwAmp\\www\\Ap...')
+#4 {main}
+CRITICAL - 2022-03-17 17:17:32 --> The framework needs the following extension(s) installed and loaded: curl.
+#0 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('curl')
+#1 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\UwAmp\www\Application\maintex_v3\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\UwAmp\www\Application\maintex_v3\index.php(28): require('C:\\UwAmp\\www\\Ap...')
+#4 {main}
+CRITICAL - 2022-03-17 17:17:32 --> The framework needs the following extension(s) installed and loaded: curl.
+#0 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('curl')
+#1 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\UwAmp\www\Application\maintex_v3\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\UwAmp\www\Application\maintex_v3\index.php(28): require('C:\\UwAmp\\www\\Ap...')
+#4 {main}
+CRITICAL - 2022-03-17 17:17:36 --> The framework needs the following extension(s) installed and loaded: curl.
+#0 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('curl')
+#1 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\UwAmp\www\Application\maintex_v3\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\UwAmp\www\Application\maintex_v3\index.php(28): require('C:\\UwAmp\\www\\Ap...')
+#4 {main}
+CRITICAL - 2022-03-17 17:21:34 --> The framework needs the following extension(s) installed and loaded: curl.
+#0 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('curl')
+#1 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\UwAmp\www\Application\maintex_v3\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\UwAmp\www\Application\maintex_v3\index.php(28): require('C:\\UwAmp\\www\\Ap...')
+#4 {main}
+CRITICAL - 2022-03-17 17:21:35 --> The framework needs the following extension(s) installed and loaded: curl.
+#0 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('curl')
+#1 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\UwAmp\www\Application\maintex_v3\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\UwAmp\www\Application\maintex_v3\index.php(28): require('C:\\UwAmp\\www\\Ap...')
+#4 {main}
+CRITICAL - 2022-03-17 17:21:37 --> The framework needs the following extension(s) installed and loaded: curl.
+#0 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('curl')
+#1 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\UwAmp\www\Application\maintex_v3\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\UwAmp\www\Application\maintex_v3\index.php(28): require('C:\\UwAmp\\www\\Ap...')
+#4 {main}
+CRITICAL - 2022-03-17 17:21:38 --> The framework needs the following extension(s) installed and loaded: curl.
+#0 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('curl')
+#1 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\UwAmp\www\Application\maintex_v3\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\UwAmp\www\Application\maintex_v3\index.php(28): require('C:\\UwAmp\\www\\Ap...')
+#4 {main}
+CRITICAL - 2022-03-17 17:21:39 --> The framework needs the following extension(s) installed and loaded: curl.
+#0 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('curl')
+#1 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\UwAmp\www\Application\maintex_v3\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\UwAmp\www\Application\maintex_v3\index.php(28): require('C:\\UwAmp\\www\\Ap...')
+#4 {main}
+CRITICAL - 2022-03-17 17:23:02 --> The framework needs the following extension(s) installed and loaded: curl.
+#0 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('curl')
+#1 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\UwAmp\www\Application\maintex_v3\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\UwAmp\www\Application\maintex_v3\index.php(28): require('C:\\UwAmp\\www\\Ap...')
+#4 {main}
+CRITICAL - 2022-03-17 17:23:03 --> The framework needs the following extension(s) installed and loaded: curl.
+#0 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('curl')
+#1 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\UwAmp\www\Application\maintex_v3\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\UwAmp\www\Application\maintex_v3\index.php(28): require('C:\\UwAmp\\www\\Ap...')
+#4 {main}
+CRITICAL - 2022-03-17 17:24:11 --> The framework needs the following extension(s) installed and loaded: curl.
+#0 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('curl')
+#1 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\UwAmp\www\Application\maintex_v3\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\UwAmp\www\Application\maintex_v3\index.php(28): require('C:\\UwAmp\\www\\Ap...')
+#4 {main}
+CRITICAL - 2022-03-17 17:24:12 --> The framework needs the following extension(s) installed and loaded: curl.
+#0 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('curl')
+#1 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\UwAmp\www\Application\maintex_v3\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\UwAmp\www\Application\maintex_v3\index.php(28): require('C:\\UwAmp\\www\\Ap...')
+#4 {main}
+CRITICAL - 2022-03-17 17:24:13 --> The framework needs the following extension(s) installed and loaded: curl.
+#0 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('curl')
+#1 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\UwAmp\www\Application\maintex_v3\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\UwAmp\www\Application\maintex_v3\index.php(28): require('C:\\UwAmp\\www\\Ap...')
+#4 {main}
+CRITICAL - 2022-03-17 17:32:20 --> The framework needs the following extension(s) installed and loaded: curl.
+#0 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('curl')
+#1 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\UwAmp\www\Application\maintex_v3\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\UwAmp\www\Application\maintex_v3\index.php(28): require('C:\\UwAmp\\www\\Ap...')
+#4 {main}
+CRITICAL - 2022-03-17 17:34:26 --> The framework needs the following extension(s) installed and loaded: curl.
+#0 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('curl')
+#1 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\UwAmp\www\Application\maintex_v3\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\UwAmp\www\Application\maintex_v3\index.php(28): require('C:\\UwAmp\\www\\Ap...')
+#4 {main}
+CRITICAL - 2022-03-17 17:34:29 --> The framework needs the following extension(s) installed and loaded: curl.
+#0 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('curl')
+#1 C:\UwAmp\www\Application\maintex_v3\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\UwAmp\www\Application\maintex_v3\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\UwAmp\www\Application\maintex_v3\index.php(28): require('C:\\UwAmp\\www\\Ap...')
+#4 {main}
+=======
+CRITICAL - 2022-03-17 06:52:49 --> Class 'CodeIgniter\Cache\CacheFactory' not found
+#0 C:\Ampps\www\maintex\system\Config\BaseService.php(248): CodeIgniter\Config\Services::cache(Object(Config\Cache), false)
+#1 C:\Ampps\www\maintex\system\Config\BaseService.php(189): CodeIgniter\Config\BaseService::__callStatic('cache', Array)
+#2 C:\Ampps\www\maintex\system\Config\Services.php(101): CodeIgniter\Config\BaseService::getSharedInstance('cache', NULL)
+#3 C:\Ampps\www\maintex\system\Config\BaseService.php(248): CodeIgniter\Config\Services::cache()
+#4 C:\Ampps\www\maintex\system\Common.php(67): CodeIgniter\Config\BaseService::__callStatic('cache', Array)
+#5 C:\Ampps\www\maintex\system\CodeIgniter.php(604): cache()
+#6 C:\Ampps\www\maintex\system\CodeIgniter.php(313): CodeIgniter\CodeIgniter->displayCache(Object(Config\Cache))
+#7 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-17 06:54:56 --> Class 'CodeIgniter\Cache\CacheFactory' not found
+#0 C:\Ampps\www\maintex\system\Config\BaseService.php(248): CodeIgniter\Config\Services::cache(Object(Config\Cache), false)
+#1 C:\Ampps\www\maintex\system\Config\BaseService.php(189): CodeIgniter\Config\BaseService::__callStatic('cache', Array)
+#2 C:\Ampps\www\maintex\system\Config\Services.php(101): CodeIgniter\Config\BaseService::getSharedInstance('cache', NULL)
+#3 C:\Ampps\www\maintex\system\Config\BaseService.php(248): CodeIgniter\Config\Services::cache()
+#4 C:\Ampps\www\maintex\system\Common.php(67): CodeIgniter\Config\BaseService::__callStatic('cache', Array)
+#5 C:\Ampps\www\maintex\system\CodeIgniter.php(604): cache()
+#6 C:\Ampps\www\maintex\system\CodeIgniter.php(313): CodeIgniter\CodeIgniter->displayCache(Object(Config\Cache))
+#7 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-17 06:54:59 --> Class 'CodeIgniter\Cache\CacheFactory' not found
+#0 C:\Ampps\www\maintex\system\Config\BaseService.php(248): CodeIgniter\Config\Services::cache(Object(Config\Cache), false)
+#1 C:\Ampps\www\maintex\system\Config\BaseService.php(189): CodeIgniter\Config\BaseService::__callStatic('cache', Array)
+#2 C:\Ampps\www\maintex\system\Config\Services.php(101): CodeIgniter\Config\BaseService::getSharedInstance('cache', NULL)
+#3 C:\Ampps\www\maintex\system\Config\BaseService.php(248): CodeIgniter\Config\Services::cache()
+#4 C:\Ampps\www\maintex\system\Common.php(67): CodeIgniter\Config\BaseService::__callStatic('cache', Array)
+#5 C:\Ampps\www\maintex\system\CodeIgniter.php(604): cache()
+#6 C:\Ampps\www\maintex\system\CodeIgniter.php(313): CodeIgniter\CodeIgniter->displayCache(Object(Config\Cache))
+#7 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-17 07:06:10 --> Class 'CodeIgniter\Cache\CacheFactory' not found
+#0 C:\Ampps\www\maintex\system\Config\BaseService.php(248): CodeIgniter\Config\Services::cache(Object(Config\Cache), false)
+#1 C:\Ampps\www\maintex\system\Config\BaseService.php(189): CodeIgniter\Config\BaseService::__callStatic('cache', Array)
+#2 C:\Ampps\www\maintex\system\Config\Services.php(101): CodeIgniter\Config\BaseService::getSharedInstance('cache', NULL)
+#3 C:\Ampps\www\maintex\system\Config\BaseService.php(248): CodeIgniter\Config\Services::cache()
+#4 C:\Ampps\www\maintex\system\Common.php(67): CodeIgniter\Config\BaseService::__callStatic('cache', Array)
+#5 C:\Ampps\www\maintex\system\CodeIgniter.php(604): cache()
+#6 C:\Ampps\www\maintex\system\CodeIgniter.php(313): CodeIgniter\CodeIgniter->displayCache(Object(Config\Cache))
+#7 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-17 07:20:41 --> Class 'CodeIgniter\Cache\CacheFactory' not found
+#0 C:\Ampps\www\maintex_v3\system\Config\BaseService.php(248): CodeIgniter\Config\Services::cache(Object(Config\Cache), false)
+#1 C:\Ampps\www\maintex_v3\system\Config\BaseService.php(189): CodeIgniter\Config\BaseService::__callStatic('cache', Array)
+#2 C:\Ampps\www\maintex_v3\system\Config\Services.php(101): CodeIgniter\Config\BaseService::getSharedInstance('cache', NULL)
+#3 C:\Ampps\www\maintex_v3\system\Config\BaseService.php(248): CodeIgniter\Config\Services::cache()
+#4 C:\Ampps\www\maintex_v3\system\Common.php(67): CodeIgniter\Config\BaseService::__callStatic('cache', Array)
+#5 C:\Ampps\www\maintex_v3\system\CodeIgniter.php(604): cache()
+#6 C:\Ampps\www\maintex_v3\system\CodeIgniter.php(313): CodeIgniter\CodeIgniter->displayCache(Object(Config\Cache))
+#7 C:\Ampps\www\maintex_v3\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-17 07:28:11 --> Class 'CodeIgniter\Cache\CacheFactory' not found
+#0 C:\Ampps\www\maintex\system\Config\BaseService.php(248): CodeIgniter\Config\Services::cache(Object(Config\Cache), false)
+#1 C:\Ampps\www\maintex\system\Config\BaseService.php(189): CodeIgniter\Config\BaseService::__callStatic('cache', Array)
+#2 C:\Ampps\www\maintex\system\Config\Services.php(101): CodeIgniter\Config\BaseService::getSharedInstance('cache', NULL)
+#3 C:\Ampps\www\maintex\system\Config\BaseService.php(248): CodeIgniter\Config\Services::cache()
+#4 C:\Ampps\www\maintex\system\Common.php(67): CodeIgniter\Config\BaseService::__callStatic('cache', Array)
+#5 C:\Ampps\www\maintex\system\CodeIgniter.php(604): cache()
+#6 C:\Ampps\www\maintex\system\CodeIgniter.php(313): CodeIgniter\CodeIgniter->displayCache(Object(Config\Cache))
+#7 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-17 10:08:45 --> Call to a member function user_login() on null
+#0 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Login->check_login()
+#1 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#2 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-17 10:08:46 --> Call to a member function user_login() on null
+#0 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Login->check_login()
+#1 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#2 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-17 10:08:49 --> Call to a member function user_login() on null
+#0 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Login->check_login()
+#1 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#2 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-17 11:21:59 --> Call to a member function user_login() on null
+#0 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Login->check_login()
+#1 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#2 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-17 11:22:37 --> Call to a member function user_login() on null
+#0 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Login->check_login()
+#1 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#2 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-17 11:23:19 --> Call to a member function user_login() on null
+#0 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Login->check_login()
+#1 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#2 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-17 11:26:08 --> Call to a member function authenticate() on null
+#0 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Login->check_login()
+#1 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#2 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-17 11:59:14 --> Call to a member function authenticate() on null
+#0 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Login->check_login()
+#1 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#2 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-17 11:59:25 --> Call to a member function authenticate() on null
+#0 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Login->check_login()
+#1 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#2 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-17 11:59:27 --> Call to a member function authenticate() on null
+#0 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Login->check_login()
+#1 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#2 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-17 12:06:15 --> Class 'App\Models\BaseController' not found
+#0 C:\Ampps\www\maintex\system\Autoloader\Autoloader.php(264): include_once()
+#1 C:\Ampps\www\maintex\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\Ampps\\www\\ma...')
+#2 C:\Ampps\www\maintex\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#4 [internal function]: spl_autoload_call('App\\Controllers...')
+#5 C:\Ampps\www\maintex\system\CodeIgniter.php(797): class_exists('\\App\\Controller...', true)
+#6 C:\Ampps\www\maintex\system\CodeIgniter.php(406): CodeIgniter\CodeIgniter->startController()
+#7 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-03-17 12:07:16 --> Call to a member function authenticate() on null
+#0 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Login->check_login()
+#1 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#2 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-17 12:07:40 --> Call to a member function authenticate() on null
+#0 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Login->check_login()
+#1 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#2 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-17 12:16:38 --> Class 'App\Models\LoginModel' not found
+#0 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Login->check_login()
+#1 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#2 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-17 12:16:51 --> Class 'App\Models\LoginModel' not found
+#0 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Login->check_login()
+#1 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#2 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-17 12:16:53 --> Class 'App\Models\LoginModel' not found
+#0 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Login->check_login()
+#1 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#2 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-17 12:17:41 --> Call to a member function post() on null
+#0 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Login->check_login()
+#1 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#2 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-17 12:17:44 --> Call to a member function post() on null
+#0 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Login->check_login()
+#1 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#2 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-17 12:24:29 --> Call to a member function getPost() on null
+#0 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Login->check_login()
+#1 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#2 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-17 12:24:35 --> Call to a member function getPost() on null
+#0 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Login->check_login()
+#1 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#2 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-17 12:26:33 --> Too few arguments to function App\Controllers\Login::__construct(), 0 passed in C:\Ampps\www\maintex\system\CodeIgniter.php on line 809 and exactly 1 expected
+#0 C:\Ampps\www\maintex\system\CodeIgniter.php(809): App\Controllers\Login->__construct()
+#1 C:\Ampps\www\maintex\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#2 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-17 12:26:36 --> Too few arguments to function App\Controllers\Login::__construct(), 0 passed in C:\Ampps\www\maintex\system\CodeIgniter.php on line 809 and exactly 1 expected
+#0 C:\Ampps\www\maintex\system\CodeIgniter.php(809): App\Controllers\Login->__construct()
+#1 C:\Ampps\www\maintex\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#2 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-17 12:31:46 --> Array callback has to contain indices 0 and 1
+#0 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Login->check_login()
+#1 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#2 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-17 12:31:48 --> Function name must be a string
+#0 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Login->check_login()
+#1 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#2 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-17 12:35:27 --> Call to undefined method CodeIgniter\Database\MySQLi\Connection::group_start()
+#0 C:\Ampps\www\maintex\app\Controllers\Login.php(28): App\Models\LoginModel->authenticate('admin', 'admin')
+#1 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Login->check_login()
+#2 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#3 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-17 12:35:29 --> Call to undefined method CodeIgniter\Database\MySQLi\Connection::group_start()
+#0 C:\Ampps\www\maintex\app\Controllers\Login.php(28): App\Models\LoginModel->authenticate(NULL, NULL)
+#1 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Login->check_login()
+#2 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#3 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-17 12:35:57 --> Call to undefined method CodeIgniter\Database\MySQLi\Connection::group_start()
+#0 C:\Ampps\www\maintex\app\Controllers\Login.php(26): App\Models\LoginModel->authenticate('admin', 'admin')
+#1 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Login->check_login()
+#2 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#3 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-17 12:35:59 --> Call to undefined method CodeIgniter\Database\MySQLi\Connection::group_start()
+#0 C:\Ampps\www\maintex\app\Controllers\Login.php(26): App\Models\LoginModel->authenticate(NULL, NULL)
+#1 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Login->check_login()
+#2 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#3 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-17 12:36:32 --> Call to undefined method CodeIgniter\Database\MySQLi\Connection::groupStart()
+#0 C:\Ampps\www\maintex\app\Controllers\Login.php(26): App\Models\LoginModel->authenticate('admin', 'admin')
+#1 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Login->check_login()
+#2 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#3 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-17 12:36:36 --> Call to undefined method CodeIgniter\Database\MySQLi\Connection::groupStart()
+#0 C:\Ampps\www\maintex\app\Controllers\Login.php(26): App\Models\LoginModel->authenticate('admin', 'admin')
+#1 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Login->check_login()
+#2 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#3 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-17 12:36:38 --> Call to undefined method CodeIgniter\Database\MySQLi\Connection::groupStart()
+#0 C:\Ampps\www\maintex\app\Controllers\Login.php(26): App\Models\LoginModel->authenticate(NULL, NULL)
+#1 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Login->check_login()
+#2 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#3 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-17 12:57:49 --> Call to undefined method CodeIgniter\Database\MySQLi\Connection::where()
+#0 C:\Ampps\www\maintex\app\Controllers\Login.php(26): App\Models\LoginModel->authenticate('DS', 'SD')
+#1 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Login->check_login()
+#2 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#3 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-17 12:57:53 --> Call to undefined method CodeIgniter\Database\MySQLi\Connection::where()
+#0 C:\Ampps\www\maintex\app\Controllers\Login.php(26): App\Models\LoginModel->authenticate(NULL, NULL)
+#1 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Login->check_login()
+#2 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#3 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-17 14:07:01 --> Call to undefined method CodeIgniter\Database\MySQLi\Connection::groupStart()
+#0 C:\Ampps\www\maintex\app\Controllers\Login.php(26): App\Models\LoginModel->authenticate('ds', 'sd')
+#1 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Login->check_login()
+#2 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#3 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-17 14:07:17 --> Call to undefined method CodeIgniter\Database\MySQLi\Connection::groupStart()
+#0 C:\Ampps\www\maintex\app\Controllers\Login.php(26): App\Models\LoginModel->authenticate(NULL, NULL)
+#1 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Login->check_login()
+#2 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#3 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-17 14:09:15 --> Call to undefined method CodeIgniter\Database\MySQLi\Connection::groupStart()
+#0 C:\Ampps\www\maintex\app\Controllers\Login.php(26): App\Models\LoginModel->authenticate('ds', 'sd')
+#1 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Login->check_login()
+#2 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#3 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-17 14:09:19 --> Call to undefined method CodeIgniter\Database\MySQLi\Connection::groupStart()
+#0 C:\Ampps\www\maintex\app\Controllers\Login.php(26): App\Models\LoginModel->authenticate('ds', 'sd')
+#1 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Login->check_login()
+#2 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#3 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-17 14:09:22 --> Call to undefined method CodeIgniter\Database\MySQLi\Connection::groupStart()
+#0 C:\Ampps\www\maintex\app\Controllers\Login.php(26): App\Models\LoginModel->authenticate(NULL, NULL)
+#1 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Login->check_login()
+#2 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#3 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+>>>>>>> 813654c59a8d2c0868f4ff0c8b9e166049954584

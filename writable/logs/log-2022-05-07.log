@@ -1,0 +1,424 @@
+INFO - 2022-05-07 05:46:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-07 06:00:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-05-07 06:07:46 --> Class 'App\Controllers\BaseController' not found
+#0 C:\Ampps\www\commune-ouverte.org\system\Autoloader\Autoloader.php(264): include_once()
+#1 C:\Ampps\www\commune-ouverte.org\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\Ampps\\www\\co...')
+#2 C:\Ampps\www\commune-ouverte.org\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#4 [internal function]: spl_autoload_call('App\\Controllers...')
+#5 C:\Ampps\www\commune-ouverte.org\system\CodeIgniter.php(797): class_exists('\\App\\Controller...', true)
+#6 C:\Ampps\www\commune-ouverte.org\system\CodeIgniter.php(406): CodeIgniter\CodeIgniter->startController()
+#7 C:\Ampps\www\commune-ouverte.org\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\Ampps\www\commune-ouverte.org\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+INFO - 2022-05-07 06:08:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-07 06:08:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-07 06:09:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-07 06:10:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-07 06:10:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-07 06:11:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-07 06:11:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-07 06:11:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-07 06:12:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-07 06:13:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-07 06:15:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-07 06:15:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-07 06:18:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2022-05-07 06:18:57 --> Table 'db_commune_ouverte.user_company' doesn't exist
+CRITICAL - 2022-05-07 06:18:57 --> Table 'db_commune_ouverte.user_company' doesn't exist
+#0 C:\Ampps\www\commune-ouverte.org\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT `user`.*...', 0)
+#1 C:\Ampps\www\commune-ouverte.org\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `user`.*...')
+#2 C:\Ampps\www\commune-ouverte.org\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `user`.*...')
+#3 C:\Ampps\www\commune-ouverte.org\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT `user`.*...', Array, false)
+#4 C:\Ampps\www\commune-ouverte.org\app\Models\LoginModel.php(54): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\Ampps\www\commune-ouverte.org\app\Controllers\Login.php(26): App\Models\LoginModel->authenticate(NULL, NULL)
+#6 C:\Ampps\www\commune-ouverte.org\system\CodeIgniter.php(832): App\Controllers\Login->check_login()
+#7 C:\Ampps\www\commune-ouverte.org\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#8 C:\Ampps\www\commune-ouverte.org\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\Ampps\www\commune-ouverte.org\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2022-05-07 07:06:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-07 07:07:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-07 07:07:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-05-07 07:07:45 --> Call to undefined method App\Controllers\Accueil::frontend_header()
+#0 C:\Ampps\www\commune-ouverte.org\system\CodeIgniter.php(832): App\Controllers\Accueil->index()
+#1 C:\Ampps\www\commune-ouverte.org\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Accueil))
+#2 C:\Ampps\www\commune-ouverte.org\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Ampps\www\commune-ouverte.org\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2022-05-07 07:09:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-05-07 07:09:49 --> Invalid file: frontend/frontend/index.php
+#0 C:\Ampps\www\commune-ouverte.org\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('frontend/fronte...')
+#1 C:\Ampps\www\commune-ouverte.org\system\Common.php(1089): CodeIgniter\View\View->render('frontend/fronte...', Array, true)
+#2 C:\Ampps\www\commune-ouverte.org\app\Controllers\BaseController.php(134): view('frontend/fronte...', Array)
+#3 C:\Ampps\www\commune-ouverte.org\app\Controllers\Accueil.php(12): App\Controllers\BaseController->load_frontend_view('frontend/index')
+#4 C:\Ampps\www\commune-ouverte.org\system\CodeIgniter.php(832): App\Controllers\Accueil->index()
+#5 C:\Ampps\www\commune-ouverte.org\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Accueil))
+#6 C:\Ampps\www\commune-ouverte.org\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\Ampps\www\commune-ouverte.org\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2022-05-07 07:10:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-07 07:11:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-07 07:12:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-07 07:15:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-07 07:15:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-07 07:18:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-07 07:20:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-07 07:21:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-07 07:24:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-07 07:24:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-07 07:25:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2022-05-07 07:25:58 --> Table 'db_commune_ouverte.user' doesn't exist
+CRITICAL - 2022-05-07 07:25:58 --> Table 'db_commune_ouverte.user' doesn't exist
+#0 C:\Ampps\www\commune-ouverte.org\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT `user`.*...', 0)
+#1 C:\Ampps\www\commune-ouverte.org\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `user`.*...')
+#2 C:\Ampps\www\commune-ouverte.org\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `user`.*...')
+#3 C:\Ampps\www\commune-ouverte.org\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT `user`.*...', Array, false)
+#4 C:\Ampps\www\commune-ouverte.org\app\Models\LoginModel.php(53): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\Ampps\www\commune-ouverte.org\app\Controllers\Login.php(26): App\Models\LoginModel->authenticate(NULL, NULL)
+#6 C:\Ampps\www\commune-ouverte.org\system\CodeIgniter.php(832): App\Controllers\Login->check_login()
+#7 C:\Ampps\www\commune-ouverte.org\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#8 C:\Ampps\www\commune-ouverte.org\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\Ampps\www\commune-ouverte.org\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2022-05-07 07:25:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2022-05-07 07:25:59 --> Table 'db_commune_ouverte.user' doesn't exist
+CRITICAL - 2022-05-07 07:25:59 --> Table 'db_commune_ouverte.user' doesn't exist
+#0 C:\Ampps\www\commune-ouverte.org\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT `user`.*...', 0)
+#1 C:\Ampps\www\commune-ouverte.org\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `user`.*...')
+#2 C:\Ampps\www\commune-ouverte.org\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `user`.*...')
+#3 C:\Ampps\www\commune-ouverte.org\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT `user`.*...', Array, false)
+#4 C:\Ampps\www\commune-ouverte.org\app\Models\LoginModel.php(53): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\Ampps\www\commune-ouverte.org\app\Controllers\Login.php(26): App\Models\LoginModel->authenticate(NULL, NULL)
+#6 C:\Ampps\www\commune-ouverte.org\system\CodeIgniter.php(832): App\Controllers\Login->check_login()
+#7 C:\Ampps\www\commune-ouverte.org\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#8 C:\Ampps\www\commune-ouverte.org\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\Ampps\www\commune-ouverte.org\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2022-05-07 07:28:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-07 07:28:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2022-05-07 07:28:16 --> Table 'db_commune_ouverte.user' doesn't exist
+CRITICAL - 2022-05-07 07:28:16 --> Table 'db_commune_ouverte.user' doesn't exist
+#0 C:\Ampps\www\commune-ouverte.org\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT `user`.*...', 0)
+#1 C:\Ampps\www\commune-ouverte.org\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `user`.*...')
+#2 C:\Ampps\www\commune-ouverte.org\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `user`.*...')
+#3 C:\Ampps\www\commune-ouverte.org\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT `user`.*...', Array, false)
+#4 C:\Ampps\www\commune-ouverte.org\app\Models\LoginModel.php(53): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\Ampps\www\commune-ouverte.org\app\Controllers\Login.php(26): App\Models\LoginModel->authenticate(NULL, NULL)
+#6 C:\Ampps\www\commune-ouverte.org\system\CodeIgniter.php(832): App\Controllers\Login->check_login()
+#7 C:\Ampps\www\commune-ouverte.org\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#8 C:\Ampps\www\commune-ouverte.org\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\Ampps\www\commune-ouverte.org\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2022-05-07 07:34:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-07 07:34:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-07 07:35:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-07 07:38:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-07 07:38:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-07 07:38:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-07 07:38:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-07 07:40:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-07 07:40:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-07 07:40:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-07 07:42:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-07 07:43:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-07 07:44:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-07 07:44:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-05-07 07:44:26 --> Undefined property: stdClass::$user_id
+#0 C:\Ampps\www\commune-ouverte.org\app\Models\LoginModel.php(60): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\Ampps\\www\\co...', 60, Array)
+#1 C:\Ampps\www\commune-ouverte.org\app\Models\LoginModel.php(50): App\Models\LoginModel->set_user_session(Object(stdClass))
+#2 C:\Ampps\www\commune-ouverte.org\app\Controllers\Login.php(26): App\Models\LoginModel->authenticate('admin', 'admin')
+#3 C:\Ampps\www\commune-ouverte.org\system\CodeIgniter.php(832): App\Controllers\Login->check_login()
+#4 C:\Ampps\www\commune-ouverte.org\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#5 C:\Ampps\www\commune-ouverte.org\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\Ampps\www\commune-ouverte.org\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+INFO - 2022-05-07 07:44:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-05-07 07:44:33 --> Undefined property: stdClass::$user_id
+#0 C:\Ampps\www\commune-ouverte.org\app\Models\LoginModel.php(60): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\Ampps\\www\\co...', 60, Array)
+#1 C:\Ampps\www\commune-ouverte.org\app\Models\LoginModel.php(50): App\Models\LoginModel->set_user_session(Object(stdClass))
+#2 C:\Ampps\www\commune-ouverte.org\app\Controllers\Login.php(26): App\Models\LoginModel->authenticate('admin', 'admin')
+#3 C:\Ampps\www\commune-ouverte.org\system\CodeIgniter.php(832): App\Controllers\Login->check_login()
+#4 C:\Ampps\www\commune-ouverte.org\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#5 C:\Ampps\www\commune-ouverte.org\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\Ampps\www\commune-ouverte.org\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+INFO - 2022-05-07 07:48:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-07 07:48:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2022-05-07 07:48:27 --> Table 'db_commune_ouverte.user' doesn't exist
+CRITICAL - 2022-05-07 07:48:27 --> Table 'db_commune_ouverte.user' doesn't exist
+#0 C:\Ampps\www\commune-ouverte.org\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\Ampps\www\commune-ouverte.org\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\Ampps\www\commune-ouverte.org\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\Ampps\www\commune-ouverte.org\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\Ampps\www\commune-ouverte.org\app\Models\BaseModel.php(27): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\Ampps\www\commune-ouverte.org\app\Controllers\Home.php(18): App\Models\BaseModel->fetch_table('user', Array)
+#6 C:\Ampps\www\commune-ouverte.org\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#7 C:\Ampps\www\commune-ouverte.org\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\Ampps\www\commune-ouverte.org\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\Ampps\www\commune-ouverte.org\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2022-05-07 07:51:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2022-05-07 07:51:53 --> Table 'db_commune_ouverte.user' doesn't exist
+CRITICAL - 2022-05-07 07:51:53 --> Table 'db_commune_ouverte.user' doesn't exist
+#0 C:\Ampps\www\commune-ouverte.org\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\Ampps\www\commune-ouverte.org\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\Ampps\www\commune-ouverte.org\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\Ampps\www\commune-ouverte.org\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\Ampps\www\commune-ouverte.org\app\Models\BaseModel.php(27): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\Ampps\www\commune-ouverte.org\app\Controllers\Home.php(18): App\Models\BaseModel->fetch_table('user', Array)
+#6 C:\Ampps\www\commune-ouverte.org\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#7 C:\Ampps\www\commune-ouverte.org\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\Ampps\www\commune-ouverte.org\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\Ampps\www\commune-ouverte.org\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2022-05-07 07:55:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-05-07 07:55:48 --> Call to undefined method App\Controllers\Home::load_view()
+#0 C:\Ampps\www\commune-ouverte.org\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#1 C:\Ampps\www\commune-ouverte.org\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\Ampps\www\commune-ouverte.org\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Ampps\www\commune-ouverte.org\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2022-05-07 07:56:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2022-05-07 07:56:17 --> Table 'db_commune_ouverte.menu' doesn't exist
+CRITICAL - 2022-05-07 07:56:17 --> Table 'db_commune_ouverte.menu' doesn't exist
+#0 C:\Ampps\www\commune-ouverte.org\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT `m`.*, `...', 0)
+#1 C:\Ampps\www\commune-ouverte.org\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `m`.*, `...')
+#2 C:\Ampps\www\commune-ouverte.org\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `m`.*, `...')
+#3 C:\Ampps\www\commune-ouverte.org\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT `m`.*, `...', Array, false)
+#4 C:\Ampps\www\commune-ouverte.org\app\Controllers\BaseController.php(149): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\Ampps\www\commune-ouverte.org\app\Controllers\Home.php(19): App\Controllers\BaseController->load_backend_view('index')
+#6 C:\Ampps\www\commune-ouverte.org\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#7 C:\Ampps\www\commune-ouverte.org\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\Ampps\www\commune-ouverte.org\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\Ampps\www\commune-ouverte.org\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2022-05-07 07:59:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2022-05-07 07:59:21 --> Unknown column 'mlc.menu_id_parent' in 'where clause'
+CRITICAL - 2022-05-07 07:59:21 --> Unknown column 'mlc.menu_id_parent' in 'where clause'
+#0 C:\Ampps\www\commune-ouverte.org\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT `m`.*, `...', 0)
+#1 C:\Ampps\www\commune-ouverte.org\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `m`.*, `...')
+#2 C:\Ampps\www\commune-ouverte.org\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `m`.*, `...')
+#3 C:\Ampps\www\commune-ouverte.org\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT `m`.*, `...', Array, false)
+#4 C:\Ampps\www\commune-ouverte.org\app\Controllers\BaseController.php(148): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\Ampps\www\commune-ouverte.org\app\Controllers\Home.php(19): App\Controllers\BaseController->load_backend_view('index')
+#6 C:\Ampps\www\commune-ouverte.org\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#7 C:\Ampps\www\commune-ouverte.org\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\Ampps\www\commune-ouverte.org\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\Ampps\www\commune-ouverte.org\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2022-05-07 08:00:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-05-07 08:00:38 --> Undefined variable: lang
+#0 C:\Ampps\www\commune-ouverte.org\app\Views\layout\backend_header.php(40): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\Ampps\\www\\co...', 40, Array)
+#1 C:\Ampps\www\commune-ouverte.org\system\View\View.php(210): include('C:\\Ampps\\www\\co...')
+#2 C:\Ampps\www\commune-ouverte.org\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\Ampps\www\commune-ouverte.org\system\Common.php(1089): CodeIgniter\View\View->render('layout/backend_...', Array, true)
+#4 C:\Ampps\www\commune-ouverte.org\app\Controllers\BaseController.php(151): view('layout/backend_...', Array)
+#5 C:\Ampps\www\commune-ouverte.org\app\Controllers\Home.php(19): App\Controllers\BaseController->load_backend_view('index')
+#6 C:\Ampps\www\commune-ouverte.org\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#7 C:\Ampps\www\commune-ouverte.org\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\Ampps\www\commune-ouverte.org\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\Ampps\www\commune-ouverte.org\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2022-05-07 08:01:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-05-07 08:01:24 --> Undefined variable: formatdate
+#0 C:\Ampps\www\commune-ouverte.org\app\Views\layout\backend_header.php(42): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\Ampps\\www\\co...', 42, Array)
+#1 C:\Ampps\www\commune-ouverte.org\system\View\View.php(210): include('C:\\Ampps\\www\\co...')
+#2 C:\Ampps\www\commune-ouverte.org\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\Ampps\www\commune-ouverte.org\system\Common.php(1089): CodeIgniter\View\View->render('layout/backend_...', Array, true)
+#4 C:\Ampps\www\commune-ouverte.org\app\Controllers\BaseController.php(151): view('layout/backend_...', Array)
+#5 C:\Ampps\www\commune-ouverte.org\app\Controllers\Home.php(19): App\Controllers\BaseController->load_backend_view('index')
+#6 C:\Ampps\www\commune-ouverte.org\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#7 C:\Ampps\www\commune-ouverte.org\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\Ampps\www\commune-ouverte.org\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\Ampps\www\commune-ouverte.org\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2022-05-07 08:01:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-05-07 08:01:43 --> Undefined variable: required_colour
+#0 C:\Ampps\www\commune-ouverte.org\app\Views\layout\backend_header.php(60): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\Ampps\\www\\co...', 60, Array)
+#1 C:\Ampps\www\commune-ouverte.org\system\View\View.php(210): include('C:\\Ampps\\www\\co...')
+#2 C:\Ampps\www\commune-ouverte.org\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\Ampps\www\commune-ouverte.org\system\Common.php(1089): CodeIgniter\View\View->render('layout/backend_...', Array, true)
+#4 C:\Ampps\www\commune-ouverte.org\app\Controllers\BaseController.php(151): view('layout/backend_...', Array)
+#5 C:\Ampps\www\commune-ouverte.org\app\Controllers\Home.php(19): App\Controllers\BaseController->load_backend_view('index')
+#6 C:\Ampps\www\commune-ouverte.org\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#7 C:\Ampps\www\commune-ouverte.org\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\Ampps\www\commune-ouverte.org\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\Ampps\www\commune-ouverte.org\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2022-05-07 08:01:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-05-07 08:01:59 --> Undefined variable: session
+#0 C:\Ampps\www\commune-ouverte.org\app\Views\layout\backend_header.php(393): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\Ampps\\www\\co...', 393, Array)
+#1 C:\Ampps\www\commune-ouverte.org\system\View\View.php(210): include('C:\\Ampps\\www\\co...')
+#2 C:\Ampps\www\commune-ouverte.org\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\Ampps\www\commune-ouverte.org\system\Common.php(1089): CodeIgniter\View\View->render('layout/backend_...', Array, true)
+#4 C:\Ampps\www\commune-ouverte.org\app\Controllers\BaseController.php(151): view('layout/backend_...', Array)
+#5 C:\Ampps\www\commune-ouverte.org\app\Controllers\Home.php(19): App\Controllers\BaseController->load_backend_view('index')
+#6 C:\Ampps\www\commune-ouverte.org\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#7 C:\Ampps\www\commune-ouverte.org\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\Ampps\www\commune-ouverte.org\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\Ampps\www\commune-ouverte.org\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2022-05-07 08:03:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-05-07 08:03:04 --> Undefined variable: favoris
+#0 C:\Ampps\www\commune-ouverte.org\app\Views\layout\backend_header.php(499): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\Ampps\\www\\co...', 499, Array)
+#1 C:\Ampps\www\commune-ouverte.org\system\View\View.php(210): include('C:\\Ampps\\www\\co...')
+#2 C:\Ampps\www\commune-ouverte.org\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\Ampps\www\commune-ouverte.org\system\Common.php(1089): CodeIgniter\View\View->render('layout/backend_...', Array, true)
+#4 C:\Ampps\www\commune-ouverte.org\app\Controllers\BaseController.php(152): view('layout/backend_...', Array)
+#5 C:\Ampps\www\commune-ouverte.org\app\Controllers\Home.php(19): App\Controllers\BaseController->load_backend_view('index')
+#6 C:\Ampps\www\commune-ouverte.org\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#7 C:\Ampps\www\commune-ouverte.org\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\Ampps\www\commune-ouverte.org\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\Ampps\www\commune-ouverte.org\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2022-05-07 08:03:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-05-07 08:03:31 --> Undefined variable: user
+#0 C:\Ampps\www\commune-ouverte.org\app\Views\index.php(27): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\Ampps\\www\\co...', 27, Array)
+#1 C:\Ampps\www\commune-ouverte.org\system\View\View.php(210): include('C:\\Ampps\\www\\co...')
+#2 C:\Ampps\www\commune-ouverte.org\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\Ampps\www\commune-ouverte.org\system\Common.php(1089): CodeIgniter\View\View->render('index', Array, true)
+#4 C:\Ampps\www\commune-ouverte.org\app\Controllers\BaseController.php(153): view('index', Array)
+#5 C:\Ampps\www\commune-ouverte.org\app\Controllers\Home.php(19): App\Controllers\BaseController->load_backend_view('index')
+#6 C:\Ampps\www\commune-ouverte.org\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#7 C:\Ampps\www\commune-ouverte.org\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\Ampps\www\commune-ouverte.org\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\Ampps\www\commune-ouverte.org\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2022-05-07 08:06:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-05-07 08:06:18 --> Undefined variable: lang
+#0 C:\Ampps\www\commune-ouverte.org\app\Views\layout\backend_footer.php(168): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\Ampps\\www\\co...', 168, Array)
+#1 C:\Ampps\www\commune-ouverte.org\system\View\View.php(210): include('C:\\Ampps\\www\\co...')
+#2 C:\Ampps\www\commune-ouverte.org\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\Ampps\www\commune-ouverte.org\system\Common.php(1089): CodeIgniter\View\View->render('layout/backend_...', Array, true)
+#4 C:\Ampps\www\commune-ouverte.org\app\Controllers\BaseController.php(154): view('layout/backend_...')
+#5 C:\Ampps\www\commune-ouverte.org\app\Controllers\Home.php(19): App\Controllers\BaseController->load_backend_view('index')
+#6 C:\Ampps\www\commune-ouverte.org\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#7 C:\Ampps\www\commune-ouverte.org\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\Ampps\www\commune-ouverte.org\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\Ampps\www\commune-ouverte.org\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2022-05-07 08:06:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-05-07 08:06:48 --> Undefined variable: lang
+#0 C:\Ampps\www\commune-ouverte.org\app\Views\layout\backend_footer.php(168): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\Ampps\\www\\co...', 168, Array)
+#1 C:\Ampps\www\commune-ouverte.org\system\View\View.php(210): include('C:\\Ampps\\www\\co...')
+#2 C:\Ampps\www\commune-ouverte.org\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\Ampps\www\commune-ouverte.org\system\Common.php(1089): CodeIgniter\View\View->render('layout/backend_...', Array, true)
+#4 C:\Ampps\www\commune-ouverte.org\app\Controllers\BaseController.php(154): view('layout/backend_...')
+#5 C:\Ampps\www\commune-ouverte.org\app\Controllers\Home.php(19): App\Controllers\BaseController->load_backend_view('index')
+#6 C:\Ampps\www\commune-ouverte.org\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#7 C:\Ampps\www\commune-ouverte.org\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\Ampps\www\commune-ouverte.org\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\Ampps\www\commune-ouverte.org\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2022-05-07 08:08:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-05-07 08:08:04 --> Undefined variable: lang
+#0 C:\Ampps\www\commune-ouverte.org\app\Views\layout\backend_footer.php(175): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\Ampps\\www\\co...', 175, Array)
+#1 C:\Ampps\www\commune-ouverte.org\system\View\View.php(210): include('C:\\Ampps\\www\\co...')
+#2 C:\Ampps\www\commune-ouverte.org\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\Ampps\www\commune-ouverte.org\system\Common.php(1089): CodeIgniter\View\View->render('layout/backend_...', Array, true)
+#4 C:\Ampps\www\commune-ouverte.org\app\Controllers\BaseController.php(154): view('layout/backend_...')
+#5 C:\Ampps\www\commune-ouverte.org\app\Controllers\Home.php(19): App\Controllers\BaseController->load_backend_view('index')
+#6 C:\Ampps\www\commune-ouverte.org\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#7 C:\Ampps\www\commune-ouverte.org\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\Ampps\www\commune-ouverte.org\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\Ampps\www\commune-ouverte.org\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2022-05-07 08:08:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-05-07 08:08:41 --> Undefined variable: lang
+#0 C:\Ampps\www\commune-ouverte.org\app\Views\layout\backend_footer.php(175): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\Ampps\\www\\co...', 175, Array)
+#1 C:\Ampps\www\commune-ouverte.org\system\View\View.php(210): include('C:\\Ampps\\www\\co...')
+#2 C:\Ampps\www\commune-ouverte.org\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\Ampps\www\commune-ouverte.org\system\Common.php(1089): CodeIgniter\View\View->render('layout/backend_...', Array, true)
+#4 C:\Ampps\www\commune-ouverte.org\app\Controllers\BaseController.php(154): view('layout/backend_...')
+#5 C:\Ampps\www\commune-ouverte.org\app\Controllers\Home.php(19): App\Controllers\BaseController->load_backend_view('index')
+#6 C:\Ampps\www\commune-ouverte.org\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#7 C:\Ampps\www\commune-ouverte.org\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\Ampps\www\commune-ouverte.org\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\Ampps\www\commune-ouverte.org\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2022-05-07 08:32:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-05-07 08:32:25 --> Undefined variable: lang
+#0 C:\Ampps\www\commune-ouverte.org\app\Views\layout\backend_footer.php(190): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\Ampps\\www\\co...', 190, Array)
+#1 C:\Ampps\www\commune-ouverte.org\system\View\View.php(210): include('C:\\Ampps\\www\\co...')
+#2 C:\Ampps\www\commune-ouverte.org\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\Ampps\www\commune-ouverte.org\system\Common.php(1089): CodeIgniter\View\View->render('layout/backend_...', Array, true)
+#4 C:\Ampps\www\commune-ouverte.org\app\Controllers\BaseController.php(154): view('layout/backend_...')
+#5 C:\Ampps\www\commune-ouverte.org\app\Controllers\Home.php(19): App\Controllers\BaseController->load_backend_view('index')
+#6 C:\Ampps\www\commune-ouverte.org\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#7 C:\Ampps\www\commune-ouverte.org\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\Ampps\www\commune-ouverte.org\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\Ampps\www\commune-ouverte.org\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2022-05-07 08:33:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-07 08:33:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-07 08:36:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-07 08:37:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-07 12:04:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-07 12:04:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-07 12:04:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2022-05-07 12:04:57 --> Error connecting to the database: Access denied for user '****'@'localhost' (using password: YES)
+CRITICAL - 2022-05-07 12:04:57 --> Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user '****'@'localhost' (using password: YES)
+#0 C:\xampp\htdocs\commune-ouverte.org\system\Database\BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\xampp\htdocs\commune-ouverte.org\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT `sys_use...', Array, false)
+#2 C:\xampp\htdocs\commune-ouverte.org\app\Models\LoginModel.php(35): CodeIgniter\Database\BaseBuilder->get()
+#3 C:\xampp\htdocs\commune-ouverte.org\app\Controllers\Login.php(26): App\Models\LoginModel->authenticate('admin', 'admin')
+#4 C:\xampp\htdocs\commune-ouverte.org\system\CodeIgniter.php(832): App\Controllers\Login->check_login()
+#5 C:\xampp\htdocs\commune-ouverte.org\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#6 C:\xampp\htdocs\commune-ouverte.org\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\commune-ouverte.org\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2022-05-07 12:05:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2022-05-07 12:05:02 --> Error connecting to the database: Access denied for user '****'@'localhost' (using password: YES)
+CRITICAL - 2022-05-07 12:05:02 --> Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user '****'@'localhost' (using password: YES)
+#0 C:\xampp\htdocs\commune-ouverte.org\system\Database\BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\xampp\htdocs\commune-ouverte.org\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT `sys_use...', Array, false)
+#2 C:\xampp\htdocs\commune-ouverte.org\app\Models\LoginModel.php(35): CodeIgniter\Database\BaseBuilder->get()
+#3 C:\xampp\htdocs\commune-ouverte.org\app\Controllers\Login.php(26): App\Models\LoginModel->authenticate('admin', 'admin')
+#4 C:\xampp\htdocs\commune-ouverte.org\system\CodeIgniter.php(832): App\Controllers\Login->check_login()
+#5 C:\xampp\htdocs\commune-ouverte.org\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#6 C:\xampp\htdocs\commune-ouverte.org\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\commune-ouverte.org\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2022-05-07 12:05:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2022-05-07 12:05:03 --> Error connecting to the database: Access denied for user '****'@'localhost' (using password: YES)
+CRITICAL - 2022-05-07 12:05:03 --> Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user '****'@'localhost' (using password: YES)
+#0 C:\xampp\htdocs\commune-ouverte.org\system\Database\BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\xampp\htdocs\commune-ouverte.org\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT `sys_use...', Array, false)
+#2 C:\xampp\htdocs\commune-ouverte.org\app\Models\LoginModel.php(35): CodeIgniter\Database\BaseBuilder->get()
+#3 C:\xampp\htdocs\commune-ouverte.org\app\Controllers\Login.php(26): App\Models\LoginModel->authenticate('admin', 'admin')
+#4 C:\xampp\htdocs\commune-ouverte.org\system\CodeIgniter.php(832): App\Controllers\Login->check_login()
+#5 C:\xampp\htdocs\commune-ouverte.org\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#6 C:\xampp\htdocs\commune-ouverte.org\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\commune-ouverte.org\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2022-05-07 12:05:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2022-05-07 12:05:08 --> Error connecting to the database: Access denied for user '****'@'localhost' (using password: YES)
+CRITICAL - 2022-05-07 12:05:08 --> Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user '****'@'localhost' (using password: YES)
+#0 C:\xampp\htdocs\commune-ouverte.org\system\Database\BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\xampp\htdocs\commune-ouverte.org\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT `sys_use...', Array, false)
+#2 C:\xampp\htdocs\commune-ouverte.org\app\Models\LoginModel.php(35): CodeIgniter\Database\BaseBuilder->get()
+#3 C:\xampp\htdocs\commune-ouverte.org\app\Controllers\Login.php(26): App\Models\LoginModel->authenticate('admin', '1234')
+#4 C:\xampp\htdocs\commune-ouverte.org\system\CodeIgniter.php(832): App\Controllers\Login->check_login()
+#5 C:\xampp\htdocs\commune-ouverte.org\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#6 C:\xampp\htdocs\commune-ouverte.org\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\commune-ouverte.org\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2022-05-07 12:05:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2022-05-07 12:05:10 --> Error connecting to the database: Access denied for user '****'@'localhost' (using password: YES)
+CRITICAL - 2022-05-07 12:05:10 --> Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user '****'@'localhost' (using password: YES)
+#0 C:\xampp\htdocs\commune-ouverte.org\system\Database\BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\xampp\htdocs\commune-ouverte.org\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT `sys_use...', Array, false)
+#2 C:\xampp\htdocs\commune-ouverte.org\app\Models\LoginModel.php(35): CodeIgniter\Database\BaseBuilder->get()
+#3 C:\xampp\htdocs\commune-ouverte.org\app\Controllers\Login.php(26): App\Models\LoginModel->authenticate('admin', '1234')
+#4 C:\xampp\htdocs\commune-ouverte.org\system\CodeIgniter.php(832): App\Controllers\Login->check_login()
+#5 C:\xampp\htdocs\commune-ouverte.org\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#6 C:\xampp\htdocs\commune-ouverte.org\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\commune-ouverte.org\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2022-05-07 12:05:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.

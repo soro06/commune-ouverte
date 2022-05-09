@@ -1,0 +1,447 @@
+CRITICAL - 2022-03-10 02:58:39 --> Call to undefined method CodeIgniter\Session\Session::userdata()
+#0 C:\Ampps\www\maintex_v\app\Controllers\Home.php(8): App\Controllers\BaseController->load_view('index')
+#1 C:\Ampps\www\maintex_v\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#2 C:\Ampps\www\maintex_v\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\Ampps\www\maintex_v\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Ampps\www\maintex_v\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-10 02:59:02 --> Call to a member function select() on null
+#0 C:\Ampps\www\maintex_v\app\Controllers\Home.php(8): App\Controllers\BaseController->load_view('index')
+#1 C:\Ampps\www\maintex_v\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#2 C:\Ampps\www\maintex_v\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\Ampps\www\maintex_v\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Ampps\www\maintex_v\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-10 03:10:00 --> Call to undefined method CodeIgniter\Database\MySQLi\Connection::select()
+#0 C:\Ampps\www\maintex_v\app\Controllers\Home.php(8): App\Controllers\BaseController->load_view('index')
+#1 C:\Ampps\www\maintex_v\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#2 C:\Ampps\www\maintex_v\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\Ampps\www\maintex_v\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Ampps\www\maintex_v\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-10 03:10:59 --> Call to undefined method CodeIgniter\Database\MySQLi\Connection::select()
+#0 C:\Ampps\www\maintex_v\app\Controllers\Home.php(8): App\Controllers\BaseController->load_view('index')
+#1 C:\Ampps\www\maintex_v\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#2 C:\Ampps\www\maintex_v\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\Ampps\www\maintex_v\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Ampps\www\maintex_v\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-10 03:13:50 --> Call to a member function select() on null
+#0 C:\Ampps\www\maintex_v\app\Controllers\Home.php(8): App\Controllers\BaseController->load_view('index')
+#1 C:\Ampps\www\maintex_v\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#2 C:\Ampps\www\maintex_v\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\Ampps\www\maintex_v\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Ampps\www\maintex_v\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-10 03:14:49 --> Call to undefined method CodeIgniter\Database\MySQLi\Connection::select()
+#0 C:\Ampps\www\maintex_v\app\Controllers\Home.php(8): App\Controllers\BaseController->load_view('index')
+#1 C:\Ampps\www\maintex_v\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#2 C:\Ampps\www\maintex_v\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\Ampps\www\maintex_v\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Ampps\www\maintex_v\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-10 03:18:09 --> Call to undefined method CodeIgniter\Database\MySQLi\Connection::select()
+#0 C:\Ampps\www\maintex_v\app\Controllers\Home.php(8): App\Controllers\BaseController->load_view('index')
+#1 C:\Ampps\www\maintex_v\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#2 C:\Ampps\www\maintex_v\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\Ampps\www\maintex_v\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Ampps\www\maintex_v\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-10 03:18:38 --> Call to undefined method CodeIgniter\Database\MySQLi\Connection::select()
+#0 C:\Ampps\www\maintex_v\app\Controllers\Home.php(8): App\Controllers\BaseController->load_view('index')
+#1 C:\Ampps\www\maintex_v\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#2 C:\Ampps\www\maintex_v\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\Ampps\www\maintex_v\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Ampps\www\maintex_v\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-10 03:22:04 --> Call to undefined method CodeIgniter\Database\MySQLi\Connection::select()
+#0 C:\Ampps\www\maintex_v\app\Controllers\Home.php(8): App\Controllers\BaseController->load_view('index')
+#1 C:\Ampps\www\maintex_v\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#2 C:\Ampps\www\maintex_v\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\Ampps\www\maintex_v\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Ampps\www\maintex_v\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-10 03:23:14 --> Call to undefined method CodeIgniter\Database\MySQLi\Connection::select()
+#0 C:\Ampps\www\maintex_v\app\Controllers\Home.php(8): App\Controllers\BaseController->load_view('index')
+#1 C:\Ampps\www\maintex_v\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#2 C:\Ampps\www\maintex_v\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\Ampps\www\maintex_v\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Ampps\www\maintex_v\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-10 03:35:39 --> Call to undefined method CodeIgniter\Database\MySQLi\Connection::select()
+#0 C:\Ampps\www\maintex_v\app\Controllers\Home.php(8): App\Controllers\BaseController->load_view('index')
+#1 C:\Ampps\www\maintex_v\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#2 C:\Ampps\www\maintex_v\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\Ampps\www\maintex_v\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Ampps\www\maintex_v\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2022-03-10 03:36:27 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'm.*, _designation as titremenu' at line 1
+CRITICAL - 2022-03-10 03:36:27 --> Call to a member function from() on bool
+#0 C:\Ampps\www\maintex_v\app\Controllers\Home.php(8): App\Controllers\BaseController->load_view('index')
+#1 C:\Ampps\www\maintex_v\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#2 C:\Ampps\www\maintex_v\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\Ampps\www\maintex_v\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Ampps\www\maintex_v\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-10 03:39:33 --> Call to undefined method CodeIgniter\Database\MySQLi\Builder::order_by()
+#0 C:\Ampps\www\maintex_v\app\Controllers\Home.php(8): App\Controllers\BaseController->load_view('index')
+#1 C:\Ampps\www\maintex_v\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#2 C:\Ampps\www\maintex_v\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\Ampps\www\maintex_v\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Ampps\www\maintex_v\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-10 03:44:26 --> Call to undefined method CodeIgniter\Database\MySQLi\Connection::get()
+#0 C:\Ampps\www\maintex_v\app\Controllers\Home.php(8): App\Controllers\BaseController->load_view('index')
+#1 C:\Ampps\www\maintex_v\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#2 C:\Ampps\www\maintex_v\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\Ampps\www\maintex_v\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Ampps\www\maintex_v\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2022-03-10 03:45:12 --> Unknown column '_designation' in 'field list'
+CRITICAL - 2022-03-10 03:45:12 --> Call to a member function result() on bool
+#0 C:\Ampps\www\maintex_v\app\Controllers\Home.php(8): App\Controllers\BaseController->load_view('index')
+#1 C:\Ampps\www\maintex_v\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#2 C:\Ampps\www\maintex_v\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\Ampps\www\maintex_v\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Ampps\www\maintex_v\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2022-03-10 03:53:47 --> Unknown column '_designation' in 'field list'
+CRITICAL - 2022-03-10 03:53:47 --> Call to a member function getResult() on bool
+#0 C:\Ampps\www\maintex_v\app\Controllers\Home.php(8): App\Controllers\BaseController->load_view('index')
+#1 C:\Ampps\www\maintex_v\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#2 C:\Ampps\www\maintex_v\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\Ampps\www\maintex_v\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Ampps\www\maintex_v\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2022-03-10 04:17:09 --> Unknown column '_designation' in 'field list'
+CRITICAL - 2022-03-10 04:17:09 --> Call to a member function getResult() on bool
+#0 C:\Ampps\www\maintex_v\app\Controllers\Home.php(8): App\Controllers\BaseController->load_view('index')
+#1 C:\Ampps\www\maintex_v\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#2 C:\Ampps\www\maintex_v\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\Ampps\www\maintex_v\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Ampps\www\maintex_v\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2022-03-10 04:18:38 --> Unknown column '_designation' in 'field list'
+CRITICAL - 2022-03-10 04:18:38 --> Call to a member function getResult() on bool
+#0 C:\Ampps\www\maintex_v\app\Controllers\Home.php(8): App\Controllers\BaseController->load_view('index')
+#1 C:\Ampps\www\maintex_v\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#2 C:\Ampps\www\maintex_v\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\Ampps\www\maintex_v\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Ampps\www\maintex_v\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2022-03-10 04:30:33 --> Unknown column '_designation' in 'field list'
+CRITICAL - 2022-03-10 04:30:33 --> Call to a member function getResult() on bool
+#0 C:\Ampps\www\maintex_v\app\Controllers\Home.php(8): App\Controllers\BaseController->load_view('index')
+#1 C:\Ampps\www\maintex_v\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#2 C:\Ampps\www\maintex_v\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\Ampps\www\maintex_v\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Ampps\www\maintex_v\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2022-03-10 04:32:50 --> Unknown column '_designation' in 'field list'
+CRITICAL - 2022-03-10 04:32:50 --> Call to a member function getResult() on bool
+#0 C:\Ampps\www\maintex_v\app\Controllers\Home.php(8): App\Controllers\BaseController->load_view('index')
+#1 C:\Ampps\www\maintex_v\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#2 C:\Ampps\www\maintex_v\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\Ampps\www\maintex_v\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Ampps\www\maintex_v\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2022-03-10 04:41:08 --> Unknown column '_designation' in 'field list'
+CRITICAL - 2022-03-10 04:41:08 --> Call to a member function getResult() on bool
+#0 C:\Ampps\www\maintex_v\app\Controllers\Home.php(8): App\Controllers\BaseController->load_view('index')
+#1 C:\Ampps\www\maintex_v\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#2 C:\Ampps\www\maintex_v\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\Ampps\www\maintex_v\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Ampps\www\maintex_v\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2022-03-10 04:42:18 --> Unknown column '_designation' in 'field list'
+CRITICAL - 2022-03-10 04:42:18 --> Call to a member function getResult() on bool
+#0 C:\Ampps\www\maintex_v\app\Controllers\Home.php(8): App\Controllers\BaseController->load_view('index')
+#1 C:\Ampps\www\maintex_v\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#2 C:\Ampps\www\maintex_v\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\Ampps\www\maintex_v\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Ampps\www\maintex_v\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2022-03-10 04:43:15 --> Error connecting to the database: php_network_getaddresses: getaddrinfo failed: Hôte inconnu. 
+CRITICAL - 2022-03-10 04:43:15 --> Unable to connect to the database.
+Main connection [MySQLi]: php_network_getaddresses: getaddrinfo failed: Hôte inconnu. 
+#0 C:\Ampps\www\maintex_v\system\Database\BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\Ampps\www\maintex_v\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT `m`.*, `...', Array, false)
+#2 C:\Ampps\www\maintex_v\app\Controllers\BaseController.php(67): CodeIgniter\Database\BaseBuilder->get()
+#3 C:\Ampps\www\maintex_v\app\Controllers\Home.php(8): App\Controllers\BaseController->load_view('index')
+#4 C:\Ampps\www\maintex_v\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#5 C:\Ampps\www\maintex_v\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 C:\Ampps\www\maintex_v\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\Ampps\www\maintex_v\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-10 04:43:15 --> Uncaught ErrorException: print_r(): Property access is not allowed yet in C:\Ampps\www\maintex_v\app\Views\errors\html\error_exception.php:96
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'print_r(): Prop...', 'C:\\Ampps\\www\\ma...', 96, Array)
+#1 C:\Ampps\www\maintex_v\app\Views\errors\html\error_exception.php(96): print_r(Object(App\Controllers\Home), true)
+#2 C:\Ampps\www\maintex_v\system\Debug\Exceptions.php(234): include('C:\\Ampps\\www\\ma...')
+#3 C:\Ampps\www\maintex_v\system\Debug\Exceptions.php(237): CodeIgniter\Debug\Exceptions->CodeIgniter\Debug\{closure}()
+#4 C:\Ampps\www\maintex_v\system\Debug\Exceptions.php(121): CodeIgniter\Debug\Exceptions->render(Object(CodeIgniter\Database\Exceptions\DatabaseException), 500)
+#5 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(CodeIgniter\Database\Exceptions\DatabaseException))
+#6 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+ERROR - 2022-03-10 04:45:14 --> Error connecting to the database: php_network_getaddresses: getaddrinfo failed: Hôte inconnu. 
+CRITICAL - 2022-03-10 04:45:14 --> Unable to connect to the database.
+Main connection [MySQLi]: php_network_getaddresses: getaddrinfo failed: Hôte inconnu. 
+#0 C:\Ampps\www\maintex_v\system\Database\BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\Ampps\www\maintex_v\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT `m`.*, `...', Array, false)
+#2 C:\Ampps\www\maintex_v\app\Controllers\BaseController.php(67): CodeIgniter\Database\BaseBuilder->get()
+#3 C:\Ampps\www\maintex_v\app\Controllers\Home.php(8): App\Controllers\BaseController->load_view('index')
+#4 C:\Ampps\www\maintex_v\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#5 C:\Ampps\www\maintex_v\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 C:\Ampps\www\maintex_v\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\Ampps\www\maintex_v\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-10 04:45:14 --> Uncaught ErrorException: print_r(): Property access is not allowed yet in C:\Ampps\www\maintex_v\app\Views\errors\html\error_exception.php:96
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'print_r(): Prop...', 'C:\\Ampps\\www\\ma...', 96, Array)
+#1 C:\Ampps\www\maintex_v\app\Views\errors\html\error_exception.php(96): print_r(Object(App\Controllers\Home), true)
+#2 C:\Ampps\www\maintex_v\system\Debug\Exceptions.php(234): include('C:\\Ampps\\www\\ma...')
+#3 C:\Ampps\www\maintex_v\system\Debug\Exceptions.php(237): CodeIgniter\Debug\Exceptions->CodeIgniter\Debug\{closure}()
+#4 C:\Ampps\www\maintex_v\system\Debug\Exceptions.php(121): CodeIgniter\Debug\Exceptions->render(Object(CodeIgniter\Database\Exceptions\DatabaseException), 500)
+#5 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(CodeIgniter\Database\Exceptions\DatabaseException))
+#6 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+ERROR - 2022-03-10 04:45:50 --> Unknown column '_designation' in 'field list'
+CRITICAL - 2022-03-10 04:45:50 --> Call to a member function getResult() on bool
+#0 C:\Ampps\www\maintex_v\app\Controllers\Home.php(8): App\Controllers\BaseController->load_view('index')
+#1 C:\Ampps\www\maintex_v\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#2 C:\Ampps\www\maintex_v\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\Ampps\www\maintex_v\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Ampps\www\maintex_v\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2022-03-10 04:48:20 --> Unknown column '_designation' in 'field list'
+CRITICAL - 2022-03-10 04:48:20 --> Call to a member function getResult() on bool
+#0 C:\Ampps\www\maintex_v\app\Controllers\Home.php(8): App\Controllers\BaseController->load_view('index')
+#1 C:\Ampps\www\maintex_v\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#2 C:\Ampps\www\maintex_v\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\Ampps\www\maintex_v\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Ampps\www\maintex_v\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2022-03-10 04:49:47 --> Table 'maintex.userq_menu_list' doesn't exist
+CRITICAL - 2022-03-10 04:49:47 --> Call to a member function getResult() on bool
+#0 C:\Ampps\www\maintex_v\app\Controllers\Home.php(8): App\Controllers\BaseController->load_view('index')
+#1 C:\Ampps\www\maintex_v\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#2 C:\Ampps\www\maintex_v\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\Ampps\www\maintex_v\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Ampps\www\maintex_v\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2022-03-10 04:50:08 --> Table 'maintex.userq_menu_list' doesn't exist
+ERROR - 2022-03-10 04:50:37 --> Table 'maintex.uzser_menu_list' doesn't exist
+ERROR - 2022-03-10 04:53:05 --> Table 'maintex.uzser_menu_list' doesn't exist
+ERROR - 2022-03-10 04:56:54 --> Table 'maintex.uzser_menu_list' doesn't exist
+ERROR - 2022-03-10 04:57:32 --> Table 'maintex.uzser_menu_list' doesn't exist
+CRITICAL - 2022-03-10 04:57:32 --> Call to a member function getResult() on bool
+#0 C:\Ampps\www\maintex_v\app\Controllers\Home.php(8): App\Controllers\BaseController->load_view('index')
+#1 C:\Ampps\www\maintex_v\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#2 C:\Ampps\www\maintex_v\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\Ampps\www\maintex_v\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Ampps\www\maintex_v\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2022-03-10 04:58:57 --> Table 'maintex.uzser_menu_list' doesn't exist
+CRITICAL - 2022-03-10 04:58:57 --> Call to a member function getResult() on bool
+#0 C:\Ampps\www\maintex_v\app\Controllers\Home.php(8): App\Controllers\BaseController->load_view('index')
+#1 C:\Ampps\www\maintex_v\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#2 C:\Ampps\www\maintex_v\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\Ampps\www\maintex_v\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Ampps\www\maintex_v\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2022-03-10 04:59:21 --> Table 'maintex.uzser_menu_list' doesn't exist
+CRITICAL - 2022-03-10 04:59:21 --> Call to a member function getResult() on bool
+#0 C:\Ampps\www\maintex_v\app\Controllers\Home.php(8): App\Controllers\BaseController->load_view('index')
+#1 C:\Ampps\www\maintex_v\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#2 C:\Ampps\www\maintex_v\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\Ampps\www\maintex_v\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Ampps\www\maintex_v\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2022-03-10 05:00:05 --> Table 'maintex.uzser_menu_list' doesn't exist
+CRITICAL - 2022-03-10 05:00:05 --> Call to undefined method CodeIgniter\Database\MySQLi\Connection::_error_message()
+#0 C:\Ampps\www\maintex_v\app\Controllers\Home.php(8): App\Controllers\BaseController->load_view('index')
+#1 C:\Ampps\www\maintex_v\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#2 C:\Ampps\www\maintex_v\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\Ampps\www\maintex_v\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Ampps\www\maintex_v\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2022-03-10 05:06:42 --> Table 'maintex.uzser_menu_list' doesn't exist
+CRITICAL - 2022-03-10 05:06:42 --> Call to a member function getResult() on bool
+#0 C:\Ampps\www\maintex_v\app\Controllers\Home.php(8): App\Controllers\BaseController->load_view('index')
+#1 C:\Ampps\www\maintex_v\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#2 C:\Ampps\www\maintex_v\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\Ampps\www\maintex_v\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Ampps\www\maintex_v\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2022-03-10 05:11:48 --> Table 'maintex.uzser_menu_list' doesn't exist
+CRITICAL - 2022-03-10 05:11:48 --> Call to a member function getResult() on bool
+#0 C:\Ampps\www\maintex_v\app\Controllers\Home.php(8): App\Controllers\BaseController->load_view('index')
+#1 C:\Ampps\www\maintex_v\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#2 C:\Ampps\www\maintex_v\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\Ampps\www\maintex_v\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Ampps\www\maintex_v\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2022-03-10 05:19:37 --> Unknown column '_designation' in 'field list'
+CRITICAL - 2022-03-10 05:19:37 --> Call to a member function getResult() on bool
+#0 C:\Ampps\www\maintex_v\app\Controllers\Home.php(8): App\Controllers\BaseController->load_view('index')
+#1 C:\Ampps\www\maintex_v\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#2 C:\Ampps\www\maintex_v\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\Ampps\www\maintex_v\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Ampps\www\maintex_v\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2022-03-10 05:25:24 --> Table 'maintex.user_menu_listsm' doesn't exist
+CRITICAL - 2022-03-10 05:25:24 --> Call to a member function getResult() on bool
+#0 C:\Ampps\www\maintex_v\app\Controllers\Home.php(8): App\Controllers\BaseController->load_view('index')
+#1 C:\Ampps\www\maintex_v\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#2 C:\Ampps\www\maintex_v\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\Ampps\www\maintex_v\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Ampps\www\maintex_v\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-10 05:28:59 --> Namespace declaration statement has to be the very first statement or after any declare call in the script
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+ERROR - 2022-03-10 05:33:03 --> Table 'maintex.user_menu_lists' doesn't exist
+CRITICAL - 2022-03-10 05:33:03 --> Table 'maintex.user_menu_lists' doesn't exist
+#0 C:\Ampps\www\maintex_v\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\Ampps\www\maintex_v\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\Ampps\www\maintex_v\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\Ampps\www\maintex_v\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\Ampps\www\maintex_v\app\Controllers\BaseController.php(67): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\Ampps\www\maintex_v\app\Controllers\Home.php(8): App\Controllers\BaseController->load_view('index')
+#6 C:\Ampps\www\maintex_v\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#7 C:\Ampps\www\maintex_v\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\Ampps\www\maintex_v\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\Ampps\www\maintex_v\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+ERROR - 2022-03-10 05:35:49 --> Table 'maintex.user_menu_lista' doesn't exist
+CRITICAL - 2022-03-10 05:35:49 --> Table 'maintex.user_menu_lista' doesn't exist
+#0 C:\Ampps\www\maintex_v\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT `m`.*, `...', 0)
+#1 C:\Ampps\www\maintex_v\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `m`.*, `...')
+#2 C:\Ampps\www\maintex_v\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `m`.*, `...')
+#3 C:\Ampps\www\maintex_v\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT `m`.*, `...', Array, false)
+#4 C:\Ampps\www\maintex_v\app\Controllers\BaseController.php(67): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\Ampps\www\maintex_v\app\Controllers\Home.php(8): App\Controllers\BaseController->load_view('index')
+#6 C:\Ampps\www\maintex_v\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#7 C:\Ampps\www\maintex_v\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\Ampps\www\maintex_v\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\Ampps\www\maintex_v\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2022-03-10 05:50:50 --> Call to undefined method CodeIgniter\Database\MySQLi\Connection::select()
+#0 C:\Ampps\www\maintex_v\app\Controllers\Home.php(8): App\Controllers\BaseController->load_view('index')
+#1 C:\Ampps\www\maintex_v\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#2 C:\Ampps\www\maintex_v\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\Ampps\www\maintex_v\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Ampps\www\maintex_v\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-10 05:54:12 --> Call to undefined method CodeIgniter\Database\MySQLi\Connection::select()
+#0 C:\Ampps\www\maintex_v\app\Controllers\Home.php(8): App\Controllers\BaseController->load_view('index')
+#1 C:\Ampps\www\maintex_v\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#2 C:\Ampps\www\maintex_v\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\Ampps\www\maintex_v\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Ampps\www\maintex_v\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-10 06:04:21 --> Call to undefined method CodeIgniter\Database\MySQLi\Connection::select()
+#0 C:\Ampps\www\maintex_v\app\Controllers\Home.php(8): App\Controllers\BaseController->load_view('index')
+#1 C:\Ampps\www\maintex_v\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#2 C:\Ampps\www\maintex_v\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\Ampps\www\maintex_v\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Ampps\www\maintex_v\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-10 06:05:13 --> Call to undefined method CodeIgniter\Database\MySQLi\Builder::get_compiled_select()
+#0 C:\Ampps\www\maintex_v\app\Controllers\Home.php(8): App\Controllers\BaseController->load_view('index')
+#1 C:\Ampps\www\maintex_v\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#2 C:\Ampps\www\maintex_v\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\Ampps\www\maintex_v\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Ampps\www\maintex_v\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-10 06:17:43 --> Call to undefined method CodeIgniter\Session\Session::userdata()
+#0 C:\Ampps\www\maintex_v\app\Controllers\Home.php(8): App\Controllers\BaseController->load_view('index')
+#1 C:\Ampps\www\maintex_v\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#2 C:\Ampps\www\maintex_v\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\Ampps\www\maintex_v\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Ampps\www\maintex_v\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-10 06:18:10 --> Call to undefined method CodeIgniter\Database\MySQLi\Builder::order_by()
+#0 C:\Ampps\www\maintex_v\app\Controllers\Home.php(8): App\Controllers\BaseController->load_view('index')
+#1 C:\Ampps\www\maintex_v\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#2 C:\Ampps\www\maintex_v\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\Ampps\www\maintex_v\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Ampps\www\maintex_v\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-10 06:18:32 --> Call to undefined method CodeIgniter\Database\MySQLi\Builder::getResult()
+#0 C:\Ampps\www\maintex_v\app\Controllers\Home.php(8): App\Controllers\BaseController->load_view('index')
+#1 C:\Ampps\www\maintex_v\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#2 C:\Ampps\www\maintex_v\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\Ampps\www\maintex_v\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Ampps\www\maintex_v\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-10 06:23:44 --> Call to undefined method CodeIgniter\Database\MySQLi\Builder::getResult()
+#0 C:\Ampps\www\maintex_v\app\Controllers\Home.php(8): App\Controllers\BaseController->load_view('index')
+#1 C:\Ampps\www\maintex_v\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#2 C:\Ampps\www\maintex_v\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\Ampps\www\maintex_v\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Ampps\www\maintex_v\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2022-03-10 06:24:10 --> Unknown column '_designation' in 'field list'
+CRITICAL - 2022-03-10 06:24:10 --> Unknown column '_designation' in 'field list'
+#0 C:\Ampps\www\maintex_v\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT `m`.*, `...', 0)
+#1 C:\Ampps\www\maintex_v\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `m`.*, `...')
+#2 C:\Ampps\www\maintex_v\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `m`.*, `...')
+#3 C:\Ampps\www\maintex_v\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT `m`.*, `...', Array, false)
+#4 C:\Ampps\www\maintex_v\app\Controllers\BaseController.php(67): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\Ampps\www\maintex_v\app\Controllers\Home.php(8): App\Controllers\BaseController->load_view('index')
+#6 C:\Ampps\www\maintex_v\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#7 C:\Ampps\www\maintex_v\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\Ampps\www\maintex_v\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\Ampps\www\maintex_v\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2022-03-10 10:01:21 --> Call to a member function view() on null
+#0 C:\Ampps\www\maintex_v\system\CodeIgniter.php(832): App\Controllers\Login->index()
+#1 C:\Ampps\www\maintex_v\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#2 C:\Ampps\www\maintex_v\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Ampps\www\maintex_v\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-10 10:02:46 --> Call to a member function flashdata() on null
+#0 C:\Ampps\www\maintex_v\system\View\View.php(210): include()
+#1 C:\Ampps\www\maintex_v\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\Ampps\www\maintex_v\system\Common.php(1089): CodeIgniter\View\View->render('login/index', Array, true)
+#3 C:\Ampps\www\maintex_v\app\Controllers\Login.php(14): view('login/index')
+#4 C:\Ampps\www\maintex_v\system\CodeIgniter.php(832): App\Controllers\Login->index()
+#5 C:\Ampps\www\maintex_v\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#6 C:\Ampps\www\maintex_v\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\Ampps\www\maintex_v\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-10 10:03:59 --> Call to undefined function form_open()
+#0 C:\Ampps\www\maintex_v\system\View\View.php(210): include()
+#1 C:\Ampps\www\maintex_v\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\Ampps\www\maintex_v\system\Common.php(1089): CodeIgniter\View\View->render('login/index', Array, true)
+#3 C:\Ampps\www\maintex_v\app\Controllers\Login.php(14): view('login/index')
+#4 C:\Ampps\www\maintex_v\system\CodeIgniter.php(832): App\Controllers\Login->index()
+#5 C:\Ampps\www\maintex_v\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#6 C:\Ampps\www\maintex_v\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\Ampps\www\maintex_v\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-10 10:07:44 --> Call to a member function line() on null
+#0 C:\Ampps\www\maintex_v\system\View\View.php(210): include()
+#1 C:\Ampps\www\maintex_v\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\Ampps\www\maintex_v\system\Common.php(1089): CodeIgniter\View\View->render('login/index', Array, true)
+#3 C:\Ampps\www\maintex_v\app\Controllers\Login.php(14): view('login/index')
+#4 C:\Ampps\www\maintex_v\system\CodeIgniter.php(832): App\Controllers\Login->index()
+#5 C:\Ampps\www\maintex_v\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#6 C:\Ampps\www\maintex_v\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\Ampps\www\maintex_v\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-10 10:14:53 --> Call to a member function line() on null
+#0 C:\Ampps\www\maintex_v\system\View\View.php(210): include()
+#1 C:\Ampps\www\maintex_v\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\Ampps\www\maintex_v\system\Common.php(1089): CodeIgniter\View\View->render('login/index', Array, true)
+#3 C:\Ampps\www\maintex_v\app\Controllers\Login.php(14): view('login/index')
+#4 C:\Ampps\www\maintex_v\system\CodeIgniter.php(832): App\Controllers\Login->index()
+#5 C:\Ampps\www\maintex_v\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#6 C:\Ampps\www\maintex_v\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\Ampps\www\maintex_v\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}

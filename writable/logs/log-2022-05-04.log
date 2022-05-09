@@ -1,0 +1,1765 @@
+<<<<<<< HEAD
+INFO - 2022-05-04 04:24:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 04:24:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 04:25:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 04:25:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 04:25:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 04:25:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 04:25:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 04:25:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 04:25:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 04:25:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 04:25:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 04:25:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 04:27:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 04:28:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 04:28:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 04:28:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 04:37:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 04:37:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 04:37:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 04:37:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 04:37:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 04:38:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 04:38:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 04:38:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 04:38:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 04:39:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 04:39:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 04:39:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 04:40:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 04:41:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 04:41:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 04:41:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 04:42:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 04:42:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 04:42:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 04:42:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 04:42:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 04:42:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 04:42:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 04:47:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 04:47:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 04:47:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 04:48:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 04:48:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 04:48:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 04:48:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 04:48:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 04:48:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 04:51:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 04:52:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 04:52:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 04:52:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 04:52:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 04:53:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 04:53:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 04:54:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 04:54:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 05:01:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 05:01:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 05:01:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 05:02:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 05:02:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 05:02:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 05:02:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 05:02:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 05:02:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 05:02:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 05:02:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 05:02:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 05:02:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 05:03:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 05:03:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 05:03:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 05:03:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 05:03:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 05:04:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 05:04:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 05:13:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 05:13:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 05:14:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 05:14:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 05:14:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 05:14:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 05:15:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 05:15:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 05:15:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 05:15:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 05:15:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 05:21:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 05:24:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 05:24:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 05:24:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 05:25:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 05:30:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 05:30:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 05:33:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 05:33:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 05:35:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 05:35:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 05:35:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 05:35:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 05:36:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 05:36:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 05:36:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 05:36:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 05:37:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 05:37:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 05:37:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 05:37:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 05:37:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 05:37:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 05:37:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 05:37:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 05:42:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 05:42:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 05:42:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 05:42:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 05:43:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 05:43:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 05:44:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 05:44:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 05:45:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 05:45:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 05:45:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 05:45:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 05:52:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 05:52:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 05:52:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 05:52:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 05:52:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 05:52:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 05:52:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 05:53:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 05:53:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 05:53:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 05:53:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 05:53:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 05:54:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 05:54:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 05:54:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 05:54:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 05:54:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 05:54:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 05:55:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 05:55:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 05:55:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 05:55:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 05:55:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 05:56:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 05:56:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 05:56:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 05:56:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 05:56:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 05:56:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 05:57:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 05:57:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 06:10:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 06:11:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 06:11:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 06:11:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 06:15:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 06:16:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 06:20:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 06:20:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 06:20:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 06:20:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 06:47:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 06:47:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 06:48:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 06:48:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 06:48:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-05-04 06:48:27 --> Undefined offset: 0
+#0 C:\xampp\htdocs\maintex\app\Controllers\nomenclature\Equipment.php(62): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'C:\\xampp\\htdocs...', 62, Array)
+#1 C:\xampp\htdocs\maintex\system\CodeIgniter.php(832): App\Controllers\nomenclature\Equipment->equipment_edit('assets', 'media', 'users', 'blank.png')
+#2 C:\xampp\htdocs\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\nomenclature\Equipment))
+#3 C:\xampp\htdocs\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2022-05-04 06:48:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 06:49:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 06:49:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 06:59:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 06:59:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 07:01:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 07:02:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 07:02:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-05-04 07:02:01 --> Undefined offset: 0
+#0 C:\xampp\htdocs\maintex\app\Controllers\nomenclature\Component.php(56): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'C:\\xampp\\htdocs...', 56, Array)
+#1 C:\xampp\htdocs\maintex\system\CodeIgniter.php(832): App\Controllers\nomenclature\Component->component_edit('assets', 'media', 'users', 'blank.png')
+#2 C:\xampp\htdocs\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\nomenclature\Component))
+#3 C:\xampp\htdocs\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2022-05-04 07:02:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 07:02:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 07:03:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 07:03:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 07:07:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 07:07:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+=======
+CRITICAL - 2022-05-04 04:33:37 --> syntax error, unexpected ')'
+#0 C:\Ampps\www\maintex\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\Ampps\\www\\ma...')
+#1 C:\Ampps\www\maintex\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 C:\Ampps\www\maintex\app\Controllers\Login.php(7): spl_autoload_call('App\\Controllers...')
+#4 C:\Ampps\www\maintex\system\Autoloader\Autoloader.php(264): include_once('C:\\Ampps\\www\\ma...')
+#5 C:\Ampps\www\maintex\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\Ampps\\www\\ma...')
+#6 C:\Ampps\www\maintex\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#7 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#8 [internal function]: spl_autoload_call('App\\Controllers...')
+#9 C:\Ampps\www\maintex\system\CodeIgniter.php(797): class_exists('\\App\\Controller...', true)
+#10 C:\Ampps\www\maintex\system\CodeIgniter.php(406): CodeIgniter\CodeIgniter->startController()
+#11 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#13 {main}
+INFO - 2022-05-04 04:42:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 04:42:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 04:42:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 04:42:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 04:42:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 04:42:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 04:42:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 04:42:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 04:42:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 04:42:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 04:42:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 05:07:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 05:07:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 05:07:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 05:07:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 05:07:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 05:07:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 05:07:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 05:07:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 05:07:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 05:08:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 05:08:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 05:08:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 05:08:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 05:08:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 05:08:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 05:08:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 05:08:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 05:08:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 05:08:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 05:08:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-05-04 05:08:53 --> Object of class App\Models\SuiviEquipement could not be converted to string
+#0 C:\Ampps\www\maintex\app\Models\SuiviEquipement.php(17): CodeIgniter\Debug\Exceptions->errorHandler(4096, 'Object of class...', 'C:\\Ampps\\www\\ma...', 17, Array)
+#1 C:\Ampps\www\maintex\app\Controllers\Suivi_equipement.php(53): App\Models\SuiviEquipement->meterupdate_datatable_data()
+#2 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Suivi_equipement->datatable_meterupdate()
+#3 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Suivi_equipement))
+#4 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+INFO - 2022-05-04 05:09:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 05:09:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 05:09:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 05:09:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-05-04 05:09:39 --> Undefined variable: myDateTime
+#0 C:\Ampps\www\maintex\app\Helpers\functions_helper.php(170): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\Ampps\\www\\ma...', 170, Array)
+#1 C:\Ampps\www\maintex\app\Controllers\Suivi_equipement.php(134): to_mysql_datetime('11/04/2022 13:4...')
+#2 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Suivi_equipement->releve_mesure_save()
+#3 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Suivi_equipement))
+#4 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+INFO - 2022-05-04 05:21:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-05-04 05:21:25 --> Undefined variable: myDateTime
+#0 C:\Ampps\www\maintex\app\Helpers\functions_helper.php(179): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\Ampps\\www\\ma...', 179, Array)
+#1 C:\Ampps\www\maintex\app\Controllers\Suivi_equipement.php(134): to_mysql_datetime('11/04/2022 13:4...')
+#2 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Suivi_equipement->releve_mesure_save()
+#3 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Suivi_equipement))
+#4 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+INFO - 2022-05-04 05:21:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 05:21:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 05:21:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 05:21:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 05:21:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 05:21:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 05:21:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 05:21:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 05:21:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 05:21:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 05:21:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 05:21:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 05:21:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 05:21:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-05-04 05:21:53 --> Object of class App\Models\SuiviEquipement could not be converted to string
+#0 C:\Ampps\www\maintex\app\Models\SuiviEquipement.php(17): CodeIgniter\Debug\Exceptions->errorHandler(4096, 'Object of class...', 'C:\\Ampps\\www\\ma...', 17, Array)
+#1 C:\Ampps\www\maintex\app\Controllers\Suivi_equipement.php(53): App\Models\SuiviEquipement->meterupdate_datatable_data()
+#2 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Suivi_equipement->datatable_meterupdate()
+#3 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Suivi_equipement))
+#4 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+INFO - 2022-05-04 05:22:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 05:22:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 05:22:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 05:22:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2022-05-04 05:22:42 --> Cannot add or update a child row: a foreign key constraint fails (`maintex_v3`.`meter_update`, CONSTRAINT `meter_update_ibfk_component` FOREIGN KEY (`meter_update_component_id`) REFERENCES `component` (`component_id`))
+CRITICAL - 2022-05-04 05:22:42 --> Cannot add or update a child row: a foreign key constraint fails (`maintex_v3`.`meter_update`, CONSTRAINT `meter_update_ibfk_component` FOREIGN KEY (`meter_update_component_id`) REFERENCES `component` (`component_id`))
+#0 C:\Ampps\www\maintex\system\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `me...', 0)
+#1 C:\Ampps\www\maintex\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `me...')
+#2 C:\Ampps\www\maintex\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `me...')
+#3 C:\Ampps\www\maintex\system\Database\BaseBuilder.php(1771): CodeIgniter\Database\BaseConnection->query('INSERT INTO `me...', Array, false)
+#4 C:\Ampps\www\maintex\app\Models\BaseModel.php(32): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 C:\Ampps\www\maintex\app\Controllers\Suivi_equipement.php(152): App\Models\BaseModel->insert_table('meter_update', Array)
+#6 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Suivi_equipement->releve_mesure_save()
+#7 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Suivi_equipement))
+#8 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2022-05-04 05:24:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 05:24:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 05:24:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-05-04 05:24:35 --> Object of class App\Models\SuiviEquipement could not be converted to string
+#0 C:\Ampps\www\maintex\app\Models\SuiviEquipement.php(17): CodeIgniter\Debug\Exceptions->errorHandler(4096, 'Object of class...', 'C:\\Ampps\\www\\ma...', 17, Array)
+#1 C:\Ampps\www\maintex\app\Controllers\Suivi_equipement.php(53): App\Models\SuiviEquipement->meterupdate_datatable_data()
+#2 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Suivi_equipement->datatable_meterupdate()
+#3 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Suivi_equipement))
+#4 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+INFO - 2022-05-04 05:30:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 05:30:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 05:30:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 05:30:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2022-05-04 05:30:46 --> Cannot add or update a child row: a foreign key constraint fails (`maintex_v3`.`meter`, CONSTRAINT `meter_ibfk_component` FOREIGN KEY (`meter_component_id`) REFERENCES `component` (`component_id`))
+CRITICAL - 2022-05-04 05:30:46 --> Cannot add or update a child row: a foreign key constraint fails (`maintex_v3`.`meter`, CONSTRAINT `meter_ibfk_component` FOREIGN KEY (`meter_component_id`) REFERENCES `component` (`component_id`))
+#0 C:\Ampps\www\maintex\system\Database\MySQLi\Connection.php(292): mysqli->query('UPDATE `meter` ...', 0)
+#1 C:\Ampps\www\maintex\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `meter` ...')
+#2 C:\Ampps\www\maintex\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `meter` ...')
+#3 C:\Ampps\www\maintex\system\Database\BaseBuilder.php(1913): CodeIgniter\Database\BaseConnection->query('UPDATE `meter` ...', Array, false)
+#4 C:\Ampps\www\maintex\app\Models\BaseModel.php(46): CodeIgniter\Database\BaseBuilder->update(Array, Array)
+#5 C:\Ampps\www\maintex\app\Controllers\Suivi_equipement.php(162): App\Models\BaseModel->update_table('meter', Array, Array)
+#6 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Suivi_equipement->releve_mesure_save()
+#7 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Suivi_equipement))
+#8 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2022-05-04 05:32:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2022-05-04 05:32:43 --> Cannot add or update a child row: a foreign key constraint fails (`maintex_v3`.`meter`, CONSTRAINT `meter_ibfk_component` FOREIGN KEY (`meter_component_id`) REFERENCES `component` (`component_id`))
+CRITICAL - 2022-05-04 05:32:43 --> Cannot add or update a child row: a foreign key constraint fails (`maintex_v3`.`meter`, CONSTRAINT `meter_ibfk_component` FOREIGN KEY (`meter_component_id`) REFERENCES `component` (`component_id`))
+#0 C:\Ampps\www\maintex\system\Database\MySQLi\Connection.php(292): mysqli->query('UPDATE `meter` ...', 0)
+#1 C:\Ampps\www\maintex\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `meter` ...')
+#2 C:\Ampps\www\maintex\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `meter` ...')
+#3 C:\Ampps\www\maintex\system\Database\BaseBuilder.php(1913): CodeIgniter\Database\BaseConnection->query('UPDATE `meter` ...', Array, false)
+#4 C:\Ampps\www\maintex\app\Models\BaseModel.php(46): CodeIgniter\Database\BaseBuilder->update(Array, Array)
+#5 C:\Ampps\www\maintex\app\Controllers\Suivi_equipement.php(162): App\Models\BaseModel->update_table('meter', Array, Array)
+#6 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Suivi_equipement->releve_mesure_save()
+#7 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Suivi_equipement))
+#8 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2022-05-04 05:36:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 05:36:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 05:36:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-05-04 05:36:58 --> Object of class App\Models\SuiviEquipement could not be converted to string
+#0 C:\Ampps\www\maintex\app\Models\SuiviEquipement.php(17): CodeIgniter\Debug\Exceptions->errorHandler(4096, 'Object of class...', 'C:\\Ampps\\www\\ma...', 17, Array)
+#1 C:\Ampps\www\maintex\app\Controllers\Suivi_equipement.php(53): App\Models\SuiviEquipement->meterupdate_datatable_data()
+#2 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Suivi_equipement->datatable_meterupdate()
+#3 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Suivi_equipement))
+#4 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+INFO - 2022-05-04 05:37:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 05:37:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 05:37:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 05:39:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-05-04 05:39:28 --> Object of class App\Models\SuiviEquipement could not be converted to string
+#0 C:\Ampps\www\maintex\app\Models\SuiviEquipement.php(17): CodeIgniter\Debug\Exceptions->errorHandler(4096, 'Object of class...', 'C:\\Ampps\\www\\ma...', 17, Array)
+#1 C:\Ampps\www\maintex\app\Controllers\Suivi_equipement.php(57): App\Models\SuiviEquipement->meterupdate_datatable_data(NULL, NULL, 'e')
+#2 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Suivi_equipement->datatable_meterupdate()
+#3 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Suivi_equipement))
+#4 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+INFO - 2022-05-04 05:39:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-05-04 05:39:39 --> Object of class App\Models\SuiviEquipement could not be converted to string
+#0 C:\Ampps\www\maintex\app\Models\SuiviEquipement.php(17): CodeIgniter\Debug\Exceptions->errorHandler(4096, 'Object of class...', 'C:\\Ampps\\www\\ma...', 17, Array)
+#1 C:\Ampps\www\maintex\app\Controllers\Suivi_equipement.php(53): App\Models\SuiviEquipement->meterupdate_datatable_data()
+#2 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Suivi_equipement->datatable_meterupdate()
+#3 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Suivi_equipement))
+#4 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+INFO - 2022-05-04 05:47:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-05-04 05:47:58 --> Call to undefined method CodeIgniter\Session\Session::userdata()
+#0 C:\Ampps\www\maintex\app\Controllers\Suivi_equipement.php(57): App\Models\SuiviEquipement->meterupdate_datatable_data(NULL, NULL, 'd')
+#1 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Suivi_equipement->datatable_meterupdate()
+#2 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Suivi_equipement))
+#3 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2022-05-04 05:49:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-05-04 05:49:25 --> Call to undefined method CodeIgniter\Session\Session::userdata()
+#0 C:\Ampps\www\maintex\app\Controllers\Suivi_equipement.php(53): App\Models\SuiviEquipement->meterupdate_datatable_data()
+#1 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Suivi_equipement->datatable_meterupdate()
+#2 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Suivi_equipement))
+#3 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2022-05-04 05:50:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-05-04 05:50:58 --> Call to undefined method CodeIgniter\Database\MySQLi\Connection::group_start()
+#0 C:\Ampps\www\maintex\app\Controllers\Suivi_equipement.php(57): App\Models\SuiviEquipement->meterupdate_datatable_data(NULL, NULL, 'd')
+#1 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Suivi_equipement->datatable_meterupdate()
+#2 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Suivi_equipement))
+#3 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2022-05-04 05:55:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-05-04 05:55:13 --> You must set the database table to be used with your query.
+#0 C:\Ampps\www\maintex\system\Model.php(545): CodeIgniter\Database\BaseConnection->table(NULL)
+#1 C:\Ampps\www\maintex\system\Model.php(693): CodeIgniter\Model->builder()
+#2 C:\Ampps\www\maintex\app\Models\SuiviEquipement.php(42): CodeIgniter\Model->__get('request')
+#3 C:\Ampps\www\maintex\app\Controllers\Suivi_equipement.php(53): App\Models\SuiviEquipement->meterupdate_datatable_data()
+#4 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Suivi_equipement->datatable_meterupdate()
+#5 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Suivi_equipement))
+#6 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2022-05-04 05:58:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2022-05-04 05:58:22 --> Not unique table/alias: 'meter_update'
+CRITICAL - 2022-05-04 05:58:22 --> Not unique table/alias: 'meter_update'
+#0 C:\Ampps\www\maintex\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT `meter_u...', 0)
+#1 C:\Ampps\www\maintex\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `meter_u...')
+#2 C:\Ampps\www\maintex\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `meter_u...')
+#3 C:\Ampps\www\maintex\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT `meter_u...', Array, false)
+#4 C:\Ampps\www\maintex\app\Models\SuiviEquipement.php(30): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\Ampps\www\maintex\app\Controllers\Suivi_equipement.php(57): App\Models\SuiviEquipement->meterupdate_datatable_data(NULL, NULL, 'd')
+#6 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Suivi_equipement->datatable_meterupdate()
+#7 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Suivi_equipement))
+#8 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2022-05-04 05:58:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2022-05-04 05:58:28 --> Not unique table/alias: 'meter_update'
+CRITICAL - 2022-05-04 05:58:28 --> Not unique table/alias: 'meter_update'
+#0 C:\Ampps\www\maintex\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT `meter_u...', 0)
+#1 C:\Ampps\www\maintex\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `meter_u...')
+#2 C:\Ampps\www\maintex\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `meter_u...')
+#3 C:\Ampps\www\maintex\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT `meter_u...', Array, false)
+#4 C:\Ampps\www\maintex\app\Models\SuiviEquipement.php(30): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\Ampps\www\maintex\app\Controllers\Suivi_equipement.php(53): App\Models\SuiviEquipement->meterupdate_datatable_data()
+#6 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Suivi_equipement->datatable_meterupdate()
+#7 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Suivi_equipement))
+#8 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2022-05-04 05:58:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-05-04 05:58:54 --> You must set the database table to be used with your query.
+#0 C:\Ampps\www\maintex\system\Model.php(545): CodeIgniter\Database\BaseConnection->table(NULL)
+#1 C:\Ampps\www\maintex\system\Model.php(693): CodeIgniter\Model->builder()
+#2 C:\Ampps\www\maintex\app\Models\SuiviEquipement.php(41): CodeIgniter\Model->__get('request')
+#3 C:\Ampps\www\maintex\app\Controllers\Suivi_equipement.php(57): App\Models\SuiviEquipement->meterupdate_datatable_data(NULL, NULL, 'd')
+#4 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Suivi_equipement->datatable_meterupdate()
+#5 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Suivi_equipement))
+#6 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2022-05-04 05:59:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-05-04 05:59:09 --> You must set the database table to be used with your query.
+#0 C:\Ampps\www\maintex\system\Model.php(545): CodeIgniter\Database\BaseConnection->table(NULL)
+#1 C:\Ampps\www\maintex\system\Model.php(693): CodeIgniter\Model->builder()
+#2 C:\Ampps\www\maintex\app\Models\SuiviEquipement.php(41): CodeIgniter\Model->__get('request')
+#3 C:\Ampps\www\maintex\app\Controllers\Suivi_equipement.php(53): App\Models\SuiviEquipement->meterupdate_datatable_data()
+#4 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Suivi_equipement->datatable_meterupdate()
+#5 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Suivi_equipement))
+#6 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2022-05-04 06:00:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-05-04 06:00:45 --> You must set the database table to be used with your query.
+#0 C:\Ampps\www\maintex\system\Model.php(545): CodeIgniter\Database\BaseConnection->table(NULL)
+#1 C:\Ampps\www\maintex\system\Model.php(693): CodeIgniter\Model->builder()
+#2 C:\Ampps\www\maintex\app\Models\SuiviEquipement.php(41): CodeIgniter\Model->__get('request')
+#3 C:\Ampps\www\maintex\app\Controllers\Suivi_equipement.php(57): App\Models\SuiviEquipement->meterupdate_datatable_data(NULL, NULL, 'd')
+#4 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Suivi_equipement->datatable_meterupdate()
+#5 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Suivi_equipement))
+#6 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2022-05-04 06:00:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-05-04 06:00:48 --> You must set the database table to be used with your query.
+#0 C:\Ampps\www\maintex\system\Model.php(545): CodeIgniter\Database\BaseConnection->table(NULL)
+#1 C:\Ampps\www\maintex\system\Model.php(693): CodeIgniter\Model->builder()
+#2 C:\Ampps\www\maintex\app\Models\SuiviEquipement.php(41): CodeIgniter\Model->__get('request')
+#3 C:\Ampps\www\maintex\app\Controllers\Suivi_equipement.php(57): App\Models\SuiviEquipement->meterupdate_datatable_data(NULL, NULL, 'dd')
+#4 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Suivi_equipement->datatable_meterupdate()
+#5 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Suivi_equipement))
+#6 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2022-05-04 06:01:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-05-04 06:01:10 --> You must set the database table to be used with your query.
+#0 C:\Ampps\www\maintex\system\Model.php(545): CodeIgniter\Database\BaseConnection->table(NULL)
+#1 C:\Ampps\www\maintex\system\Model.php(693): CodeIgniter\Model->builder()
+#2 C:\Ampps\www\maintex\app\Models\SuiviEquipement.php(41): CodeIgniter\Model->__get('request')
+#3 C:\Ampps\www\maintex\app\Controllers\Suivi_equipement.php(57): App\Models\SuiviEquipement->meterupdate_datatable_data(NULL, NULL, 'ddd')
+#4 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Suivi_equipement->datatable_meterupdate()
+#5 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Suivi_equipement))
+#6 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2022-05-04 06:02:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2022-05-04 06:02:31 --> Table 'maintex_v3.cost' doesn't exist
+CRITICAL - 2022-05-04 06:02:31 --> Table 'maintex_v3.cost' doesn't exist
+#0 C:\Ampps\www\maintex\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT `meter_u...', 0)
+#1 C:\Ampps\www\maintex\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `meter_u...')
+#2 C:\Ampps\www\maintex\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `meter_u...')
+#3 C:\Ampps\www\maintex\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT `meter_u...', Array, false)
+#4 C:\Ampps\www\maintex\app\Models\SuiviEquipement.php(29): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\Ampps\www\maintex\app\Controllers\Suivi_equipement.php(57): App\Models\SuiviEquipement->meterupdate_datatable_data(NULL, NULL, 'dddd')
+#6 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Suivi_equipement->datatable_meterupdate()
+#7 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Suivi_equipement))
+#8 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2022-05-04 06:03:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-05-04 06:03:34 --> You must set the database table to be used with your query.
+#0 C:\Ampps\www\maintex\system\Model.php(545): CodeIgniter\Database\BaseConnection->table(NULL)
+#1 C:\Ampps\www\maintex\system\Model.php(693): CodeIgniter\Model->builder()
+#2 C:\Ampps\www\maintex\app\Models\SuiviEquipement.php(41): CodeIgniter\Model->__get('request')
+#3 C:\Ampps\www\maintex\app\Controllers\Suivi_equipement.php(53): App\Models\SuiviEquipement->meterupdate_datatable_data()
+#4 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Suivi_equipement->datatable_meterupdate()
+#5 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Suivi_equipement))
+#6 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2022-05-04 06:04:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-05-04 06:04:47 --> You must set the database table to be used with your query.
+#0 C:\Ampps\www\maintex\system\Model.php(545): CodeIgniter\Database\BaseConnection->table(NULL)
+#1 C:\Ampps\www\maintex\system\Model.php(693): CodeIgniter\Model->builder()
+#2 C:\Ampps\www\maintex\app\Models\SuiviEquipement.php(41): CodeIgniter\Model->__get('request')
+#3 C:\Ampps\www\maintex\app\Controllers\Suivi_equipement.php(57): App\Models\SuiviEquipement->meterupdate_datatable_data(NULL, NULL, 'd')
+#4 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Suivi_equipement->datatable_meterupdate()
+#5 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Suivi_equipement))
+#6 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2022-05-04 06:05:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 06:06:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2022-05-04 06:06:25 --> Table 'maintex_v3.cost' doesn't exist
+CRITICAL - 2022-05-04 06:06:25 --> Table 'maintex_v3.cost' doesn't exist
+#0 C:\Ampps\www\maintex\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT `meter_u...', 0)
+#1 C:\Ampps\www\maintex\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `meter_u...')
+#2 C:\Ampps\www\maintex\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `meter_u...')
+#3 C:\Ampps\www\maintex\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT `meter_u...', Array, false)
+#4 C:\Ampps\www\maintex\app\Models\SuiviEquipement.php(43): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\Ampps\www\maintex\app\Controllers\Suivi_equipement.php(57): App\Models\SuiviEquipement->meterupdate_datatable_data(NULL, NULL, 'dd')
+#6 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Suivi_equipement->datatable_meterupdate()
+#7 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Suivi_equipement))
+#8 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2022-05-04 06:07:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2022-05-04 06:07:49 --> Table 'maintex_v3.componentstructure' doesn't exist
+CRITICAL - 2022-05-04 06:07:49 --> Table 'maintex_v3.componentstructure' doesn't exist
+#0 C:\Ampps\www\maintex\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT `meter_u...', 0)
+#1 C:\Ampps\www\maintex\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `meter_u...')
+#2 C:\Ampps\www\maintex\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `meter_u...')
+#3 C:\Ampps\www\maintex\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT `meter_u...', Array, false)
+#4 C:\Ampps\www\maintex\app\Models\SuiviEquipement.php(43): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\Ampps\www\maintex\app\Controllers\Suivi_equipement.php(57): App\Models\SuiviEquipement->meterupdate_datatable_data(NULL, NULL, 'ddd')
+#6 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Suivi_equipement->datatable_meterupdate()
+#7 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Suivi_equipement))
+#8 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2022-05-04 06:09:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2022-05-04 06:09:54 --> Unknown column 'equipment.equipment' in 'field list'
+CRITICAL - 2022-05-04 06:09:54 --> Unknown column 'equipment.equipment' in 'field list'
+#0 C:\Ampps\www\maintex\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT `meter_u...', 0)
+#1 C:\Ampps\www\maintex\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `meter_u...')
+#2 C:\Ampps\www\maintex\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `meter_u...')
+#3 C:\Ampps\www\maintex\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT `meter_u...', Array, false)
+#4 C:\Ampps\www\maintex\app\Models\SuiviEquipement.php(43): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\Ampps\www\maintex\app\Controllers\Suivi_equipement.php(57): App\Models\SuiviEquipement->meterupdate_datatable_data(NULL, NULL, 'dddd')
+#6 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Suivi_equipement->datatable_meterupdate()
+#7 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Suivi_equipement))
+#8 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2022-05-04 06:11:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2022-05-04 06:11:29 --> Unknown column 'meter_unit.designation' in 'field list'
+CRITICAL - 2022-05-04 06:11:29 --> Unknown column 'meter_unit.designation' in 'field list'
+#0 C:\Ampps\www\maintex\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT `meter_u...', 0)
+#1 C:\Ampps\www\maintex\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `meter_u...')
+#2 C:\Ampps\www\maintex\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `meter_u...')
+#3 C:\Ampps\www\maintex\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT `meter_u...', Array, false)
+#4 C:\Ampps\www\maintex\app\Models\SuiviEquipement.php(43): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\Ampps\www\maintex\app\Controllers\Suivi_equipement.php(57): App\Models\SuiviEquipement->meterupdate_datatable_data(NULL, NULL, 'ddddd')
+#6 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Suivi_equipement->datatable_meterupdate()
+#7 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Suivi_equipement))
+#8 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2022-05-04 06:12:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2022-05-04 06:12:13 --> Unknown column 'member.name' in 'field list'
+CRITICAL - 2022-05-04 06:12:13 --> Unknown column 'member.name' in 'field list'
+#0 C:\Ampps\www\maintex\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT `meter_u...', 0)
+#1 C:\Ampps\www\maintex\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `meter_u...')
+#2 C:\Ampps\www\maintex\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `meter_u...')
+#3 C:\Ampps\www\maintex\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT `meter_u...', Array, false)
+#4 C:\Ampps\www\maintex\app\Models\SuiviEquipement.php(43): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\Ampps\www\maintex\app\Controllers\Suivi_equipement.php(57): App\Models\SuiviEquipement->meterupdate_datatable_data(NULL, NULL, 'dddddd')
+#6 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Suivi_equipement->datatable_meterupdate()
+#7 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Suivi_equipement))
+#8 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2022-05-04 06:12:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2022-05-04 06:12:59 --> Unknown column 'meter_update.company' in 'where clause'
+CRITICAL - 2022-05-04 06:12:59 --> Unknown column 'meter_update.company' in 'where clause'
+#0 C:\Ampps\www\maintex\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT `meter_u...', 0)
+#1 C:\Ampps\www\maintex\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `meter_u...')
+#2 C:\Ampps\www\maintex\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `meter_u...')
+#3 C:\Ampps\www\maintex\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT `meter_u...', Array, false)
+#4 C:\Ampps\www\maintex\app\Models\SuiviEquipement.php(43): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\Ampps\www\maintex\app\Controllers\Suivi_equipement.php(53): App\Models\SuiviEquipement->meterupdate_datatable_data()
+#6 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Suivi_equipement->datatable_meterupdate()
+#7 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Suivi_equipement))
+#8 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2022-05-04 06:13:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2022-05-04 06:13:33 --> Unknown column 'equipment.designation' in 'where clause'
+CRITICAL - 2022-05-04 06:13:33 --> Unknown column 'equipment.designation' in 'where clause'
+#0 C:\Ampps\www\maintex\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT `meter_u...', 0)
+#1 C:\Ampps\www\maintex\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `meter_u...')
+#2 C:\Ampps\www\maintex\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `meter_u...')
+#3 C:\Ampps\www\maintex\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT `meter_u...', Array, false)
+#4 C:\Ampps\www\maintex\app\Models\SuiviEquipement.php(43): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\Ampps\www\maintex\app\Controllers\Suivi_equipement.php(57): App\Models\SuiviEquipement->meterupdate_datatable_data(NULL, NULL, 'd')
+#6 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Suivi_equipement->datatable_meterupdate()
+#7 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Suivi_equipement))
+#8 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2022-05-04 06:16:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2022-05-04 06:16:59 --> Unknown column 'equipment.cost_center' in 'on clause'
+CRITICAL - 2022-05-04 06:16:59 --> Unknown column 'equipment.cost_center' in 'on clause'
+#0 C:\Ampps\www\maintex\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT `meter_u...', 0)
+#1 C:\Ampps\www\maintex\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `meter_u...')
+#2 C:\Ampps\www\maintex\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `meter_u...')
+#3 C:\Ampps\www\maintex\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT `meter_u...', Array, false)
+#4 C:\Ampps\www\maintex\app\Models\SuiviEquipement.php(39): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\Ampps\www\maintex\app\Controllers\Suivi_equipement.php(53): App\Models\SuiviEquipement->meterupdate_datatable_data()
+#6 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Suivi_equipement->datatable_meterupdate()
+#7 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Suivi_equipement))
+#8 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2022-05-04 06:19:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2022-05-04 06:19:32 --> Unknown column 'component.code_designation' in 'where clause'
+CRITICAL - 2022-05-04 06:19:32 --> Unknown column 'component.code_designation' in 'where clause'
+#0 C:\Ampps\www\maintex\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT `meter_u...', 0)
+#1 C:\Ampps\www\maintex\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `meter_u...')
+#2 C:\Ampps\www\maintex\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `meter_u...')
+#3 C:\Ampps\www\maintex\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT `meter_u...', Array, false)
+#4 C:\Ampps\www\maintex\app\Models\SuiviEquipement.php(39): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\Ampps\www\maintex\app\Controllers\Suivi_equipement.php(57): App\Models\SuiviEquipement->meterupdate_datatable_data(NULL, NULL, 'c')
+#6 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Suivi_equipement->datatable_meterupdate()
+#7 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Suivi_equipement))
+#8 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2022-05-04 06:20:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2022-05-04 06:20:28 --> Unknown column 'equipment.cost_center' in 'on clause'
+CRITICAL - 2022-05-04 06:20:28 --> Unknown column 'equipment.cost_center' in 'on clause'
+#0 C:\Ampps\www\maintex\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT `meter_u...', 0)
+#1 C:\Ampps\www\maintex\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `meter_u...')
+#2 C:\Ampps\www\maintex\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `meter_u...')
+#3 C:\Ampps\www\maintex\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT `meter_u...', Array, false)
+#4 C:\Ampps\www\maintex\app\Models\SuiviEquipement.php(39): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\Ampps\www\maintex\app\Controllers\Suivi_equipement.php(57): App\Models\SuiviEquipement->meterupdate_datatable_data(NULL, NULL, 'cd')
+#6 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Suivi_equipement->datatable_meterupdate()
+#7 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Suivi_equipement))
+#8 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2022-05-04 06:20:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2022-05-04 06:20:58 --> Unknown column 'equipment.cost_center' in 'on clause'
+CRITICAL - 2022-05-04 06:20:58 --> Unknown column 'equipment.cost_center' in 'on clause'
+#0 C:\Ampps\www\maintex\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT `meter_u...', 0)
+#1 C:\Ampps\www\maintex\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `meter_u...')
+#2 C:\Ampps\www\maintex\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `meter_u...')
+#3 C:\Ampps\www\maintex\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT `meter_u...', Array, false)
+#4 C:\Ampps\www\maintex\app\Models\SuiviEquipement.php(39): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\Ampps\www\maintex\app\Controllers\Suivi_equipement.php(57): App\Models\SuiviEquipement->meterupdate_datatable_data(NULL, NULL, 'cdd')
+#6 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Suivi_equipement->datatable_meterupdate()
+#7 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Suivi_equipement))
+#8 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2022-05-04 06:25:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2022-05-04 06:25:12 --> Unknown column 'user_cost_center.user' in 'on clause'
+CRITICAL - 2022-05-04 06:25:12 --> Unknown column 'user_cost_center.user' in 'on clause'
+#0 C:\Ampps\www\maintex\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT `meter_u...', 0)
+#1 C:\Ampps\www\maintex\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `meter_u...')
+#2 C:\Ampps\www\maintex\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `meter_u...')
+#3 C:\Ampps\www\maintex\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT `meter_u...', Array, false)
+#4 C:\Ampps\www\maintex\app\Models\SuiviEquipement.php(39): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\Ampps\www\maintex\app\Controllers\Suivi_equipement.php(57): App\Models\SuiviEquipement->meterupdate_datatable_data(NULL, NULL, 'd')
+#6 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Suivi_equipement->datatable_meterupdate()
+#7 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Suivi_equipement))
+#8 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2022-05-04 06:30:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2022-05-04 06:30:24 --> Unknown column 'cost_center.branch' in 'on clause'
+CRITICAL - 2022-05-04 06:30:24 --> Unknown column 'cost_center.branch' in 'on clause'
+#0 C:\Ampps\www\maintex\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT `meter_u...', 0)
+#1 C:\Ampps\www\maintex\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `meter_u...')
+#2 C:\Ampps\www\maintex\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `meter_u...')
+#3 C:\Ampps\www\maintex\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT `meter_u...', Array, false)
+#4 C:\Ampps\www\maintex\app\Models\SuiviEquipement.php(39): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\Ampps\www\maintex\app\Controllers\Suivi_equipement.php(57): App\Models\SuiviEquipement->meterupdate_datatable_data(NULL, NULL, 'dd')
+#6 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Suivi_equipement->datatable_meterupdate()
+#7 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Suivi_equipement))
+#8 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2022-05-04 06:31:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2022-05-04 06:31:07 --> Unknown column 'equipment.equipment_id' in 'on clause'
+CRITICAL - 2022-05-04 06:31:07 --> Unknown column 'equipment.equipment_id' in 'on clause'
+#0 C:\Ampps\www\maintex\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT `meter_u...', 0)
+#1 C:\Ampps\www\maintex\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `meter_u...')
+#2 C:\Ampps\www\maintex\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `meter_u...')
+#3 C:\Ampps\www\maintex\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT `meter_u...', Array, false)
+#4 C:\Ampps\www\maintex\app\Models\SuiviEquipement.php(39): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\Ampps\www\maintex\app\Controllers\Suivi_equipement.php(57): App\Models\SuiviEquipement->meterupdate_datatable_data(NULL, NULL, 'ddf')
+#6 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Suivi_equipement->datatable_meterupdate()
+#7 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Suivi_equipement))
+#8 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2022-05-04 06:31:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2022-05-04 06:31:13 --> Unknown column 'equipment.equipment_id' in 'on clause'
+CRITICAL - 2022-05-04 06:31:13 --> Unknown column 'equipment.equipment_id' in 'on clause'
+#0 C:\Ampps\www\maintex\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT `meter_u...', 0)
+#1 C:\Ampps\www\maintex\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `meter_u...')
+#2 C:\Ampps\www\maintex\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `meter_u...')
+#3 C:\Ampps\www\maintex\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT `meter_u...', Array, false)
+#4 C:\Ampps\www\maintex\app\Models\SuiviEquipement.php(39): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\Ampps\www\maintex\app\Controllers\Suivi_equipement.php(57): App\Models\SuiviEquipement->meterupdate_datatable_data(NULL, NULL, 'd')
+#6 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Suivi_equipement->datatable_meterupdate()
+#7 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Suivi_equipement))
+#8 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2022-05-04 06:31:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 06:32:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 06:32:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 06:32:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 06:33:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 06:33:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-05-04 06:33:08 --> You must set the database table to be used with your query.
+#0 C:\Ampps\www\maintex\system\Model.php(545): CodeIgniter\Database\BaseConnection->table(NULL)
+#1 C:\Ampps\www\maintex\system\Model.php(693): CodeIgniter\Model->builder()
+#2 C:\Ampps\www\maintex\app\Models\SuiviEquipement.php(39): CodeIgniter\Model->__get('request')
+#3 C:\Ampps\www\maintex\app\Controllers\Suivi_equipement.php(53): App\Models\SuiviEquipement->meterupdate_datatable_data()
+#4 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Suivi_equipement->datatable_meterupdate()
+#5 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Suivi_equipement))
+#6 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2022-05-04 06:33:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-05-04 06:33:17 --> You must set the database table to be used with your query.
+#0 C:\Ampps\www\maintex\system\Model.php(545): CodeIgniter\Database\BaseConnection->table(NULL)
+#1 C:\Ampps\www\maintex\system\Model.php(693): CodeIgniter\Model->builder()
+#2 C:\Ampps\www\maintex\app\Models\SuiviEquipement.php(39): CodeIgniter\Model->__get('request')
+#3 C:\Ampps\www\maintex\app\Controllers\Suivi_equipement.php(57): App\Models\SuiviEquipement->meterupdate_datatable_data(NULL, NULL, 'd')
+#4 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Suivi_equipement->datatable_meterupdate()
+#5 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Suivi_equipement))
+#6 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2022-05-04 06:33:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-05-04 06:33:39 --> You must set the database table to be used with your query.
+#0 C:\Ampps\www\maintex\system\Model.php(545): CodeIgniter\Database\BaseConnection->table(NULL)
+#1 C:\Ampps\www\maintex\system\Model.php(693): CodeIgniter\Model->builder()
+#2 C:\Ampps\www\maintex\app\Models\SuiviEquipement.php(39): CodeIgniter\Model->__get('request')
+#3 C:\Ampps\www\maintex\app\Controllers\Suivi_equipement.php(57): App\Models\SuiviEquipement->meterupdate_datatable_data(NULL, NULL, 'dd')
+#4 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Suivi_equipement->datatable_meterupdate()
+#5 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Suivi_equipement))
+#6 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2022-05-04 06:33:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 06:33:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-05-04 06:33:48 --> You must set the database table to be used with your query.
+#0 C:\Ampps\www\maintex\system\Model.php(545): CodeIgniter\Database\BaseConnection->table(NULL)
+#1 C:\Ampps\www\maintex\system\Model.php(693): CodeIgniter\Model->builder()
+#2 C:\Ampps\www\maintex\app\Models\SuiviEquipement.php(39): CodeIgniter\Model->__get('request')
+#3 C:\Ampps\www\maintex\app\Controllers\Suivi_equipement.php(53): App\Models\SuiviEquipement->meterupdate_datatable_data()
+#4 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Suivi_equipement->datatable_meterupdate()
+#5 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Suivi_equipement))
+#6 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2022-05-04 06:35:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 06:35:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-05-04 06:35:31 --> You must set the database table to be used with your query.
+#0 C:\Ampps\www\maintex\system\Model.php(545): CodeIgniter\Database\BaseConnection->table(NULL)
+#1 C:\Ampps\www\maintex\system\Model.php(693): CodeIgniter\Model->builder()
+#2 C:\Ampps\www\maintex\app\Models\SuiviEquipement.php(39): CodeIgniter\Model->__get('request')
+#3 C:\Ampps\www\maintex\app\Controllers\Suivi_equipement.php(53): App\Models\SuiviEquipement->meterupdate_datatable_data()
+#4 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Suivi_equipement->datatable_meterupdate()
+#5 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Suivi_equipement))
+#6 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2022-05-04 06:42:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 06:42:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-05-04 06:42:47 --> You must set the database table to be used with your query.
+#0 C:\Ampps\www\maintex\system\Model.php(545): CodeIgniter\Database\BaseConnection->table(NULL)
+#1 C:\Ampps\www\maintex\system\Model.php(693): CodeIgniter\Model->builder()
+#2 C:\Ampps\www\maintex\app\Models\SuiviEquipement.php(29): CodeIgniter\Model->__get('request')
+#3 C:\Ampps\www\maintex\app\Controllers\Suivi_equipement.php(53): App\Models\SuiviEquipement->meterupdate_datatable_data()
+#4 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Suivi_equipement->datatable_meterupdate()
+#5 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Suivi_equipement))
+#6 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2022-05-04 06:42:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-05-04 06:42:52 --> You must set the database table to be used with your query.
+#0 C:\Ampps\www\maintex\system\Model.php(545): CodeIgniter\Database\BaseConnection->table(NULL)
+#1 C:\Ampps\www\maintex\system\Model.php(693): CodeIgniter\Model->builder()
+#2 C:\Ampps\www\maintex\app\Models\SuiviEquipement.php(29): CodeIgniter\Model->__get('request')
+#3 C:\Ampps\www\maintex\app\Controllers\Suivi_equipement.php(57): App\Models\SuiviEquipement->meterupdate_datatable_data(NULL, NULL, 'd')
+#4 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Suivi_equipement->datatable_meterupdate()
+#5 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Suivi_equipement))
+#6 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2022-05-04 06:43:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 06:44:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-05-04 06:44:36 --> You must set the database table to be used with your query.
+#0 C:\Ampps\www\maintex\system\Model.php(545): CodeIgniter\Database\BaseConnection->table(NULL)
+#1 C:\Ampps\www\maintex\system\Model.php(693): CodeIgniter\Model->builder()
+#2 C:\Ampps\www\maintex\app\Models\SuiviEquipement.php(38): CodeIgniter\Model->__get('request')
+#3 C:\Ampps\www\maintex\app\Controllers\Suivi_equipement.php(57): App\Models\SuiviEquipement->meterupdate_datatable_data(NULL, NULL, 'd')
+#4 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Suivi_equipement->datatable_meterupdate()
+#5 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Suivi_equipement))
+#6 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2022-05-04 06:44:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-05-04 06:44:58 --> You must set the database table to be used with your query.
+#0 C:\Ampps\www\maintex\system\Model.php(545): CodeIgniter\Database\BaseConnection->table(NULL)
+#1 C:\Ampps\www\maintex\system\Model.php(693): CodeIgniter\Model->builder()
+#2 C:\Ampps\www\maintex\app\Models\SuiviEquipement.php(38): CodeIgniter\Model->__get('request')
+#3 C:\Ampps\www\maintex\app\Controllers\Suivi_equipement.php(57): App\Models\SuiviEquipement->meterupdate_datatable_data(NULL, NULL, 'dd')
+#4 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Suivi_equipement->datatable_meterupdate()
+#5 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Suivi_equipement))
+#6 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2022-05-04 06:45:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-05-04 06:45:56 --> You must set the database table to be used with your query.
+#0 C:\Ampps\www\maintex\system\Model.php(545): CodeIgniter\Database\BaseConnection->table(NULL)
+#1 C:\Ampps\www\maintex\system\Model.php(693): CodeIgniter\Model->builder()
+#2 C:\Ampps\www\maintex\app\Models\SuiviEquipement.php(38): CodeIgniter\Model->__get('request')
+#3 C:\Ampps\www\maintex\app\Controllers\Suivi_equipement.php(57): App\Models\SuiviEquipement->meterupdate_datatable_data(NULL, NULL, 'ddd')
+#4 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Suivi_equipement->datatable_meterupdate()
+#5 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Suivi_equipement))
+#6 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2022-05-04 06:46:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-05-04 06:46:37 --> You must set the database table to be used with your query.
+#0 C:\Ampps\www\maintex\system\Model.php(545): CodeIgniter\Database\BaseConnection->table(NULL)
+#1 C:\Ampps\www\maintex\system\Model.php(693): CodeIgniter\Model->builder()
+#2 C:\Ampps\www\maintex\app\Models\SuiviEquipement.php(31): CodeIgniter\Model->__get('request')
+#3 C:\Ampps\www\maintex\app\Controllers\Suivi_equipement.php(57): App\Models\SuiviEquipement->meterupdate_datatable_data(NULL, NULL, 'dddd')
+#4 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Suivi_equipement->datatable_meterupdate()
+#5 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Suivi_equipement))
+#6 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2022-05-04 06:48:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-05-04 06:48:38 --> You must set the database table to be used with your query.
+#0 C:\Ampps\www\maintex\system\Model.php(545): CodeIgniter\Database\BaseConnection->table(NULL)
+#1 C:\Ampps\www\maintex\system\Model.php(693): CodeIgniter\Model->builder()
+#2 C:\Ampps\www\maintex\app\Models\SuiviEquipement.php(38): CodeIgniter\Model->__get('request')
+#3 C:\Ampps\www\maintex\app\Controllers\Suivi_equipement.php(57): App\Models\SuiviEquipement->meterupdate_datatable_data(NULL, NULL, 'ddd')
+#4 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Suivi_equipement->datatable_meterupdate()
+#5 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Suivi_equipement))
+#6 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2022-05-04 06:48:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-05-04 06:48:43 --> You must set the database table to be used with your query.
+#0 C:\Ampps\www\maintex\system\Model.php(545): CodeIgniter\Database\BaseConnection->table(NULL)
+#1 C:\Ampps\www\maintex\system\Model.php(693): CodeIgniter\Model->builder()
+#2 C:\Ampps\www\maintex\app\Models\SuiviEquipement.php(38): CodeIgniter\Model->__get('request')
+#3 C:\Ampps\www\maintex\app\Controllers\Suivi_equipement.php(53): App\Models\SuiviEquipement->meterupdate_datatable_data()
+#4 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Suivi_equipement->datatable_meterupdate()
+#5 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Suivi_equipement))
+#6 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2022-05-04 06:50:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 06:50:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-05-04 06:50:24 --> You must set the database table to be used with your query.
+#0 C:\Ampps\www\maintex\system\Model.php(545): CodeIgniter\Database\BaseConnection->table(NULL)
+#1 C:\Ampps\www\maintex\system\Model.php(693): CodeIgniter\Model->builder()
+#2 C:\Ampps\www\maintex\app\Models\SuiviEquipement.php(38): CodeIgniter\Model->__get('request')
+#3 C:\Ampps\www\maintex\app\Controllers\Suivi_equipement.php(53): App\Models\SuiviEquipement->meterupdate_datatable_data()
+#4 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Suivi_equipement->datatable_meterupdate()
+#5 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Suivi_equipement))
+#6 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2022-05-04 06:52:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-05-04 06:52:10 --> You must set the database table to be used with your query.
+#0 C:\Ampps\www\maintex\system\Model.php(545): CodeIgniter\Database\BaseConnection->table(NULL)
+#1 C:\Ampps\www\maintex\system\Model.php(693): CodeIgniter\Model->builder()
+#2 C:\Ampps\www\maintex\app\Models\SuiviEquipement.php(29): CodeIgniter\Model->__get('request')
+#3 C:\Ampps\www\maintex\app\Controllers\Suivi_equipement.php(57): App\Models\SuiviEquipement->meterupdate_datatable_data(NULL, NULL, 'd')
+#4 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Suivi_equipement->datatable_meterupdate()
+#5 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Suivi_equipement))
+#6 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2022-05-04 06:52:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-05-04 06:52:49 --> You must set the database table to be used with your query.
+#0 C:\Ampps\www\maintex\system\Model.php(545): CodeIgniter\Database\BaseConnection->table(NULL)
+#1 C:\Ampps\www\maintex\system\Model.php(693): CodeIgniter\Model->builder()
+#2 C:\Ampps\www\maintex\app\Models\SuiviEquipement.php(38): CodeIgniter\Model->__get('request')
+#3 C:\Ampps\www\maintex\app\Controllers\Suivi_equipement.php(53): App\Models\SuiviEquipement->meterupdate_datatable_data()
+#4 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Suivi_equipement->datatable_meterupdate()
+#5 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Suivi_equipement))
+#6 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2022-05-04 06:53:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-05-04 06:53:34 --> You must set the database table to be used with your query.
+#0 C:\Ampps\www\maintex\system\Model.php(545): CodeIgniter\Database\BaseConnection->table(NULL)
+#1 C:\Ampps\www\maintex\system\Model.php(693): CodeIgniter\Model->builder()
+#2 C:\Ampps\www\maintex\app\Models\SuiviEquipement.php(38): CodeIgniter\Model->__get('request')
+#3 C:\Ampps\www\maintex\app\Controllers\Suivi_equipement.php(57): App\Models\SuiviEquipement->meterupdate_datatable_data(NULL, NULL, 'd')
+#4 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Suivi_equipement->datatable_meterupdate()
+#5 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Suivi_equipement))
+#6 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2022-05-04 06:53:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-05-04 06:53:58 --> You must set the database table to be used with your query.
+#0 C:\Ampps\www\maintex\system\Model.php(545): CodeIgniter\Database\BaseConnection->table(NULL)
+#1 C:\Ampps\www\maintex\system\Model.php(693): CodeIgniter\Model->builder()
+#2 C:\Ampps\www\maintex\app\Models\SuiviEquipement.php(38): CodeIgniter\Model->__get('request')
+#3 C:\Ampps\www\maintex\app\Controllers\Suivi_equipement.php(57): App\Models\SuiviEquipement->meterupdate_datatable_data(NULL, NULL, 'dd')
+#4 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Suivi_equipement->datatable_meterupdate()
+#5 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Suivi_equipement))
+#6 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2022-05-04 07:00:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 07:00:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-05-04 07:00:25 --> You must set the database table to be used with your query.
+#0 C:\Ampps\www\maintex\system\Model.php(545): CodeIgniter\Database\BaseConnection->table(NULL)
+#1 C:\Ampps\www\maintex\system\Model.php(693): CodeIgniter\Model->builder()
+#2 C:\Ampps\www\maintex\app\Models\SuiviEquipement.php(38): CodeIgniter\Model->__get('request')
+#3 C:\Ampps\www\maintex\app\Controllers\Suivi_equipement.php(53): App\Models\SuiviEquipement->meterupdate_datatable_data()
+#4 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Suivi_equipement->datatable_meterupdate()
+#5 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Suivi_equipement))
+#6 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2022-05-04 07:00:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 07:00:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 07:00:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 07:00:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 07:00:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 07:00:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 07:00:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 07:00:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 07:00:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 07:00:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 07:00:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-05-04 07:00:48 --> You must set the database table to be used with your query.
+#0 C:\Ampps\www\maintex\system\Model.php(545): CodeIgniter\Database\BaseConnection->table(NULL)
+#1 C:\Ampps\www\maintex\system\Model.php(693): CodeIgniter\Model->builder()
+#2 C:\Ampps\www\maintex\app\Models\SuiviEquipement.php(38): CodeIgniter\Model->__get('request')
+#3 C:\Ampps\www\maintex\app\Controllers\Suivi_equipement.php(53): App\Models\SuiviEquipement->meterupdate_datatable_data()
+#4 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Suivi_equipement->datatable_meterupdate()
+#5 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Suivi_equipement))
+#6 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2022-05-04 07:02:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 07:02:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-05-04 07:02:09 --> You must set the database table to be used with your query.
+#0 C:\Ampps\www\maintex\system\Model.php(545): CodeIgniter\Database\BaseConnection->table(NULL)
+#1 C:\Ampps\www\maintex\system\Model.php(693): CodeIgniter\Model->builder()
+#2 C:\Ampps\www\maintex\app\Models\SuiviEquipement.php(38): CodeIgniter\Model->__get('request')
+#3 C:\Ampps\www\maintex\app\Controllers\Suivi_equipement.php(53): App\Models\SuiviEquipement->meterupdate_datatable_data()
+#4 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Suivi_equipement->datatable_meterupdate()
+#5 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Suivi_equipement))
+#6 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2022-05-04 07:03:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-05-04 07:03:29 --> You must set the database table to be used with your query.
+#0 C:\Ampps\www\maintex\system\Model.php(545): CodeIgniter\Database\BaseConnection->table(NULL)
+#1 C:\Ampps\www\maintex\system\Model.php(693): CodeIgniter\Model->builder()
+#2 C:\Ampps\www\maintex\app\Models\SuiviEquipement.php(38): CodeIgniter\Model->__get('request')
+#3 C:\Ampps\www\maintex\app\Controllers\Suivi_equipement.php(57): App\Models\SuiviEquipement->meterupdate_datatable_data(NULL, NULL, 'd')
+#4 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Suivi_equipement->datatable_meterupdate()
+#5 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Suivi_equipement))
+#6 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2022-05-04 07:06:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 07:06:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-05-04 07:06:55 --> You must set the database table to be used with your query.
+#0 C:\Ampps\www\maintex\system\Model.php(545): CodeIgniter\Database\BaseConnection->table(NULL)
+#1 C:\Ampps\www\maintex\system\Model.php(693): CodeIgniter\Model->builder()
+#2 C:\Ampps\www\maintex\app\Models\SuiviEquipement.php(38): CodeIgniter\Model->__get('request')
+#3 C:\Ampps\www\maintex\app\Controllers\Suivi_equipement.php(53): App\Models\SuiviEquipement->meterupdate_datatable_data()
+#4 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Suivi_equipement->datatable_meterupdate()
+#5 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Suivi_equipement))
+#6 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2022-05-04 07:07:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-05-04 07:07:00 --> You must set the database table to be used with your query.
+#0 C:\Ampps\www\maintex\system\Model.php(545): CodeIgniter\Database\BaseConnection->table(NULL)
+#1 C:\Ampps\www\maintex\system\Model.php(693): CodeIgniter\Model->builder()
+#2 C:\Ampps\www\maintex\app\Models\SuiviEquipement.php(38): CodeIgniter\Model->__get('request')
+#3 C:\Ampps\www\maintex\app\Controllers\Suivi_equipement.php(57): App\Models\SuiviEquipement->meterupdate_datatable_data(NULL, NULL, 'd')
+#4 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Suivi_equipement->datatable_meterupdate()
+#5 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Suivi_equipement))
+#6 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2022-05-04 07:08:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-05-04 07:08:04 --> You must set the database table to be used with your query.
+#0 C:\Ampps\www\maintex\system\Model.php(545): CodeIgniter\Database\BaseConnection->table(NULL)
+#1 C:\Ampps\www\maintex\system\Model.php(693): CodeIgniter\Model->builder()
+#2 C:\Ampps\www\maintex\app\Models\SuiviEquipement.php(39): CodeIgniter\Model->__get('request')
+#3 C:\Ampps\www\maintex\app\Controllers\Suivi_equipement.php(53): App\Models\SuiviEquipement->meterupdate_datatable_data()
+#4 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Suivi_equipement->datatable_meterupdate()
+#5 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Suivi_equipement))
+#6 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2022-05-04 07:08:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 07:08:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 07:08:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 07:09:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 07:09:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 07:09:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-05-04 07:09:52 --> You must set the database table to be used with your query.
+#0 C:\Ampps\www\maintex\system\Model.php(545): CodeIgniter\Database\BaseConnection->table(NULL)
+#1 C:\Ampps\www\maintex\system\Model.php(693): CodeIgniter\Model->builder()
+#2 C:\Ampps\www\maintex\app\Models\SuiviEquipement.php(39): CodeIgniter\Model->__get('request')
+#3 C:\Ampps\www\maintex\app\Controllers\Suivi_equipement.php(57): App\Models\SuiviEquipement->meterupdate_datatable_data(NULL, NULL, 'd')
+#4 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Suivi_equipement->datatable_meterupdate()
+#5 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Suivi_equipement))
+#6 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2022-05-04 07:09:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-05-04 07:09:55 --> You must set the database table to be used with your query.
+#0 C:\Ampps\www\maintex\system\Model.php(545): CodeIgniter\Database\BaseConnection->table(NULL)
+#1 C:\Ampps\www\maintex\system\Model.php(693): CodeIgniter\Model->builder()
+#2 C:\Ampps\www\maintex\app\Models\SuiviEquipement.php(39): CodeIgniter\Model->__get('request')
+#3 C:\Ampps\www\maintex\app\Controllers\Suivi_equipement.php(53): App\Models\SuiviEquipement->meterupdate_datatable_data()
+#4 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Suivi_equipement->datatable_meterupdate()
+#5 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Suivi_equipement))
+#6 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2022-05-04 07:10:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 07:10:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-05-04 07:10:28 --> You must set the database table to be used with your query.
+#0 C:\Ampps\www\maintex\system\Model.php(545): CodeIgniter\Database\BaseConnection->table(NULL)
+#1 C:\Ampps\www\maintex\system\Model.php(693): CodeIgniter\Model->builder()
+#2 C:\Ampps\www\maintex\app\Models\SuiviEquipement.php(39): CodeIgniter\Model->__get('request')
+#3 C:\Ampps\www\maintex\app\Controllers\Suivi_equipement.php(57): App\Models\SuiviEquipement->meterupdate_datatable_data(NULL, NULL, 'dd')
+#4 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Suivi_equipement->datatable_meterupdate()
+#5 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Suivi_equipement))
+#6 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2022-05-04 07:11:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-05-04 07:11:19 --> You must set the database table to be used with your query.
+#0 C:\Ampps\www\maintex\system\Model.php(545): CodeIgniter\Database\BaseConnection->table(NULL)
+#1 C:\Ampps\www\maintex\system\Model.php(693): CodeIgniter\Model->builder()
+#2 C:\Ampps\www\maintex\app\Models\SuiviEquipement.php(39): CodeIgniter\Model->__get('request')
+#3 C:\Ampps\www\maintex\app\Controllers\Suivi_equipement.php(57): App\Models\SuiviEquipement->meterupdate_datatable_data(NULL, NULL, 'ddd')
+#4 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Suivi_equipement->datatable_meterupdate()
+#5 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Suivi_equipement))
+#6 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2022-05-04 07:11:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 07:12:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-05-04 07:12:40 --> You must set the database table to be used with your query.
+#0 C:\Ampps\www\maintex\system\Model.php(545): CodeIgniter\Database\BaseConnection->table(NULL)
+#1 C:\Ampps\www\maintex\system\Model.php(693): CodeIgniter\Model->builder()
+#2 C:\Ampps\www\maintex\app\Models\SuiviEquipement.php(39): CodeIgniter\Model->__get('request')
+#3 C:\Ampps\www\maintex\app\Controllers\Suivi_equipement.php(57): App\Models\SuiviEquipement->meterupdate_datatable_data(NULL, NULL, 'd')
+#4 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Suivi_equipement->datatable_meterupdate()
+#5 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Suivi_equipement))
+#6 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2022-05-04 07:13:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-05-04 07:13:18 --> You must set the database table to be used with your query.
+#0 C:\Ampps\www\maintex\system\Model.php(545): CodeIgniter\Database\BaseConnection->table(NULL)
+#1 C:\Ampps\www\maintex\system\Model.php(693): CodeIgniter\Model->builder()
+#2 C:\Ampps\www\maintex\app\Models\SuiviEquipement.php(39): CodeIgniter\Model->__get('request')
+#3 C:\Ampps\www\maintex\app\Controllers\Suivi_equipement.php(53): App\Models\SuiviEquipement->meterupdate_datatable_data()
+#4 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Suivi_equipement->datatable_meterupdate()
+#5 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Suivi_equipement))
+#6 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2022-05-04 07:13:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 07:13:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2022-05-04 07:13:56 --> Unknown column 'eequipment.equip_designation' in 'where clause'
+CRITICAL - 2022-05-04 07:13:56 --> Unknown column 'eequipment.equip_designation' in 'where clause'
+#0 C:\Ampps\www\maintex\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT `meter_u...', 0)
+#1 C:\Ampps\www\maintex\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `meter_u...')
+#2 C:\Ampps\www\maintex\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `meter_u...')
+#3 C:\Ampps\www\maintex\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT `meter_u...', Array, false)
+#4 C:\Ampps\www\maintex\app\Models\SuiviEquipement.php(40): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\Ampps\www\maintex\app\Controllers\Suivi_equipement.php(57): App\Models\SuiviEquipement->meterupdate_datatable_data(NULL, NULL, 'dd')
+#6 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Suivi_equipement->datatable_meterupdate()
+#7 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Suivi_equipement))
+#8 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2022-05-04 07:14:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-05-04 07:14:35 --> You must set the database table to be used with your query.
+#0 C:\Ampps\www\maintex\system\Model.php(545): CodeIgniter\Database\BaseConnection->table(NULL)
+#1 C:\Ampps\www\maintex\system\Model.php(693): CodeIgniter\Model->builder()
+#2 C:\Ampps\www\maintex\app\Models\SuiviEquipement.php(39): CodeIgniter\Model->__get('request')
+#3 C:\Ampps\www\maintex\app\Controllers\Suivi_equipement.php(57): App\Models\SuiviEquipement->meterupdate_datatable_data(NULL, NULL, 'ddd')
+#4 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Suivi_equipement->datatable_meterupdate()
+#5 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Suivi_equipement))
+#6 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2022-05-04 07:35:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-05-04 07:35:46 --> You must set the database table to be used with your query.
+#0 C:\Ampps\www\maintex\system\Model.php(545): CodeIgniter\Database\BaseConnection->table(NULL)
+#1 C:\Ampps\www\maintex\system\Model.php(693): CodeIgniter\Model->builder()
+#2 C:\Ampps\www\maintex\app\Models\SuiviEquipement.php(17): CodeIgniter\Model->__get('request')
+#3 C:\Ampps\www\maintex\app\Controllers\Suivi_equipement.php(57): App\Models\SuiviEquipement->meterupdate_datatable_data(NULL, NULL, 'dddd')
+#4 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Suivi_equipement->datatable_meterupdate()
+#5 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Suivi_equipement))
+#6 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2022-05-04 07:35:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-05-04 07:35:55 --> You must set the database table to be used with your query.
+#0 C:\Ampps\www\maintex\system\Model.php(545): CodeIgniter\Database\BaseConnection->table(NULL)
+#1 C:\Ampps\www\maintex\system\Model.php(693): CodeIgniter\Model->builder()
+#2 C:\Ampps\www\maintex\app\Models\SuiviEquipement.php(17): CodeIgniter\Model->__get('request')
+#3 C:\Ampps\www\maintex\app\Controllers\Suivi_equipement.php(57): App\Models\SuiviEquipement->meterupdate_datatable_data(NULL, NULL, 'ddddd')
+#4 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Suivi_equipement->datatable_meterupdate()
+#5 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Suivi_equipement))
+#6 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2022-05-04 07:36:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 07:36:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-05-04 07:36:51 --> You must set the database table to be used with your query.
+#0 C:\Ampps\www\maintex\system\Model.php(545): CodeIgniter\Database\BaseConnection->table(NULL)
+#1 C:\Ampps\www\maintex\system\Model.php(693): CodeIgniter\Model->builder()
+#2 C:\Ampps\www\maintex\app\Models\SuiviEquipement.php(17): CodeIgniter\Model->__get('request')
+#3 C:\Ampps\www\maintex\app\Controllers\Suivi_equipement.php(57): App\Models\SuiviEquipement->meterupdate_datatable_data(NULL, NULL, 'ddddddd')
+#4 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Suivi_equipement->datatable_meterupdate()
+#5 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Suivi_equipement))
+#6 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2022-05-04 07:38:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-05-04 07:38:22 --> You must set the database table to be used with your query.
+#0 C:\Ampps\www\maintex\system\Model.php(545): CodeIgniter\Database\BaseConnection->table(NULL)
+#1 C:\Ampps\www\maintex\system\Model.php(693): CodeIgniter\Model->builder()
+#2 C:\Ampps\www\maintex\app\Models\SuiviEquipement.php(17): CodeIgniter\Model->__get('request')
+#3 C:\Ampps\www\maintex\app\Controllers\Suivi_equipement.php(57): App\Models\SuiviEquipement->meterupdate_datatable_data(NULL, NULL, 'ddddddde')
+#4 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Suivi_equipement->datatable_meterupdate()
+#5 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Suivi_equipement))
+#6 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2022-05-04 07:38:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-05-04 07:38:42 --> Undefined variable: request
+#0 C:\Ampps\www\maintex\app\Models\SuiviEquipement.php(17): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\Ampps\\www\\ma...', 17, Array)
+#1 C:\Ampps\www\maintex\app\Controllers\Suivi_equipement.php(57): App\Models\SuiviEquipement->meterupdate_datatable_data(NULL, NULL, 'ddddddded')
+#2 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Suivi_equipement->datatable_meterupdate()
+#3 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Suivi_equipement))
+#4 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+<<<<<<< HEAD
+INFO - 2022-05-04 10:47:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 10:47:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 10:47:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 10:47:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 10:47:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 10:47:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 10:47:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 10:47:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 10:47:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 10:47:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 10:47:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 10:47:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 10:48:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 10:48:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 10:48:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 10:48:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 10:48:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 10:48:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 10:48:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 10:48:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 10:48:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 10:49:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 10:49:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-05-04 10:49:31 --> Undefined variable: request
+#0 C:\Ampps\www\maintex\app\Models\SuiviEquipement.php(17): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\Ampps\\www\\ma...', 17, Array)
+#1 C:\Ampps\www\maintex\app\Controllers\Suivi_equipement.php(53): App\Models\SuiviEquipement->meterupdate_datatable_data()
+#2 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Suivi_equipement->datatable_meterupdate()
+#3 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Suivi_equipement))
+#4 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+INFO - 2022-05-04 11:16:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-05-04 11:16:07 --> Undefined index: something
+#0 C:\Ampps\www\maintex\app\Models\SuiviEquipement.php(17): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\Ampps\\www\\ma...', 17, Array)
+#1 C:\Ampps\www\maintex\app\Controllers\Suivi_equipement.php(57): App\Models\SuiviEquipement->meterupdate_datatable_data(NULL, NULL, 'd')
+#2 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Suivi_equipement->datatable_meterupdate()
+#3 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Suivi_equipement))
+#4 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+INFO - 2022-05-04 11:16:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 11:44:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-05-04 11:44:21 --> You must set the database table to be used with your query.
+#0 C:\Ampps\www\maintex\system\Model.php(545): CodeIgniter\Database\BaseConnection->table(NULL)
+#1 C:\Ampps\www\maintex\system\Model.php(693): CodeIgniter\Model->builder()
+#2 C:\Ampps\www\maintex\app\Models\SuiviEquipement.php(55): CodeIgniter\Model->__get('format_date')
+#3 C:\Ampps\www\maintex\app\Controllers\Suivi_equipement.php(57): App\Models\SuiviEquipement->meterupdate_datatable_data(NULL, NULL, 'ddd')
+#4 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Suivi_equipement->datatable_meterupdate()
+#5 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Suivi_equipement))
+#6 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2022-05-04 11:44:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-05-04 11:44:42 --> You must set the database table to be used with your query.
+#0 C:\Ampps\www\maintex\system\Model.php(545): CodeIgniter\Database\BaseConnection->table(NULL)
+#1 C:\Ampps\www\maintex\system\Model.php(693): CodeIgniter\Model->builder()
+#2 C:\Ampps\www\maintex\app\Models\SuiviEquipement.php(55): CodeIgniter\Model->__get('format_date')
+#3 C:\Ampps\www\maintex\app\Controllers\Suivi_equipement.php(57): App\Models\SuiviEquipement->meterupdate_datatable_data(NULL, NULL, 'dddd')
+#4 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Suivi_equipement->datatable_meterupdate()
+#5 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Suivi_equipement))
+#6 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2022-05-04 11:48:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2022-05-04 11:48:01 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IS NULL
+ORDER BY `meter_update`.`meter_update_id` DESC' at line 11
+CRITICAL - 2022-05-04 11:48:01 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IS NULL
+ORDER BY `meter_update`.`meter_update_id` DESC' at line 11
+#0 C:\Ampps\www\maintex\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT `meter_u...', 0)
+#1 C:\Ampps\www\maintex\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `meter_u...')
+#2 C:\Ampps\www\maintex\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `meter_u...')
+#3 C:\Ampps\www\maintex\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT `meter_u...', Array, false)
+#4 C:\Ampps\www\maintex\app\Models\SuiviEquipement.php(49): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\Ampps\www\maintex\app\Controllers\Suivi_equipement.php(57): App\Models\SuiviEquipement->meterupdate_datatable_data(NULL, NULL, 'ddddd')
+#6 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Suivi_equipement->datatable_meterupdate()
+#7 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Suivi_equipement))
+#8 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2022-05-04 11:49:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 11:49:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 11:49:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2022-05-04 11:49:59 --> Unknown column 'equipment.designation' in 'order clause'
+CRITICAL - 2022-05-04 11:49:59 --> Unknown column 'equipment.designation' in 'order clause'
+#0 C:\Ampps\www\maintex\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT `meter_u...', 0)
+#1 C:\Ampps\www\maintex\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `meter_u...')
+#2 C:\Ampps\www\maintex\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `meter_u...')
+#3 C:\Ampps\www\maintex\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT `meter_u...', Array, false)
+#4 C:\Ampps\www\maintex\app\Models\SuiviEquipement.php(49): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\Ampps\www\maintex\app\Controllers\Suivi_equipement.php(54): App\Models\SuiviEquipement->meterupdate_datatable_data(Array, 10, 0, '', 'equipment.desig...')
+#6 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Suivi_equipement->datatable_meterupdate()
+#7 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Suivi_equipement))
+#8 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2022-05-04 11:50:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2022-05-04 11:50:02 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IS NULL
+ORDER BY `meter_update`.`meter_update_id` DESC' at line 11
+CRITICAL - 2022-05-04 11:50:02 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IS NULL
+ORDER BY `meter_update`.`meter_update_id` DESC' at line 11
+#0 C:\Ampps\www\maintex\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT `meter_u...', 0)
+#1 C:\Ampps\www\maintex\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `meter_u...')
+#2 C:\Ampps\www\maintex\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `meter_u...')
+#3 C:\Ampps\www\maintex\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT `meter_u...', Array, false)
+#4 C:\Ampps\www\maintex\app\Models\SuiviEquipement.php(49): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\Ampps\www\maintex\app\Controllers\Suivi_equipement.php(57): App\Models\SuiviEquipement->meterupdate_datatable_data(NULL, NULL, 'd')
+#6 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Suivi_equipement->datatable_meterupdate()
+#7 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Suivi_equipement))
+#8 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2022-05-04 11:50:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2022-05-04 11:50:06 --> Unknown column 'equipment.designation' in 'order clause'
+CRITICAL - 2022-05-04 11:50:06 --> Unknown column 'equipment.designation' in 'order clause'
+#0 C:\Ampps\www\maintex\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT `meter_u...', 0)
+#1 C:\Ampps\www\maintex\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `meter_u...')
+#2 C:\Ampps\www\maintex\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `meter_u...')
+#3 C:\Ampps\www\maintex\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT `meter_u...', Array, false)
+#4 C:\Ampps\www\maintex\app\Models\SuiviEquipement.php(49): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\Ampps\www\maintex\app\Controllers\Suivi_equipement.php(54): App\Models\SuiviEquipement->meterupdate_datatable_data(Array, 10, 0, '', 'equipment.desig...')
+#6 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Suivi_equipement->datatable_meterupdate()
+#7 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Suivi_equipement))
+#8 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2022-05-04 11:50:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2022-05-04 11:50:09 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IS NULL
+ORDER BY `meter_update`.`meter_update_id` DESC' at line 11
+CRITICAL - 2022-05-04 11:50:09 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IS NULL
+ORDER BY `meter_update`.`meter_update_id` DESC' at line 11
+#0 C:\Ampps\www\maintex\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT `meter_u...', 0)
+#1 C:\Ampps\www\maintex\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `meter_u...')
+#2 C:\Ampps\www\maintex\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `meter_u...')
+#3 C:\Ampps\www\maintex\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT `meter_u...', Array, false)
+#4 C:\Ampps\www\maintex\app\Models\SuiviEquipement.php(49): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\Ampps\www\maintex\app\Controllers\Suivi_equipement.php(57): App\Models\SuiviEquipement->meterupdate_datatable_data(NULL, NULL, 'd')
+#6 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Suivi_equipement->datatable_meterupdate()
+#7 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Suivi_equipement))
+#8 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2022-05-04 12:46:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2022-05-04 12:46:21 --> Unknown column 'equipment.designation' in 'order clause'
+CRITICAL - 2022-05-04 12:46:21 --> Unknown column 'equipment.designation' in 'order clause'
+#0 C:\Ampps\www\maintex\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT `meter_u...', 0)
+#1 C:\Ampps\www\maintex\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `meter_u...')
+#2 C:\Ampps\www\maintex\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `meter_u...')
+#3 C:\Ampps\www\maintex\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT `meter_u...', Array, false)
+#4 C:\Ampps\www\maintex\app\Models\SuiviEquipement.php(49): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\Ampps\www\maintex\app\Controllers\Suivi_equipement.php(54): App\Models\SuiviEquipement->meterupdate_datatable_data(Array, 10, 0, '', 'equipment.desig...')
+#6 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Suivi_equipement->datatable_meterupdate()
+#7 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Suivi_equipement))
+#8 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2022-05-04 12:46:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 12:46:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 12:46:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2022-05-04 12:46:35 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IS NULL
+ORDER BY `meter_update`.`meter_update_id` DESC' at line 11
+CRITICAL - 2022-05-04 12:46:35 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IS NULL
+ORDER BY `meter_update`.`meter_update_id` DESC' at line 11
+#0 C:\Ampps\www\maintex\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT `meter_u...', 0)
+#1 C:\Ampps\www\maintex\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `meter_u...')
+#2 C:\Ampps\www\maintex\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `meter_u...')
+#3 C:\Ampps\www\maintex\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT `meter_u...', Array, false)
+#4 C:\Ampps\www\maintex\app\Models\SuiviEquipement.php(49): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\Ampps\www\maintex\app\Controllers\Suivi_equipement.php(57): App\Models\SuiviEquipement->meterupdate_datatable_data(NULL, NULL, 'f')
+#6 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Suivi_equipement->datatable_meterupdate()
+#7 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Suivi_equipement))
+#8 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2022-05-04 12:50:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 12:50:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 12:50:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 12:51:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 12:51:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 12:51:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 12:51:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 12:51:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 12:51:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 12:51:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 12:53:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2022-05-04 12:53:50 --> Table 'maintex_v3.meter_update&' doesn't exist
+CRITICAL - 2022-05-04 12:53:50 --> Table 'maintex_v3.meter_update&' doesn't exist
+#0 C:\Ampps\www\maintex\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT `meter_u...', 0)
+#1 C:\Ampps\www\maintex\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `meter_u...')
+#2 C:\Ampps\www\maintex\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `meter_u...')
+#3 C:\Ampps\www\maintex\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT `meter_u...', Array, false)
+#4 C:\Ampps\www\maintex\app\Models\SuiviEquipement.php(49): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\Ampps\www\maintex\app\Controllers\Suivi_equipement.php(57): App\Models\SuiviEquipement->meterupdate_datatable_data(Array, NULL, NULL, 'd')
+#6 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Suivi_equipement->datatable_meterupdate()
+#7 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Suivi_equipement))
+#8 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2022-05-04 12:53:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2022-05-04 12:53:57 --> Table 'maintex_v3.meter_update&' doesn't exist
+CRITICAL - 2022-05-04 12:53:57 --> Table 'maintex_v3.meter_update&' doesn't exist
+#0 C:\Ampps\www\maintex\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT `meter_u...', 0)
+#1 C:\Ampps\www\maintex\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `meter_u...')
+#2 C:\Ampps\www\maintex\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `meter_u...')
+#3 C:\Ampps\www\maintex\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT `meter_u...', Array, false)
+#4 C:\Ampps\www\maintex\app\Models\SuiviEquipement.php(49): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\Ampps\www\maintex\app\Controllers\Suivi_equipement.php(53): App\Models\SuiviEquipement->meterupdate_datatable_data(Array)
+#6 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Suivi_equipement->datatable_meterupdate()
+#7 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Suivi_equipement))
+#8 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2022-05-04 13:01:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-05-04 13:01:06 --> Undefined property: stdClass::$id
+#0 C:\Ampps\www\maintex\app\Controllers\Suivi_equipement.php(70): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\Ampps\\www\\ma...', 70, Array)
+#1 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Suivi_equipement->datatable_meterupdate()
+#2 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Suivi_equipement))
+#3 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2022-05-04 13:01:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-05-04 13:01:09 --> Undefined property: stdClass::$id
+#0 C:\Ampps\www\maintex\app\Controllers\Suivi_equipement.php(70): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\Ampps\\www\\ma...', 70, Array)
+#1 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Suivi_equipement->datatable_meterupdate()
+#2 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Suivi_equipement))
+#3 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2022-05-04 13:01:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 13:02:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 13:08:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 13:08:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 13:08:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 13:08:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 13:09:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 13:09:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 13:09:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-05-04 13:09:06 --> Undefined property: stdClass::$id
+#0 C:\Ampps\www\maintex\app\Controllers\Suivi_equipement.php(70): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\Ampps\\www\\ma...', 70, Array)
+#1 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Suivi_equipement->datatable_meterupdate()
+#2 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Suivi_equipement))
+#3 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2022-05-04 13:09:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 13:09:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 13:09:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-05-04 13:09:32 --> Undefined property: stdClass::$id
+#0 C:\Ampps\www\maintex\app\Controllers\Suivi_equipement.php(70): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\Ampps\\www\\ma...', 70, Array)
+#1 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Suivi_equipement->datatable_meterupdate()
+#2 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Suivi_equipement))
+#3 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2022-05-04 13:09:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-05-04 13:09:41 --> Undefined property: stdClass::$id
+#0 C:\Ampps\www\maintex\app\Controllers\Suivi_equipement.php(70): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\Ampps\\www\\ma...', 70, Array)
+#1 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Suivi_equipement->datatable_meterupdate()
+#2 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Suivi_equipement))
+#3 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2022-05-04 13:09:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-05-04 13:09:48 --> Undefined property: stdClass::$id
+#0 C:\Ampps\www\maintex\app\Controllers\Suivi_equipement.php(70): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\Ampps\\www\\ma...', 70, Array)
+#1 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Suivi_equipement->datatable_meterupdate()
+#2 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Suivi_equipement))
+#3 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2022-05-04 13:12:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-05-04 13:12:01 --> Undefined property: stdClass::$new_value
+#0 C:\Ampps\www\maintex\app\Controllers\Suivi_equipement.php(77): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\Ampps\\www\\ma...', 77, Array)
+#1 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Suivi_equipement->datatable_meterupdate()
+#2 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Suivi_equipement))
+#3 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2022-05-04 13:14:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-05-04 13:14:37 --> Undefined property: App\Controllers\Suivi_equipement::$lang
+#0 C:\Ampps\www\maintex\app\Controllers\Suivi_equipement.php(83): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\Ampps\\www\\ma...', 83, Array)
+#1 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Suivi_equipement->datatable_meterupdate()
+#2 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Suivi_equipement))
+#3 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2022-05-04 13:15:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 13:17:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 13:17:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 13:17:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 13:17:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 13:17:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 13:18:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 13:18:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 13:19:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 13:19:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 13:21:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-05-04 13:21:10 --> Undefined property: stdClass::$id
+#0 C:\Ampps\www\maintex\app\Views\suivi_equipement\transfert_equipement.php(259): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\Ampps\\www\\ma...', 259, Array)
+#1 C:\Ampps\www\maintex\system\View\View.php(210): include('C:\\Ampps\\www\\ma...')
+#2 C:\Ampps\www\maintex\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\Ampps\www\maintex\system\Common.php(1089): CodeIgniter\View\View->render('suivi_equipemen...', Array, true)
+#4 C:\Ampps\www\maintex\app\Controllers\BaseController.php(173): view('suivi_equipemen...', Array)
+#5 C:\Ampps\www\maintex\app\Controllers\Suivi_equipement.php(175): App\Controllers\BaseController->load_view('suivi_equipemen...', Array)
+#6 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Suivi_equipement->transfert_equipement()
+#7 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Suivi_equipement))
+#8 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2022-05-04 13:21:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-05-04 13:21:13 --> Undefined property: stdClass::$id
+#0 C:\Ampps\www\maintex\app\Views\suivi_equipement\transfert_component.php(259): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\Ampps\\www\\ma...', 259, Array)
+#1 C:\Ampps\www\maintex\system\View\View.php(210): include('C:\\Ampps\\www\\ma...')
+#2 C:\Ampps\www\maintex\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\Ampps\www\maintex\system\Common.php(1089): CodeIgniter\View\View->render('suivi_equipemen...', Array, true)
+#4 C:\Ampps\www\maintex\app\Controllers\BaseController.php(173): view('suivi_equipemen...', Array)
+#5 C:\Ampps\www\maintex\app\Controllers\Suivi_equipement.php(191): App\Controllers\BaseController->load_view('suivi_equipemen...', Array)
+#6 C:\Ampps\www\maintex\system\CodeIgniter.php(832): App\Controllers\Suivi_equipement->transfert_component()
+#7 C:\Ampps\www\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Suivi_equipement))
+#8 C:\Ampps\www\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\Ampps\www\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2022-05-04 13:21:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 13:21:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 13:21:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 13:21:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 13:21:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 13:21:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 13:24:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 13:24:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+=======
+>>>>>>> 90777b98c9709980982082ac4c044ed76c2b9820
+<<<<<<< HEAD
+INFO - 2022-05-04 10:55:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 10:55:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 10:55:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 10:55:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 10:55:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 10:55:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 10:55:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 10:55:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 10:55:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 10:55:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 10:55:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 10:55:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 10:56:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 10:56:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 10:57:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 10:58:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 11:30:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 11:31:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 11:31:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2022-05-04 11:31:02 --> Unknown column 'assets' in 'on clause'
+CRITICAL - 2022-05-04 11:31:02 --> Unknown column 'assets' in 'on clause'
+#0 C:\xampp\htdocs\maintex\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT `qualifi...', 0)
+#1 C:\xampp\htdocs\maintex\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `qualifi...')
+#2 C:\xampp\htdocs\maintex\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `qualifi...')
+#3 C:\xampp\htdocs\maintex\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT `qualifi...', Array, false)
+#4 C:\xampp\htdocs\maintex\app\Models\Actors\MemberModel.php(40): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\maintex\app\Controllers\actors\Member.php(43): App\Models\Actors\MemberModel->fetch_table_member_qualification('assets')
+#6 C:\xampp\htdocs\maintex\system\CodeIgniter.php(832): App\Controllers\actors\Member->member_edit('assets', 'media', 'users', 'blank.png')
+#7 C:\xampp\htdocs\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\actors\Member))
+#8 C:\xampp\htdocs\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2022-05-04 11:31:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 11:45:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 11:45:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 12:11:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 12:11:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 12:12:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 12:12:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 12:22:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 12:22:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 12:24:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 12:24:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 12:25:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 12:25:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 12:32:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 12:32:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 12:34:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 12:34:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 12:44:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 12:44:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 12:44:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 12:46:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 12:48:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 12:48:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 12:49:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 12:49:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 13:16:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 13:16:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 13:16:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2022-05-04 13:16:58 --> Unknown column 'assets' in 'on clause'
+CRITICAL - 2022-05-04 13:16:58 --> Unknown column 'assets' in 'on clause'
+#0 C:\xampp\htdocs\maintex\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT `qualifi...', 0)
+#1 C:\xampp\htdocs\maintex\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `qualifi...')
+#2 C:\xampp\htdocs\maintex\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `qualifi...')
+#3 C:\xampp\htdocs\maintex\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT `qualifi...', Array, false)
+#4 C:\xampp\htdocs\maintex\app\Models\Actors\MemberModel.php(40): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\maintex\app\Controllers\actors\Member.php(45): App\Models\Actors\MemberModel->fetch_table_member_qualification('assets')
+#6 C:\xampp\htdocs\maintex\system\CodeIgniter.php(832): App\Controllers\actors\Member->member_edit('assets', 'media', 'users', 'blank.png')
+#7 C:\xampp\htdocs\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\actors\Member))
+#8 C:\xampp\htdocs\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2022-05-04 13:19:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 13:19:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2022-05-04 13:19:40 --> Unknown column 'assets' in 'on clause'
+CRITICAL - 2022-05-04 13:19:40 --> Unknown column 'assets' in 'on clause'
+#0 C:\xampp\htdocs\maintex\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT `qualifi...', 0)
+#1 C:\xampp\htdocs\maintex\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `qualifi...')
+#2 C:\xampp\htdocs\maintex\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `qualifi...')
+#3 C:\xampp\htdocs\maintex\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT `qualifi...', Array, false)
+#4 C:\xampp\htdocs\maintex\app\Models\Actors\MemberModel.php(40): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\maintex\app\Controllers\actors\Member.php(45): App\Models\Actors\MemberModel->fetch_table_member_qualification('assets')
+#6 C:\xampp\htdocs\maintex\system\CodeIgniter.php(832): App\Controllers\actors\Member->member_edit('assets', 'media', 'users', 'blank.png')
+#7 C:\xampp\htdocs\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\actors\Member))
+#8 C:\xampp\htdocs\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2022-05-04 13:19:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 13:19:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 13:19:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2022-05-04 13:19:57 --> Unknown column 'assets' in 'on clause'
+CRITICAL - 2022-05-04 13:19:57 --> Unknown column 'assets' in 'on clause'
+#0 C:\xampp\htdocs\maintex\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT `qualifi...', 0)
+#1 C:\xampp\htdocs\maintex\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `qualifi...')
+#2 C:\xampp\htdocs\maintex\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `qualifi...')
+#3 C:\xampp\htdocs\maintex\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT `qualifi...', Array, false)
+#4 C:\xampp\htdocs\maintex\app\Models\Actors\MemberModel.php(40): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\maintex\app\Controllers\actors\Member.php(45): App\Models\Actors\MemberModel->fetch_table_member_qualification('assets')
+#6 C:\xampp\htdocs\maintex\system\CodeIgniter.php(832): App\Controllers\actors\Member->member_edit('assets', 'media', 'users', 'blank.png')
+#7 C:\xampp\htdocs\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\actors\Member))
+#8 C:\xampp\htdocs\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2022-05-04 13:21:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 13:21:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2022-05-04 13:21:05 --> Unknown column 'assets' in 'on clause'
+CRITICAL - 2022-05-04 13:21:05 --> Unknown column 'assets' in 'on clause'
+#0 C:\xampp\htdocs\maintex\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT `qualifi...', 0)
+#1 C:\xampp\htdocs\maintex\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `qualifi...')
+#2 C:\xampp\htdocs\maintex\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `qualifi...')
+#3 C:\xampp\htdocs\maintex\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT `qualifi...', Array, false)
+#4 C:\xampp\htdocs\maintex\app\Models\Actors\MemberModel.php(40): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\maintex\app\Controllers\actors\Member.php(45): App\Models\Actors\MemberModel->fetch_table_member_qualification('assets')
+#6 C:\xampp\htdocs\maintex\system\CodeIgniter.php(832): App\Controllers\actors\Member->member_edit('assets', 'media', 'users', 'blank.png')
+#7 C:\xampp\htdocs\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\actors\Member))
+#8 C:\xampp\htdocs\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2022-05-04 13:24:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 13:24:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2022-05-04 13:24:50 --> Cannot add or update a child row: a foreign key constraint fails (`db_maintex_v3`.`member_document`, CONSTRAINT `member_doc_ibfk_document` FOREIGN KEY (`member_doc_document_id`) REFERENCES `document` (`doc_id`))
+CRITICAL - 2022-05-04 13:24:50 --> Cannot add or update a child row: a foreign key constraint fails (`db_maintex_v3`.`member_document`, CONSTRAINT `member_doc_ibfk_document` FOREIGN KEY (`member_doc_document_id`) REFERENCES `document` (`doc_id`))
+#0 C:\xampp\htdocs\maintex\system\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `me...', 0)
+#1 C:\xampp\htdocs\maintex\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `me...')
+#2 C:\xampp\htdocs\maintex\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `me...')
+#3 C:\xampp\htdocs\maintex\system\Database\BaseBuilder.php(1771): CodeIgniter\Database\BaseConnection->query('INSERT INTO `me...', Array, false)
+#4 C:\xampp\htdocs\maintex\app\Models\BaseModel.php(32): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 C:\xampp\htdocs\maintex\app\Controllers\actors\Member.php(125): App\Models\BaseModel->insert_table('member_document', Array)
+#6 C:\xampp\htdocs\maintex\system\CodeIgniter.php(832): App\Controllers\actors\Member->member_save()
+#7 C:\xampp\htdocs\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\actors\Member))
+#8 C:\xampp\htdocs\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2022-05-04 13:26:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 13:26:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2022-05-04 13:26:24 --> Unknown column 'assets' in 'on clause'
+CRITICAL - 2022-05-04 13:26:24 --> Unknown column 'assets' in 'on clause'
+#0 C:\xampp\htdocs\maintex\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT `qualifi...', 0)
+#1 C:\xampp\htdocs\maintex\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `qualifi...')
+#2 C:\xampp\htdocs\maintex\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `qualifi...')
+#3 C:\xampp\htdocs\maintex\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT `qualifi...', Array, false)
+#4 C:\xampp\htdocs\maintex\app\Models\Actors\MemberModel.php(40): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\maintex\app\Controllers\actors\Member.php(45): App\Models\Actors\MemberModel->fetch_table_member_qualification('assets')
+#6 C:\xampp\htdocs\maintex\system\CodeIgniter.php(832): App\Controllers\actors\Member->member_edit('assets', 'media', 'users', 'blank.png')
+#7 C:\xampp\htdocs\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\actors\Member))
+#8 C:\xampp\htdocs\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2022-05-04 13:26:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 13:26:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 13:35:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 13:35:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2022-05-04 13:35:28 --> Unknown column 'assets' in 'on clause'
+CRITICAL - 2022-05-04 13:35:28 --> Unknown column 'assets' in 'on clause'
+#0 C:\xampp\htdocs\maintex\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT `qualifi...', 0)
+#1 C:\xampp\htdocs\maintex\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `qualifi...')
+#2 C:\xampp\htdocs\maintex\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `qualifi...')
+#3 C:\xampp\htdocs\maintex\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT `qualifi...', Array, false)
+#4 C:\xampp\htdocs\maintex\app\Models\Actors\MemberModel.php(40): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\maintex\app\Controllers\actors\Member.php(45): App\Models\Actors\MemberModel->fetch_table_member_qualification('assets')
+#6 C:\xampp\htdocs\maintex\system\CodeIgniter.php(832): App\Controllers\actors\Member->member_edit('assets', 'media', 'users', 'blank.png')
+#7 C:\xampp\htdocs\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\actors\Member))
+#8 C:\xampp\htdocs\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2022-05-04 13:35:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 13:36:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 13:37:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-05-04 13:37:01 --> Undefined variable: id
+#0 C:\xampp\htdocs\maintex\app\Controllers\actors\Member.php(204): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 204, Array)
+#1 C:\xampp\htdocs\maintex\system\CodeIgniter.php(832): App\Controllers\actors\Member->member_update()
+#2 C:\xampp\htdocs\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\actors\Member))
+#3 C:\xampp\htdocs\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2022-05-04 13:38:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 13:38:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2022-05-04 13:38:07 --> Unknown column 'assets' in 'on clause'
+CRITICAL - 2022-05-04 13:38:07 --> Unknown column 'assets' in 'on clause'
+#0 C:\xampp\htdocs\maintex\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT `qualifi...', 0)
+#1 C:\xampp\htdocs\maintex\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `qualifi...')
+#2 C:\xampp\htdocs\maintex\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `qualifi...')
+#3 C:\xampp\htdocs\maintex\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT `qualifi...', Array, false)
+#4 C:\xampp\htdocs\maintex\app\Models\Actors\MemberModel.php(40): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\maintex\app\Controllers\actors\Member.php(45): App\Models\Actors\MemberModel->fetch_table_member_qualification('assets')
+#6 C:\xampp\htdocs\maintex\system\CodeIgniter.php(832): App\Controllers\actors\Member->member_edit('assets', 'media', 'users', 'blank.png')
+#7 C:\xampp\htdocs\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\actors\Member))
+#8 C:\xampp\htdocs\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2022-05-04 13:38:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 13:38:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 13:38:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2022-05-04 13:38:58 --> Unknown column 'assets' in 'on clause'
+CRITICAL - 2022-05-04 13:38:58 --> Unknown column 'assets' in 'on clause'
+#0 C:\xampp\htdocs\maintex\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT `qualifi...', 0)
+#1 C:\xampp\htdocs\maintex\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `qualifi...')
+#2 C:\xampp\htdocs\maintex\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `qualifi...')
+#3 C:\xampp\htdocs\maintex\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT `qualifi...', Array, false)
+#4 C:\xampp\htdocs\maintex\app\Models\Actors\MemberModel.php(40): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\maintex\app\Controllers\actors\Member.php(45): App\Models\Actors\MemberModel->fetch_table_member_qualification('assets')
+#6 C:\xampp\htdocs\maintex\system\CodeIgniter.php(832): App\Controllers\actors\Member->member_edit('assets', 'media', 'users', 'blank.png')
+#7 C:\xampp\htdocs\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\actors\Member))
+#8 C:\xampp\htdocs\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2022-05-04 13:39:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 13:39:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 13:39:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-05-04 13:39:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2022-05-04 13:39:42 --> Unknown column 'assets' in 'on clause'
+CRITICAL - 2022-05-04 13:39:42 --> Unknown column 'assets' in 'on clause'
+#0 C:\xampp\htdocs\maintex\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT `qualifi...', 0)
+#1 C:\xampp\htdocs\maintex\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `qualifi...')
+#2 C:\xampp\htdocs\maintex\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `qualifi...')
+#3 C:\xampp\htdocs\maintex\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT `qualifi...', Array, false)
+#4 C:\xampp\htdocs\maintex\app\Models\Actors\MemberModel.php(40): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\maintex\app\Controllers\actors\Member.php(45): App\Models\Actors\MemberModel->fetch_table_member_qualification('assets')
+#6 C:\xampp\htdocs\maintex\system\CodeIgniter.php(832): App\Controllers\actors\Member->member_edit('assets', 'media', 'users', 'blank.png')
+#7 C:\xampp\htdocs\maintex\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\actors\Member))
+#8 C:\xampp\htdocs\maintex\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\maintex\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+=======
+>>>>>>> 19508f42103c0f2c73689cd570d5bc036908876a
+>>>>>>> a9b5cc031b01c7f22947791e28abc3fb3983c606
